@@ -4,7 +4,7 @@ title: Schedule
 ---
 Tuesdays are often a split between class activity and discussion, thus there are often two topics on those days. Thursdays are always just discussion. Activity days when laptops are required are noted in italics.
 
-## Weeks 1 & 2: Thinking about what biodiversity means/is
+### Weeks 1 & 2: Thinking about what biodiversity means/is
 
 * August 23: Introductions. What does the word biodiversity mean to you?
 
@@ -22,7 +22,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
     * Reading:
     * Reading:
 
-## Weeks 3-6: Local-scale Biodiversity Patterns & Processes
+### Weeks 3-6: Local-scale Biodiversity Patterns & Processes
 
 * *September 6:* 
     * Discussion: Assembly Mechanisms - Biotic and Environmental Filters
@@ -57,7 +57,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
 * September 29: Biodiversity through time
     * Readings: 
 
-## Weeks 7-9: Regional-Scale Diversity Patterns & Processes
+### Weeks 7-9: Regional-Scale Diversity Patterns & Processes
 
 * October 4:  
     * Discussion: Regional Assembly - Dispersal
@@ -83,7 +83,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
 * October 20: Elevational gradients of biodiversity
     * Reading: 
 
-## Weeks 10-14 Global Biodiversity Patterns and Processes
+### Weeks 10-14 Global Biodiversity Patterns and Processes
 
 * October 25: 
     * Discussion: Biogeography
@@ -111,7 +111,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
          * Readings:
     * Class Activity: Group Projects
 
-## Weeks 14-15: Requests
+### Weeks 14-15: Requests
  
 * November 17: TBD
     * Readings:
@@ -121,7 +121,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
          * Readings:
     * Class Activity: Group Projects
 
-## Weeks 15-16: Group Presentations
+### Weeks 15-16: Group Presentations
  
 * November 29: Finish preparing for Group Presentations
 
