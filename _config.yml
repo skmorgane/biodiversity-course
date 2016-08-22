@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Morgan Ernest and Ethan White's course on Ecological Dynamics and Forecasting.
   Taught at the University of Florida in Fall 2016.
 baseurl: "/biodiversity-course" # the subpath of your site, e.g. /blog
-url: "https://weecology.github.io/forecasting-dynamics-course" # the base hostname & protocol for your site
+url: "https://skmorgane.github.io/biodiversity-course" # the base hostname & protocol for your site
 twitter_username: weecology
 github_username:  weecology
 
