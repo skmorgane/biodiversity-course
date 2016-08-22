@@ -2,11 +2,12 @@
 layout: page
 title: Schedule
 ---
-Activity days when laptops are required are noted in italics. Discussion leaders are listed below each topic.
-* August 23: Introduction.
+Activity days when laptops are required are noted in italics.
+
+* August 23: Introductions. What does the word biodiversity mean to you?
 
 * August 25: 
-    * Reading: 
+    * Reading: [Accelerated modern human-induced species losses: Entering the 6th mass extinction](https://doi.org/10.1126/sciadv.1400253 )
 
 * August 30: 
     * Reading: 
