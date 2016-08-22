@@ -11,12 +11,14 @@ Tuesdays are often a split between class activity and discussion, thus there are
 * August 25: Why are we interested in biodiversity?
     * Reading: [Accelerated modern human-induced species losses: Entering the 6th mass extinction](https://doi.org/10.1126/sciadv.1400253 )
 
+
 * *August 30:* 
     * Discussion: What is biodiversity? Pt 1 (Concept/Construct, Alpha-Beta-Gamma) 
         * Reading: What is Biodiversity? by Kevin Gaston (sent via course listserv)
         * Reading: [Inventory, differentiations, and proportional diversity for quantifying species diversity](https://doi.org/ 10.1007/s00442-008-1190-z)
     * Class Activity: Exploring Diversity Indices
         * Reading (not required): [A consistent terminology for quantifying species diversity? Yes, it does exist](https://doi.org/10.1007%2Fs00442-010-1812-0)
+
 
 * September 1: Dimensions of Biodiversity - Phylogenetic, Taxonomic, Functional
     * Reading:
@@ -30,30 +32,37 @@ Tuesdays are often a split between class activity and discussion, thus there are
          * Readings
     * Class Activity: Exploring Diversity Indices continued
 
+
 * September 8: Assembly Mechanisms - Niches/Deterministic vs. Neutral/Stochastic
     * Readings:
  
+
 * September 13: 
     * Discussion: Patterns in Taxonomic, Phylogenetic, and Functional Diversity
          * Readings: 
     * Class Activity: Structuring Introductions of Papers/Proposals and what that has to do with your Class Project
 
+
 * September 15: Patterns in Abundance and Body Size
     * Readings: 
+
 
 * September 20: 
     * Discussion: Food Webs and Networks
          * Readings:
     * Class Activity: Group Projects
  
+
  * September 22: Productivity-Diversity Debate
     * Readings: 
+
 
 * September 27:  
     * Discussion: Biodiversity-Ecosystem Function Debate
          * Readings:
     * Class Activity: Group Projects
  
+
 * September 29: Biodiversity through time
     * Readings: 
 
