@@ -120,8 +120,6 @@ Tuesdays are often a split between class activity and discussion, thus there are
          * Readings:
     * Class Activity: Group Projects
 
-### Weeks 14-15: Requests
- 
 * November 17: TBD
     * Readings:
 
@@ -134,7 +132,6 @@ Tuesdays are often a split between class activity and discussion, thus there are
  
 * November 29: Finish preparing for Group Presentations
 
- 
 * December 1: Group Presentations
 
  
