@@ -83,7 +83,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
 * October 20: Elevational gradients of biodiversity
     * Reading: 
 
-## Weeks 10-13 Global Biodiversity Patterns and Processes
+## Weeks 10-14 Global Biodiversity Patterns and Processes
 
 * October 25: 
     * Discussion: Biogeography
@@ -110,6 +110,8 @@ Tuesdays are often a split between class activity and discussion, thus there are
     * Discussion: 
          * Readings:
     * Class Activity: Group Projects
+
+## Weeks 14-15: Requests
  
 * *November 17: TBD
     * Readings:
@@ -118,6 +120,8 @@ Tuesdays are often a split between class activity and discussion, thus there are
     * Discussion: 
          * Readings:
     * Class Activity: Group Projects
+
+## Weeks 15-16: Group Presentations
  
 * November 29: Finish preparing for Group Presentations
 
