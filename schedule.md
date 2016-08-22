@@ -6,14 +6,15 @@ Activity days when laptops are required are noted in italics.
 
 * August 23: Introductions. What does the word biodiversity mean to you?
 
-* August 25: 
+* August 25: Why are we interested in biodiversity?
     * Reading: [Accelerated modern human-induced species losses: Entering the 6th mass extinction](https://doi.org/10.1126/sciadv.1400253 )
 
-* August 30: 
-    * Reading: 
+* August 30: What is biodiversity? Pt 1 (Concept/Construct, Alpha-Beta-Gamma) 
+    * Reading: What is Biodiversity? by Kevin Gaston (sent via course listserv)
+    * Reading: [Inventory, differentiations, and proportional diversity for quantifying species diversity](https://doi.org/ 10.1007/s00442-008-1190-z)
 
-* Septemober 1:  
-    * Reading: 
+* *September 1: Exploring Diversity Indices* 
+    * Reading (not required): [A consistent terminology for quantifying species diversity? Yes, it does exist](https://doi.org/10.1007%2Fs00442-010-1812-0)
 
 * September 6: 
     * Reading: 
