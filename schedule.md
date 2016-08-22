@@ -38,7 +38,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
          * Readings: 
     * Class Activity: Structuring Introductions of Papers/Proposals and what that has to do with your Class Project
 
-* *September 15: Patterns in Abundance and Body Size
+* September 15: Patterns in Abundance and Body Size
     * Readings: 
 
 * September 20: 
@@ -113,7 +113,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
 
 ## Weeks 14-15: Requests
  
-* *November 17: TBD
+* November 17: TBD
     * Readings:
 
 * November 22: TBD
