@@ -22,81 +22,108 @@ Tuesdays are often a split between class activity and discussion, thus there are
     * Reading:
     * Reading:
 
-## Weeks 3-6: Local-scale Biodiversity Patterns
+## Weeks 3-6: Local-scale Biodiversity Patterns & Processes
 
 * *September 6:* 
-    * Discussion: Local Assembly Mechanisms - Biotic and Environmental Filters
+    * Discussion: Assembly Mechanisms - Biotic and Environmental Filters
          * Readings
          * Readings
     * Class Activity: Exploring Diversity Indices continued
 
-* September 8: Local Assembly Mechanisms - Niches/Deterministic vs. Neutral/Stochastic
+* September 8: Assembly Mechanisms - Niches/Deterministic vs. Neutral/Stochastic
     * Readings:
  
 * September 13: 
     * Discussion: Patterns in Taxonomic, Phylogenetic, and Functional Diversity
-         * Readings:
+         * Readings: 
     * Class Activity: Structuring Introductions of Papers/Proposals and what that has to do with your Class Project
 
 * *September 15: Patterns in Abundance and Body Size
     * Readings: 
 
 * September 20: 
+    * Discussion: Food Webs and Networks
+         * Readings:
+    * Class Activity: Group Projects
  
- 
-* *September 22: 
+ * September 22: Productivity-Diversity Debate
+    * Readings: 
 
 * September 27:  
-    * Reading: 
+    * Discussion: Biodiversity-Ecosystem Function Debate
+         * Readings:
+    * Class Activity: Group Projects
  
-* *September 29: 
+* September 29: Biodiversity through time
+    * Readings: 
+
+## Weeks 7-9: Regional-Scale Diversity Patterns & Processes
 
 * October 4:  
-    * Reading: 
- 
-* October 6: 
-    * Reading: 
- 
-* October 11: 
+    * Discussion: Regional Assembly - Dispersal
+         * Readings:
+    * Class Activity: Group Projects
+
+* October 6: Regional Assembly - Environmental Heterogeneity & Productivity
     * Reading: 
 
-* *October 13: 
+* October 11:  
+    * Discussion: Local-Regional Diversity Relationships
+         * Readings:
+    * Class Activity: Group Projects
+ 
+* October 13: Species-area/species-time relationships
     * Reading: 
 
 * October 18: 
- 
- 
-* *October 20: *
+    * Discussion: Species-energy/productivity patterns
+         * Readings:
+    * Class Activity: Group Projects
+
+* October 20: Elevational gradients of biodiversity
+    * Reading: 
+
+## Weeks 10-13 Global Biodiversity Patterns and Processes
 
 * October 25: 
+    * Discussion: Biogeography
+         * Readings:
+    * Class Activity: Group Projects
    
- 
-* October 27: 
-    *  :
+ * October 27: Biogeography
+    *  Readings:
  
 * November 1: 
-    *  :
+    * Discussion: Latitudinal Gradient
+         * Readings:
+    * Class Activity: Group Projects
  
-* *November 3: 
+* November 3: Hotspots and Endemism
+    *  Readings:
 
 * November 8: VOTE! NO CLASS
 
-* November 10: 
-    * Discussion leader:
+* November 10: Global Phylogenetic/Taxonomic/Functional Diversity Patterns
+    * Readings:
  
-* November 15: 
-    * Discussion leader:
+* November 15: Paleo Biodiversity Patterns
+    * Discussion: 
+         * Readings:
+    * Class Activity: Group Projects
  
-* *November 17: 
+* *November 17: TBD
+    * Readings:
 
-* November 22: 
-    * Discussion leader:
+* November 22: TBD
+    * Discussion: 
+         * Readings:
+    * Class Activity: Group Projects
  
-* November 29: 
-    * Discussion leader:
+* November 29: Finish preparing for Group Presentations
+
  
-* December 1: 
-    * Discussion leader:
+* December 1: Group Presentations
+
  
-* December 8: 
+* December 6: Group Presentations
 
