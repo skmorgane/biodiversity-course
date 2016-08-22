@@ -3,7 +3,7 @@ layout: page
 title: Syllabus
 ---
 
-## WIS 6934 Ecological Dynamics and Forecasting
+## WIS 4934/6934 Biodiversity: Ecological Patterns and Processes
 
   |**Instructor**         |Dr. Morgan Ernest        
   |**Office Location**    |Building 150, Room 2     
