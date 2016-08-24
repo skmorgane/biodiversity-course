@@ -21,8 +21,8 @@ Tuesdays are often a split between class activity and discussion, thus there are
 
 
 * September 1: Dimensions of Biodiversity - Phylogenetic, Taxonomic, Functional
-    * Reading:
-    * Reading:
+    * Reading: [Vive le difference: plant functional diversity matters to ecosystem function](http://dx.doi.org/10.1016/S0169-5347(01)02283-2)
+    * Reading: [Preserving the Tree of Life](https://doi.org/10.1126/science.1085510)
 
 ### Weeks 3-6: Local-scale Biodiversity Patterns & Processes
 
