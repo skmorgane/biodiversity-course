@@ -15,7 +15,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
 * *August 30:* 
     * Discussion: What is biodiversity? Pt 1 (Concept/Construct, Alpha-Beta-Gamma) 
         * Reading: What is Biodiversity? by Kevin Gaston (sent via course listserv)
-        * Reading: [Inventory, differentiations, and proportional diversity for quantifying species diversity](https://doi.org/ 10.1007/s00442-008-1190-z)
+        * Reading: [Inventory, differentiations, and proportional diversity for quantifying species diversity](https://doi.org/10.1007/s00442-008-1190-z)
     * Class Activity: Exploring Diversity Indices
         * Reading (not required): [A consistent terminology for quantifying species diversity? Yes, it does exist](https://doi.org/10.1007%2Fs00442-010-1812-0)
 
