@@ -28,9 +28,10 @@ Tuesdays are often a split between class activity and discussion, thus there are
 
 * *September 6:* 
     * Discussion: Assembly Mechanisms - Biotic and Environmental Filters
-         * Readings
-         * Readings
-    * Class Activity: Exploring Diversity Indices continued
+         * Reading: [Rebuilding community ecology from functional traits](http://dx.doi.org/10.1016/j.tree.2006.02.002)
+         * Readings: [Community assembly, coexistence and the environmental filtering metaphor](https://doi.org/10.1111/1365-2435.12345)
+    * Class Activity: Exploring Diversity Indices continued - BRING LAPTOP/SCIENTIFIC CALCULATOR/PHONE 
+      WITH SCIENTIFIC CALCULATOR (i.e. something to do math with exponents and square roots on)
 
 
 * September 8: Assembly Mechanisms - Niches/Deterministic vs. Neutral/Stochastic
