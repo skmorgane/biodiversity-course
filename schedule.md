@@ -36,7 +36,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
 
 * September 8: Assembly Mechanisms - Niches/Deterministic vs. Neutral/Stochastic
     * Reading: [Disentangling the importance of ecological niches from stochastic processes across scales](https://doi.org/10.1098/rstb.2011.0063)
-    * Reading: [Neutral theory and the evolution of ecological equivalence](https://10.1890/0012-9658(2006)87[1387:NTATEO]2.0.CO;2)
+    * Reading: [Neutral theory and the evolution of ecological equivalence](https://doi.org/10.1890/0012-9658(2006)87[1387:NTATEO]2.0.CO;2)
  
 
 * September 13: 
