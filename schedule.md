@@ -20,8 +20,6 @@ Tuesdays are often a split between class activity and discussion, thus there are
         * Reading (not required): [A consistent terminology for quantifying species diversity? Yes, it does exist](https://doi.org/10.1007%2Fs00442-010-1812-0)
 
 * September 1 - CANCELLED - PREPARE FOR HERMINE.  September 1: Dimensions of Biodiversity - Phylogenetic, Taxonomic, Functional
-    * Reading: [Vive le difference: plant functional diversity matters to ecosystem function](http://dx.doi.org/10.1016/S0169-5347(01)02283-2)
-    * Reading: [Preserving the Tree of Life](https://doi.org/10.1126/science.1085510)
 
 * *September 6:* 
     * Discussion: Dimensions of Biodiversity - Phylogenetic, Taxonomic, Functional
