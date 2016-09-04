@@ -37,10 +37,14 @@ Tuesdays are often a split between class activity and discussion, thus there are
 * September 13: 
     * Discussion: Assembly Mechanisms - Niches/Deterministic vs. Neutral/Stochastic
          * Reading: [Disentangling the importance of ecological niches from stochastic processes across scales](https://doi.org/10.1098/rstb.2011.0063)
-            * Note from Morgan: Don't get hung up on the MacArthur's paradox section. There are a lot of quick references to different community ecology models, but this is not the key part of the paper. Focus your attention on the section "towards a more comprehensive framework for niche-based community ecology"
+            * Note from Morgan: Don't get hung up on the MacArthur's paradox section. There are a lot of quick references to different community ecology models in that section, but this is not the key part of the paper I want you to think about. Focus your attention on the section "towards a more comprehensive framework for niche-based community ecology"
          * Reading: [Neutral theory and the evolution of ecological equivalence](https://doi.org/10.1890/0012-9658(2006)87[1387:NTATEO]2.0.CO;2)
+            * Note from Morgan: I will provide a cartoon overview of the Neutral Theory in class. In this reading, I want you to focus on the following issues:
+               * How does Hubbell's view of communities compare to the Biotic/Environmental filter papers?
+                  * Is there an important concept he renounces?
+               * Does Hubbell think stable coexistence is necessary for communities?
+               * What are some of the ways species equivalence might occur in nature?
       * Class Activity: Structuring Introductions of Papers/Proposals and what that has to do with your Class Project
-
 
 * September 15: Patterns in Taxonomic, Phylogenetic, and Functional Diversity
     * Readings: 
