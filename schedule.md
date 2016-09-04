@@ -19,110 +19,109 @@ Tuesdays are often a split between class activity and discussion, thus there are
     * Class Activity: Exploring Diversity Indices
         * Reading (not required): [A consistent terminology for quantifying species diversity? Yes, it does exist](https://doi.org/10.1007%2Fs00442-010-1812-0)
 
-* CANCELLED - PREPARE FOR HERMINE. We will cover this topic on Sept 6. September 1: Dimensions of Biodiversity - Phylogenetic, Taxonomic, Functional
+* September 1 - CANCELLED - PREPARE FOR HERMINE.  September 1: Dimensions of Biodiversity - Phylogenetic, Taxonomic, Functional
     * Reading: [Vive le difference: plant functional diversity matters to ecosystem function](http://dx.doi.org/10.1016/S0169-5347(01)02283-2)
     * Reading: [Preserving the Tree of Life](https://doi.org/10.1126/science.1085510)
 
-### Weeks 3-6: Local-scale Biodiversity Patterns & Processes
-
 * *September 6:* 
-    * Discussion: Assembly Mechanisms - Biotic and Environmental Filters
-         * Reading: [Rebuilding community ecology from functional traits](http://dx.doi.org/10.1016/j.tree.2006.02.002)
-         * Reading: [Community assembly, coexistence and the environmental filtering metaphor](https://doi.org/10.1111/1365-2435.12345)
+    * Discussion: Dimensions of Biodiversity - Phylogenetic, Taxonomic, Functional
+    * Reading: [Vive le difference: plant functional diversity matters to ecosystem function](http://dx.doi.org/10.1016/S0169-5347(01)02283-2)
+    * Reading: [Preserving the Tree of Life](https://doi.org/10.1126/science.1085510)
     * Class Activity: Exploring Diversity Indices continued - BRING LAPTOP/SCIENTIFIC CALCULATOR/PHONE 
       WITH SCIENTIFIC CALCULATOR (i.e. something to do math with exponents and square roots on)
 
+### Weeks 3-6: Local-scale Biodiversity Patterns & Processes
 
-* September 8: Assembly Mechanisms - Niches/Deterministic vs. Neutral/Stochastic
-    * Reading: [Disentangling the importance of ecological niches from stochastic processes across scales](https://doi.org/10.1098/rstb.2011.0063)
-       * Note from Morgan: Don't get hung up on the MacArthur's paradox section. There are a lot of quick references to different community ecology models, but this is not the key part of the paper. Focus your attention on the section "towards a more comprehensive framework for niche-based community ecology"
-    * Reading: [Neutral theory and the evolution of ecological equivalence](https://doi.org/10.1890/0012-9658(2006)87[1387:NTATEO]2.0.CO;2)
+* September 8: Assembly Mechanisms - Biotic and Environmental Filters
+         * Reading: [Rebuilding community ecology from functional traits](http://dx.doi.org/10.1016/j.tree.2006.02.002)
+         * Reading: [Community assembly, coexistence and the environmental filtering metaphor](https://doi.org/10.1111/1365-2435.12345)
  
-
 * September 13: 
-    * Discussion: Patterns in Taxonomic, Phylogenetic, and Functional Diversity
-         * Readings: 
-    * Class Activity: Structuring Introductions of Papers/Proposals and what that has to do with your Class Project
+    * Discussion: Assembly Mechanisms - Niches/Deterministic vs. Neutral/Stochastic
+         * Reading: [Disentangling the importance of ecological niches from stochastic processes across scales](https://doi.org/10.1098/rstb.2011.0063)
+            * Note from Morgan: Don't get hung up on the MacArthur's paradox section. There are a lot of quick references to different community ecology models, but this is not the key part of the paper. Focus your attention on the section "towards a more comprehensive framework for niche-based community ecology"
+         * Reading: [Neutral theory and the evolution of ecological equivalence](https://doi.org/10.1890/0012-9658(2006)87[1387:NTATEO]2.0.CO;2)
+      * Class Activity: Structuring Introductions of Papers/Proposals and what that has to do with your Class Project
 
 
-* September 15: Patterns in Abundance and Body Size
+* September 15: Patterns in Taxonomic, Phylogenetic, and Functional Diversity
     * Readings: 
 
 
 * September 20: 
-    * Discussion: Food Webs and Networks
+    * Discussion: Patterns in Abundance and Body Size
          * Readings:
     * Class Activity: Group Projects
  
 
- * September 22: Productivity-Diversity Debate
+ * September 22: Food Webs and Networks
     * Readings: 
 
 
 * September 27:  
-    * Discussion: Biodiversity-Ecosystem Function Debate
+    * Discussion: Productivity-Diversity Debate
          * Readings:
     * Class Activity: Group Projects
  
 
-* September 29: Biodiversity through time
+* September 29: Biodiversity-Ecosystem Function Debate
     * Readings: 
+
+* October 4:  
+    * Discussion: Biodiversity through time
+         * Readings:
+    * Class Activity: Group Projects
 
 ### Weeks 7-9: Regional-Scale Diversity Patterns & Processes
 
-* October 4:  
-    * Discussion: Regional Assembly - Dispersal
-         * Readings:
-    * Class Activity: Group Projects
-
-* October 6: Regional Assembly - Environmental Heterogeneity & Productivity
+* October 6: Regional Assembly - Dispersal
     * Reading: 
 
-* October 11:  
-    * Discussion: Local-Regional Diversity Relationships
+* October 11:  Regional Assembly - Environmental Heterogeneity & Productivity
+    * Discussion: 
          * Readings:
     * Class Activity: Group Projects
  
-* October 13: Species-area/species-time relationships
+* October 13: Local-Regional Diversity Relationships
     * Reading: 
 
 * October 18: 
-    * Discussion: Species-energy/productivity patterns
+    * Discussion: Species-area/species-time relationships
          * Readings:
     * Class Activity: Group Projects
 
-* October 20: Elevational gradients of biodiversity
+* October 20: Species-energy/productivity patterns
     * Reading: 
+
+* October 25: 
+    * Discussion: Elevational gradients of biodiversity
+         * Readings:
+    * Class Activity: Group Projects
 
 ### Weeks 10-14 Global Biodiversity Patterns and Processes
 
-* October 25: 
-    * Discussion: Biogeography
-         * Readings:
-    * Class Activity: Group Projects
-   
  * October 27: Biogeography
     *  Readings:
  
-* November 1: 
-    * Discussion: Latitudinal Gradient
+* November 1: Biogeography
+    * Discussion: 
          * Readings:
     * Class Activity: Group Projects
  
-* November 3: Hotspots and Endemism
+* November 3: Latitudinal Gradient
     *  Readings:
 
 * November 8: VOTE! NO CLASS
 
-* November 10: Global Phylogenetic/Taxonomic/Functional Diversity Patterns
+* November 10: Hotspots and Endemism
     * Readings:
  
-* November 15: Paleo Biodiversity Patterns
-    * Discussion: 
+* November 15: 
+    * Discussion: Global Phylogenetic/Taxonomic/Functional Diversity Patterns 
          * Readings:
     * Class Activity: Group Projects
 
-* November 17: TBD
+* November 17: Paleo Biodiversity Patterns
     * Readings:
 
 * November 22: TBD
