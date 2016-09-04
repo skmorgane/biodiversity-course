@@ -23,8 +23,8 @@ Tuesdays are often a split between class activity and discussion, thus there are
 
 * *September 6:* 
     * Discussion: Dimensions of Biodiversity - Phylogenetic, Taxonomic, Functional
-    * Reading: [Vive le difference: plant functional diversity matters to ecosystem function](http://dx.doi.org/10.1016/S0169-5347(01)02283-2)
-    * Reading: [Preserving the Tree of Life](https://doi.org/10.1126/science.1085510)
+         * Reading: [Vive le difference: plant functional diversity matters to ecosystem function](http://dx.doi.org/10.1016/S0169-5347(01)02283-2)
+         * Reading: [Preserving the Tree of Life](https://doi.org/10.1126/science.1085510)
     * Class Activity: Exploring Diversity Indices continued - BRING LAPTOP/SCIENTIFIC CALCULATOR/PHONE 
       WITH SCIENTIFIC CALCULATOR (i.e. something to do math with exponents and square roots on)
 
