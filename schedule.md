@@ -31,8 +31,8 @@ Tuesdays are often a split between class activity and discussion, thus there are
 ### Weeks 3-6: Local-scale Biodiversity Patterns & Processes
 
 * September 8: Assembly Mechanisms - Biotic and Environmental Filters
-         * Reading: [Rebuilding community ecology from functional traits](http://dx.doi.org/10.1016/j.tree.2006.02.002)
-         * Reading: [Community assembly, coexistence and the environmental filtering metaphor](https://doi.org/10.1111/1365-2435.12345)
+      * Reading: [Rebuilding community ecology from functional traits](http://dx.doi.org/10.1016/j.tree.2006.02.002)
+      * Reading: [Community assembly, coexistence and the environmental filtering metaphor](https://doi.org/10.1111/1365-2435.12345)
  
 * September 13: 
     * Discussion: Assembly Mechanisms - Niches/Deterministic vs. Neutral/Stochastic
