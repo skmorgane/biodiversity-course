@@ -49,82 +49,86 @@ Tuesdays are often a split between class activity and discussion, thus there are
     * Reading: [Spatial mismatch and congruence between taxonomic,phylogenetic and functional diversity](https://doi.org/10.1111/j.1461-0248.2010.01493.x)
 
 * September 20: 
-    * Discussion: Patterns in Abundance and Body Size
+    * Discussion: Patterns in Abundance 
          * Readings:
     * Class Activity: Group Projects
  
 
- * September 22: Food Webs and Networks
+ * September 22: Patterns in Body Size
     * Readings: 
 
 
 * September 27:  
-    * Discussion: Productivity-Diversity Debate
+    * Discussion: Food Webs and Networks
          * Readings:
     * Class Activity: Group Projects
  
 
-* September 29: Biodiversity-Ecosystem Function Debate
+* September 29: Productivity-Diversity Debate
     * Readings: 
 
 * October 4:  
-    * Discussion: Biodiversity through time
+    * Discussion: Biodiversity-Ecosystem Function Debate
          * Readings:
     * Class Activity: Group Projects
 
-### Weeks 7-9: Regional-Scale Diversity Patterns & Processes
 
-* October 6: Regional Assembly - Dispersal
+
+* October 6: Biodiversity through time
     * Reading: 
 
-* October 11:  Regional Assembly - Environmental Heterogeneity & Productivity
+### Weeks 7-9: Regional-Scale Diversity Patterns & Processes
+
+* October 11:  Regional Assembly - Dispersal
     * Discussion: 
          * Readings:
     * Class Activity: Group Projects
  
-* October 13: Local-Regional Diversity Relationships
+* October 13: Regional Assembly - Environmental Heterogeneity & Productivity
     * Reading: 
 
 * October 18: 
-    * Discussion: Species-area/species-time relationships
+    * Discussion: Local-Regional Diversity Relationships
          * Readings:
     * Class Activity: Group Projects
 
-* October 20: Species-energy/productivity patterns
+* October 20: Species-area/species-time relationships
     * Reading: 
 
 * October 25: 
-    * Discussion: Elevational gradients of biodiversity
+    * Discussion: Species-energy/productivity patterns
          * Readings:
     * Class Activity: Group Projects
 
-### Weeks 10-14 Global Biodiversity Patterns and Processes
 
- * October 27: Biogeography
+
+ * October 27: Elevational gradients of biodiversity
     *  Readings:
+
+### Weeks 10-14 Global Biodiversity Patterns and Processes
  
 * November 1: Biogeography
     * Discussion: 
          * Readings:
     * Class Activity: Group Projects
  
-* November 3: Latitudinal Gradient
+* November 3: Biogeography
     *  Readings:
 
 * November 8: VOTE! NO CLASS
 
-* November 10: Hotspots and Endemism
+* November 10: Latitudinal Gradient
     * Readings:
  
 * November 15: 
-    * Discussion: Global Phylogenetic/Taxonomic/Functional Diversity Patterns 
+    * Discussion: Hotspots and Endemism
          * Readings:
     * Class Activity: Group Projects
 
-* November 17: Paleo Biodiversity Patterns
+* November 17: Global Phylogenetic/Taxonomic/Functional Diversity Patterns 
     * Readings:
 
-* November 22: TBD
+* November 22: Paleo Biodiversity Patterns
     * Discussion: 
          * Readings:
     * Class Activity: Group Projects
