@@ -64,7 +64,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
                8. In the species abundance distribution literature, two models pop up a lot: log normal and log series. Be able to explain what is different about them (Being able to draw them is fine).
                9. What is a veil line?
                10. From page 1006 to the end, the paper is full of suggestionsl for things that should/need to be done to help us better understand the species abundance distribution. Which approaches sounded most interesting/promising to you. Why?
-         * Reading
+         * Reading: [Community structure of corals and reef fishes at multiple scales](https://doi.org/10.1126/science.1113281) 
     * Class Activity: Group Projects
  
 
