@@ -45,8 +45,8 @@ Tuesdays are often a split between class activity and discussion, thus there are
       * Class Activity: Structuring Introductions of Papers/Proposals and what that has to do with your Class Project
 
 * September 15: Patterns in Taxonomic, Phylogenetic, and Functional Diversity
-    * Reading: [Opposing assembly mechanism in a Neotrpoical Dry Forest](https://doi.org/10.1890/08-1025.1)
-         Questions to focus on for discussion:
+    * Reading: [Opposing assembly mechanism in a Neotropical Dry Forest](https://doi.org/10.1890/08-1025.1)
+         * Questions to focus on for discussion:
          1. This is not the first paper Swneson and Enquist published on the structure of this forest. What did their first paper focus on and what did it show? (You don't need to go find this other paper, the basic info is in this one)
          2. They talk about other work that has examined whether functional traits were phylogenetically conserved. WHat did this other work discover?
          3. Swenson and Enquist look at this community in a couple of different ways (I'm not talking about just functional vs phylogenetic clustering , I mean different ways they looked at how these were related), what were these different ways they analyzed the community? Why did they do this?
@@ -55,7 +55,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
          6. WHat would Kraft et al say about this interpretation?
          7. What does this paper say to you about phylogenetic and functional diversity? (I deliberately left this question very vague - it can be about how they're related, Whether its useful to study this, different ways we should be thinking about diversity, or any other thoughts this paper inspired)
     * Reading: [Spatial mismatch and congruence between taxonomic,phylogenetic and functional diversity](https://doi.org/10.1111/j.1461-0248.2010.01493.x)
-         Questions to focus on for discussion:
+         * Questions to focus on for discussion:
          1. What question are Devistor et al trying to address?
          2. What data do they use?
          3. How do they justify the functional traits they select?
@@ -69,7 +69,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
 * September 20: 
     * Discussion: Patterns in Abundance 
          * Reading: [Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework](https://doi.org/10.1111/j.1461-0248.2007.01094.x)
-            Questions to focus on for discussion:
+            * Questions to focus on for discussion:
                1. What is a species abundance distribution?
                2. What are the different ways a species abundance distribution can be plotted?
                3. What is the species abundance distribution of interest to ecologists?
