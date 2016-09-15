@@ -88,7 +88,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
 
  * September 22: Patterns in Body Size
     * Reading: [Relationships between body size and abundance in ecology](https://doi.org/10.1016/j.tree.2007.03.007)
-    * Reading: 
+    * Reading: [Body size in ecological networks](https://doi.org/10.1016/j.tree.2005.04.005)
 
 
 * September 27:  
