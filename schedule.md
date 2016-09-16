@@ -96,8 +96,11 @@ Tuesdays are often a split between class activity and discussion, thus there are
     * Class Activity: Alpha, Beta, Gamma
 
 * September 22: Patterns in Body Size
-    * Reading: [Relationships between body size and abundance in ecology](https://doi.org/10.1016/j.tree.2007.03.007)
     * Reading: [Body size in ecological networks](https://doi.org/10.1016/j.tree.2005.04.005)
+         - Questions for discussion
+            1. Imagine a food web with a large apex predator. That predator goes extinct and a smaller predator is introduced. The smaller predator is the same trophic level - just smaller. What changes in the ecosystem do you expect to see? Use the information in the two assigned papers to help you figure out things that might happen. 
+    * Reading: [Relationships between body size and abundance in ecology](https://doi.org/10.1016/j.tree.2007.03.007)
+    * 
 
 
 * September 27:  
