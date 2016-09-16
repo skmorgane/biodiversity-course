@@ -66,7 +66,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
          6. How do these results compare to Swenson and Enquist? Are they consistent? Yield different insights?
          7. If you are a conservation planner, what do these results mean to you?
 
-* September 20: 
+* *September 20*: 
     * Discussion: Patterns in Abundance 
          * Reading: [Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework](https://doi.org/10.1111/j.1461-0248.2007.01094.x)
             * Questions to focus on for discussion:
@@ -82,8 +82,18 @@ Tuesdays are often a split between class activity and discussion, thus there are
                8. In the species abundance distribution literature, two models pop up a lot: log normal and log series. Be able to explain what is different about them (Being able to draw them is fine).
                9. What is a veil line?
                10. From page 1006 to the end, the paper is full of suggestionsl for things that should/need to be done to help us better understand the species abundance distribution. Which approaches sounded most interesting/promising to you. Why?
-         * Reading: [Commonness and rarity in the marine biosphere](https://doi.org/10.1073/pnas.1406664111) 
-    * Class Activity: Group Projects
+         * Reading: [Commonness and rarity in the marine biosphere](https://doi.org/10.1073/pnas.1406664111)
+            * Questions to focus on for discussion:
+               1. What question is Connolly et al trying to answer?
+               2. What is the curse of dimensionality? Why do niche based models suffer from it but neutral ones do not?
+               3. In class, I'll explain the gamma vs. log normal approach Connoly took and why, but it is based on  a paper by Pueyo that shows how theoretically a specific type of abundance distribution (a gamma distribution) should emerge from most neutral models. What do Connolly et al do to support their use of the gamma distribution to represent neutral models?
+               4. How do real data fit the gamma and log normal distributions. Does one tend to fit better than the other?
+               5. There is a table showing the model fits fro the community scale to the regional scale. Did the results vary by scale?
+               6. Why is it important to know whether the model that fails does so in a consistent way or idiosyncratic?
+               7. The failing model couldn't explain two different types of species. What were those types and do you think a single process would explain why both groups deviate from the failing model? Why or why not?
+               8. Does this paper implement any of the improvements in testing models that McGill et al suggested?
+               9. Do you think terrestrial systems would show as clean a result as the marine systems do? Why?
+    * Class Activity: Alpha, Beta, Gamma
  
 
  * September 22: Patterns in Body Size
