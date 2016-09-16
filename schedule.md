@@ -94,9 +94,8 @@ Tuesdays are often a split between class activity and discussion, thus there are
                8. Does this paper implement any of the improvements in testing models that McGill et al suggested?
                9. Do you think terrestrial systems would show as clean a result as the marine systems do? Why?
     * Class Activity: Alpha, Beta, Gamma
- 
 
- * September 22: Patterns in Body Size
+* September 22: Patterns in Body Size
     * Reading: [Relationships between body size and abundance in ecology](https://doi.org/10.1016/j.tree.2007.03.007)
     * Reading: [Body size in ecological networks](https://doi.org/10.1016/j.tree.2005.04.005)
 
