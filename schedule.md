@@ -96,13 +96,11 @@ Tuesdays are often a split between class activity and discussion, thus there are
     * Class Activity: Alpha, Beta, Gamma
 
 * September 22: Patterns in Body Size
+      - Question for discussion
+            1. There is a variety of evidence suggesting shrinking body sizes is one of the expected responses to climate change (no I'm not making this up. You can read this if you want to know more but this is not required for class: [Declining body size: a third universal response to warming?](https://doi.org/10.1016/j.tree.2011.03.005). Think about the two assigned papers. What impacts might declining body sizes have on current body size distributions and food webs?
     * Reading: [Body size in ecological networks](https://doi.org/10.1016/j.tree.2005.04.005)
-         - Questions for discussion
-            1. Imagine a food web with a large apex predator. That predator goes extinct and a smaller predator is introduced. The smaller predator is the same trophic level - just smaller. What changes in the ecosystem do you expect to see? Use the information in the two assigned papers to help you figure out things that might happen. 
     * Reading: [Relationships between body size and abundance in ecology](https://doi.org/10.1016/j.tree.2007.03.007)
-    * 
-
-
+  
 * September 27:  
     * Discussion: Food Webs and Networks
          * Readings: [Network thinking in ecology and evolution](https://doi.org/10.1016/j.tree.2005.04.004)
