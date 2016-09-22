@@ -109,8 +109,11 @@ Tuesdays are often a split between class activity and discussion, thus there are
  
 
 * September 29: Productivity-Diversity Debate
+      * For class you will break into small groups to figure out what you think is going on with this debate. Is someone right and someone wrong? Is everyone right or everyone wrong? How do we walk away from a debate like this with a better understanding of what is going on in nature? The first two papers set out the main debate. The second two are short comments about technical and conceptual issues. Make sure to have a firm grasp of the first two papers and you can have a looser grasp of the two short comments. At the end of class we will come back together as a group and see how different groups thought about this debate.
     * Readings: [Productivity is a poor predictor of plant species richness](https://doi.org/10.1126/science.1204498)
     * Readings: [Worldwide evidence of a unimodal relationship between productivity and plant species richness](https://doi.org/http://science.sciencemag.org/content/349/6245/302)
+    * Readings: [Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness"](https://doi.org/10.1126/science.aad6236)
+    * Readings: [Response to Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness"](https://doi.org/10.1126/science.aad8019)
 
 * October 4:  
     * Discussion: Biodiversity-Ecosystem Function Debate
