@@ -103,7 +103,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
   
 * September 27:  
     * Discussion: Food Webs and Networks
-         * Readings: [Network thinking in ecology and evolution](https://doi.org/10.1016/j.tree.2005.04.004)
+         * Readings: 
          * Readings: 
     * Class Activity: Group Projects
  
