@@ -109,7 +109,8 @@ Tuesdays are often a split between class activity and discussion, thus there are
  
 
 * September 29: Productivity-Diversity Debate
-    * Readings: 
+    * Readings: [Productivity is a poor predictor of plant species richness](https://doi.org/10.1126/science.1204498)
+    * Readings: [Worldwide evidence of a unimodal relationship between productivity and plant species richness](https://doi.org/http://science.sciencemag.org/content/349/6245/302)
 
 * October 4:  
     * Discussion: Biodiversity-Ecosystem Function Debate
