@@ -102,9 +102,9 @@ Tuesdays are often a split between class activity and discussion, thus there are
     * Reading: [Relationships between body size and abundance in ecology](https://doi.org/10.1016/j.tree.2007.03.007)
   
 * September 27:  
-    * Discussion: Food Webs and Networks
-         * Readings: 
-         * Readings: 
+    * Discussion: Species Networks
+         * Readings: [Stability of Ecological Communities & the Architecture of Mutualistic & Trophic Networks](https://doi.org/10.1126/science.1188321)
+         * Readings: [
     * Class Activity: Group Projects
  
 
