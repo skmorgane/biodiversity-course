@@ -103,8 +103,8 @@ Tuesdays are often a split between class activity and discussion, thus there are
   
 * September 27:  
     * Discussion: Species Networks
-         * Readings: [Stability of Ecological Communities & the Architecture of Mutualistic & Trophic Networks](https://doi.org/10.1126/science.1188321)
-         * Readings: [
+         * Readings: [Tolerance of pollination networks to species extinctions](https://doi.org/10.1098/rspb.2004.2909)
+         * 
     * Class Activity: Group Projects
  
 
