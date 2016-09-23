@@ -104,7 +104,20 @@ Tuesdays are often a split between class activity and discussion, thus there are
 * September 27:  
     * Discussion: Species Networks
          * Readings: [Tolerance of pollination networks to species extinctions](https://doi.org/10.1098/rspb.2004.2909)
+            * Questions for Discussion
+            1. What are Memmott et al trying to understand about pollinator networks?
+            2. What did they do to address their question? (what type of data did they compile, what did they do with that data)
+            3. What did they find?
+            4. Why do their pollinator networks seem to be robust to extinctions?
+            5. How do these results differ from the previous food webs results that had been published?
+            6. What do they think is causing the difference in response to extinctions between mutualism networks and trophic networks?
          * Readings: [Stability of Ecological Communities and the Architecture of Mutualistic and Trophic Networks](https://doi.org/10.1126/science.1188321)
+            * Questions for Discussion
+            1. Why have differences between mutualism and trophic networks been hard to understand?
+            2. How did Thebault and Fontaine approach this question so they could be compared?
+            3. Did the networks they designed retain their initial structure or did they change over the simulations? What happened and why?
+            4. How did modularity and nestedness impact the stability of the networks?
+            5. How did the empirical results compare to what their models suggested they should find?
     * Class Activity: Group Projects
  
 
