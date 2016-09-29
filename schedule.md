@@ -135,7 +135,8 @@ Tuesdays are often a split between class activity and discussion, thus there are
     * Class Activity: Group Projects
 
 * October 6: Biodiversity through time
-    * Reading: 
+    * Reading: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
+    * Reading:[Recent Trends in Local-Scale Marine Biodiversity Reflect Community Structure and Human Impacts](https://doi.org/10.1016/j.cub.2015.05.030)
 
 ### Weeks 7-9: Regional-Scale Diversity Patterns & Processes
 
