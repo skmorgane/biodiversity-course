@@ -129,11 +129,10 @@ Tuesdays are often a split between class activity and discussion, thus there are
     * Readings: [Response to Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness"](https://doi.org/10.1126/science.aad8019)
 
 * October 4:  
-    * Discussion: Biodiversity-Ecosystem Function Debate
-         * Readings:
+      * Discussion: Biodiversity-Ecosystem Function Debate
+         * Reading: [Partitioning selection and complementarity in biodiversity experiments](https://doi.org/10.1038/35083573)
+         * Reading: [Effects of biodiversity on the functioning of trophic groups and ecosystems](https://doi.org/10.1038/nature05202)
     * Class Activity: Group Projects
-
-
 
 * October 6: Biodiversity through time
     * Reading: 
