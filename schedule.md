@@ -140,9 +140,10 @@ Tuesdays are often a split between class activity and discussion, thus there are
 
 ### Weeks 7-9: Regional-Scale Diversity Patterns & Processes
 
-* October 11:  Regional Assembly - Dispersal
-    * Discussion: 
-         * Readings:
+* October 11:  
+    * Discussion: Regional Assembly - Dispersal
+         * Reading: [The metacommunity concept: a framework for multi-scale community ecology](https://doi.org/10.1111/j.1461-0248.2004.00608.x)
+         * Reading:
     * Class Activity: Group Projects
  
 * October 13: Regional Assembly - Environmental Heterogeneity & Productivity
