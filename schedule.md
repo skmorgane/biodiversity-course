@@ -131,8 +131,22 @@ Tuesdays are often a split between class activity and discussion, thus there are
 * October 4:  
       * Discussion: Biodiversity-Ecosystem Function Debate
          * Reading: [Partitioning selection and complementarity in biodiversity experiments](https://doi.org/10.1038/35083573)
+               - Questions for discussion
+               1. What relationship between diversity and ecosystem processes does Loreau & Hector say experiments show?
+               2. Why are these experiments controversial?
+               3. What is the selection effect?
+               4. What is the sampling effect?
+               5. What is complementarity?
+               6. What do Loreau and Hector do to help resolve the controversy in this research area?
+               7. What data do they use?
+               8. What results do Loreau and Hector find in the data?               
          * Reading: [Effects of biodiversity on the functioning of trophic groups and ecosystems](https://doi.org/10.1038/nature05202)
-    * Class Activity: Group Projects
+               - Questions for discussion
+               1. What is the debate that Cardinale et al set out to address?
+               2. How to they set out to address it? What approach do they use?
+               3. What do they find? Do they find systematic differences between studies? What are their two consistent results?
+               4. Think about these results in the context of Loreau and Hector. Do any of their conclusions differ from the other paper or  do they find similar things? If you think the results are different, why?  
+       * Class Activity: Group Projects
 
 * October 6: Biodiversity through time
     * Reading: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
