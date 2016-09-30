@@ -150,7 +150,21 @@ Tuesdays are often a split between class activity and discussion, thus there are
 
 * October 6: Biodiversity through time
     * Reading: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
+      - Questions for discussion
+      1. What question are Dornelas et al asking?
+      2. Why do they think this is an important question to ask?
+      3. What aspects of biodiversity are they examining?
+      4. What did they do? What type of data are they using?
+      5. What were the general trends in biodiversity through time?
+      6. What do Dornelas et al think is going on that explains their patterns?
+      7. How do they think biodiversity research focus needs to change?      
     * Reading:[Recent Trends in Local-Scale Marine Biodiversity Reflect Community Structure and Human Impacts](https://doi.org/10.1016/j.cub.2015.05.030)
+      - Questions for discussion
+      1. Compare the results from Elahi et al with Dornelas et al. Are they similar or do they differ?
+      2. What does the Elahi et al study add to our understanding of local biodiversity dynamics?
+      3. How do Elahi et al suggest their results and the results of other studies can be reconiled with studies showing global biodiversity loss?
+      4. Do Dornelas et al and Elahi et al have any influence on the biodiversity-ecosystem function research area?
+        
 
 ### Weeks 7-9: Regional-Scale Diversity Patterns & Processes
 
