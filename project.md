@@ -4,6 +4,11 @@ title: Project
 ---
 # Class Project Information
 
+## Next Deadline
+
+* 10/7 Finalized Groups
+    * Each group needs to email me to let me know who is in your group
+
 ## Task
 
 To work collaboratively on identifying a gap in our knowledge about biodiversity and devise a creative plan for addressing it.
