@@ -131,7 +131,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
 * October 4:  
       * Discussion: Biodiversity-Ecosystem Function Debate
          * Reading: [Partitioning selection and complementarity in biodiversity experiments](https://doi.org/10.1038/35083573)
-               - Questions for discussion
+              - Questions for discussion
                1. What relationship between diversity and ecosystem processes does Loreau & Hector say experiments show?
                2. Why are these experiments controversial?
                3. What is the selection effect?
@@ -141,7 +141,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
                7. What data do they use?
                8. What results do Loreau and Hector find in the data?               
          * Reading: [Effects of biodiversity on the functioning of trophic groups and ecosystems](https://doi.org/10.1038/nature05202)
-               - Questions for discussion
+              - Questions for discussion
                1. What is the debate that Cardinale et al set out to address?
                2. How to they set out to address it? What approach do they use?
                3. What do they find? Do they find systematic differences between studies? What are their two consistent results?
@@ -150,14 +150,14 @@ Tuesdays are often a split between class activity and discussion, thus there are
 
 * October 6: Biodiversity through time
     * Reading: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
-      - Questions for discussion
-      1. What question are Dornelas et al asking?
-      2. Why do they think this is an important question to ask?
-      3. What aspects of biodiversity are they examining?
-      4. What did they do? What type of data are they using?
-      5. What were the general trends in biodiversity through time?
-      6. What do Dornelas et al think is going on that explains their patterns?
-      7. How do they think biodiversity research focus needs to change?      
+         - Questions for discussion
+            1. What question are Dornelas et al asking?
+            2. Why do they think this is an important question to ask?
+            3. What aspects of biodiversity are they examining?
+            4. What did they do? What type of data are they using?
+            5. What were the general trends in biodiversity through time?
+            6. What do Dornelas et al think is going on that explains their patterns?
+            7. How do they think biodiversity research focus needs to change?      
     * Reading:[Recent Trends in Local-Scale Marine Biodiversity Reflect Community Structure and Human Impacts](https://doi.org/10.1016/j.cub.2015.05.030)
       - Questions for discussion
       1. Compare the results from Elahi et al with Dornelas et al. Are they similar or do they differ?
