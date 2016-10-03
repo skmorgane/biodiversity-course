@@ -171,7 +171,6 @@ Tuesdays are often a split between class activity and discussion, thus there are
 * October 11:  
     * Discussion: Regional Assembly - Dispersal
          * Reading: [The metacommunity concept: a framework for multi-scale community ecology](https://doi.org/10.1111/j.1461-0248.2004.00608.x)
-         * Reading: [Dispersal, spatial scale, and species diversity in a hierarchically structured experimental landscape](https://doi.org/10.1111/j.1461-0248.2005.00750.x)
     * Class Activity: Group Projects
  
 * October 13: Regional Assembly - Environmental Heterogeneity & Productivity
