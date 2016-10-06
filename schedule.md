@@ -181,36 +181,33 @@ Tuesdays are often a split between class activity and discussion, thus there are
          * Readings:
     * Class Activity: Group Projects
 
-* October 20: Species-area/species-time relationships
-    * Reading: 
+* October 20: Class Field Trip - Seminar by Julia Baum (Marine Biodiversity - Functional Groups and Size distributions)
 
 * October 25: 
-    * Discussion: Species-energy/productivity patterns
+    * Discussion: Species-area/species-time relationships
          * Readings:
     * Class Activity: Group Projects
 
+* October 27: Class Field Trip - Seminar by Mathew Leibold ("Rethinking Metacommunity Ecology")
 
 
- * October 27: Elevational gradients of biodiversity
-    *  Readings:
 
 ### Weeks 10-14 Global Biodiversity Patterns and Processes
  
-* November 1: Biogeography
-    * Discussion: 
-         * Readings:
-    * Class Activity: Group Projects
- 
-* November 3: Biogeography
+* November 1: Elevational gradients of biodiversity
     *  Readings:
+    *  Class Activity: Group Projects
+
+* November 3: Class Field Trip: Allen Hurlbert (Large-scale patterns and processes driving biodiversity)
 
 * November 8: VOTE! NO CLASS
 
-* November 10: Latitudinal Gradient
-    * Readings:
+* November 10: Biogeography
+    * Discussion: 
+         * Readings:
  
 * November 15: 
-    * Discussion: Hotspots and Endemism
+    * Discussion: Hotspots and Endemism or Biogeography
          * Readings:
     * Class Activity: Group Projects
 
