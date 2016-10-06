@@ -148,8 +148,14 @@ Tuesdays are often a split between class activity and discussion, thus there are
                4. Think about these results in the context of Loreau and Hector. Do any of their conclusions differ from the other paper or  do they find similar things? If you think the results are different, why?  
        * Class Activity: Group Projects
 
-* October 6: Biodiversity through time
-    * Reading: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
+* October 6: CANCELLED DUE TO HURRICANE MATTHEW
+     
+
+### Weeks 7-9: Regional-Scale Diversity Patterns & Processes
+
+* October 11: 
+   * Discussion: Biodiversity through time 
+      * Reading: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
          - Questions for discussion
             1. What question are Dornelas et al asking?
             2. Why do they think this is an important question to ask?
@@ -158,25 +164,19 @@ Tuesdays are often a split between class activity and discussion, thus there are
             5. What were the general trends in biodiversity through time?
             6. What do Dornelas et al think is going on that explains their patterns?
             7. How do they think biodiversity research focus needs to change?      
-    * Reading:[Recent Trends in Local-Scale Marine Biodiversity Reflect Community Structure and Human Impacts](https://doi.org/10.1016/j.cub.2015.05.030)
-      - Questions for discussion
-      1. Compare the results from Elahi et al with Dornelas et al. Are they similar or do they differ?
-      2. What does the Elahi et al study add to our understanding of local biodiversity dynamics?
-      3. How do Elahi et al suggest their results and the results of other studies can be reconiled with studies showing global biodiversity loss?
-      4. Do Dornelas et al and Elahi et al have any influence on the biodiversity-ecosystem function research area?
-        
-
-### Weeks 7-9: Regional-Scale Diversity Patterns & Processes
-
-* October 11:  
-    * Discussion: Regional Assembly - Dispersal
-         * Reading: [The metacommunity concept: a framework for multi-scale community ecology](https://doi.org/10.1111/j.1461-0248.2004.00608.x)
-    * Class Activity: Group Projects
+      * Reading:[Recent Trends in Local-Scale Marine Biodiversity Reflect Community Structure and Human Impacts](https://doi.org/10.1016/j.cub.2015.05.030)
+         - Questions for discussion
+            1. Compare the results from Elahi et al with Dornelas et al. Are they similar or do they differ?
+            2. What does the Elahi et al study add to our understanding of local biodiversity dynamics?
+            3. How do Elahi et al suggest their results and the results of other studies can be reconiled with studies showing global biodiversity loss?
+            4. Do Dornelas et al and Elahi et al have any influence on the biodiversity-ecosystem function research area?
+   * Class Activity: Group Projects
  
-* October 13: Regional Assembly - Environmental Heterogeneity & Productivity
-    * Reading: 
+* October 13: Regional Assembly - Dispersal
+         (yes I am only assigning 1 paper. Enjoy!)
+         * Reading: [The metacommunity concept: a framework for multi-scale community ecology](https://doi.org/10.1111/j.1461-0248.2004.00608.x)
 
-* October 18: 
+* October 18: Regional Assembly - Environmental Heterogeneity & Productivity
     * Discussion: Local-Regional Diversity Relationships
          * Readings:
     * Class Activity: Group Projects
@@ -184,17 +184,15 @@ Tuesdays are often a split between class activity and discussion, thus there are
 * October 20: Class Field Trip - Seminar by Julia Baum (Marine Biodiversity - Functional Groups and Size distributions)
 
 * October 25: 
-    * Discussion: Species-area/species-time relationships
+    * Discussion: Voting in progress on topics
          * Readings:
     * Class Activity: Group Projects
 
 * October 27: Class Field Trip - Seminar by Mathew Leibold ("Rethinking Metacommunity Ecology")
 
-
-
 ### Weeks 10-14 Global Biodiversity Patterns and Processes
  
-* November 1: Elevational gradients of biodiversity
+* November 1: Voting in progress on topics
     *  Readings:
     *  Class Activity: Group Projects
 
@@ -206,15 +204,15 @@ Tuesdays are often a split between class activity and discussion, thus there are
     * Discussion: 
          * Readings:
  
-* November 15: 
-    * Discussion: Hotspots and Endemism or Biogeography
+* November 15: Voting in progress on topics
+    * Discussion: 
          * Readings:
     * Class Activity: Group Projects
 
-* November 17: Global Phylogenetic/Taxonomic/Functional Diversity Patterns 
+* November 17: 
     * Readings:
 
-* November 22: Paleo Biodiversity Patterns
+* November 22: 
     * Discussion: 
          * Readings:
     * Class Activity: Group Projects
