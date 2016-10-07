@@ -175,7 +175,14 @@ Tuesdays are often a split between class activity and discussion, thus there are
 * October 13: Regional Assembly - Dispersal
          (yes I am only assigning 1 paper. Enjoy!)
          * Reading: [The metacommunity concept: a framework for multi-scale community ecology](https://doi.org/10.1111/j.1461-0248.2004.00608.x)
-
+          - Questions for Discussion
+               1. We've spent a lot of the semester focused on community-scale biodiversity patterns and the mechanisms thought to generate them. What scale have we predominately been focusing on?
+               2. What mechanisms have we predominately been focused on as generating biodiversity patterns?
+               3. What mechanism is this paper arguing we should add to that list?
+               4. What is a metacommunity?
+               5. Is the study of metacommunities still focused on the "community-scale", a larger scale, or both? Why do you think this?
+               6. What is the difference between spatially implicit and explicit models of metacommunities? Was the model of neutral theory that we covered in class implicit or explicit?
+               7. 
 * October 18: Regional Assembly - Environmental Heterogeneity & Productivity
     * Discussion: Local-Regional Diversity Relationships
          * Readings:
