@@ -188,14 +188,14 @@ Tuesdays are often a split between class activity and discussion, thus there are
             11. Which model do you think applies to your system? Why? (yes I will go around the room on this one. Be able to name a relevant model and explain why it applies (in 1-2 sentences). If you do not think a metacommunity framework applies, say that and why. I'd recommend writing your sentence before class so you aren't caught off guard. If I was Stephen Hubbell here's what I would write: I study a tropical tree community that I think fits into the neutral model. I think this because we have dispersal, though its limited, and niche differences between species seem small (or non-existent) and its hard to see how those small differences create stable coexistence.         
                
 * October 18: Regional Assembly - Environmental Heterogeneity & Productivity
-    * Discussion: Local-Regional Diversity Relationships
+    * Discussion: 
          * Readings:
     * Class Activity: Group Projects
 
 * October 20: Class Field Trip - Seminar by Julia Baum (Marine Biodiversity - Functional Groups and Size distributions)
 
 * October 25: 
-    * Discussion: Voting in progress on topics
+    * Discussion: Local-Regional Diversity Relationships
          * Readings:
     * Class Activity: Group Projects
 
@@ -203,7 +203,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
 
 ### Weeks 10-14 Global Biodiversity Patterns and Processes
  
-* November 1: Voting in progress on topics
+* November 1: Species-Area/Time Relationships
     *  Readings:
     *  Class Activity: Group Projects
 
@@ -215,25 +215,24 @@ Tuesdays are often a split between class activity and discussion, thus there are
     * Discussion: 
          * Readings:
  
-* November 15: Voting in progress on topics
+* November 15: Latitduinal Gradient of Biodiversity
     * Discussion: 
          * Readings:
     * Class Activity: Group Projects
 
-* November 17: 
+* November 17: Hotspots and Endemism
     * Readings:
 
-* November 22: 
+* November 22: Invasive Species Patterns Across Scales
     * Discussion: 
          * Readings:
     * Class Activity: Group Projects
 
 ### Weeks 15-16: Group Presentations
  
-* November 29: Finish preparing for Group Presentations
+* November 29: Group Presentations
 
 * December 1: Group Presentations
 
- 
-* December 6: Group Presentations
+* December 6: What have we learned?
 
