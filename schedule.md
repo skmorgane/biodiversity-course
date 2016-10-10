@@ -172,21 +172,20 @@ Tuesdays are often a split between class activity and discussion, thus there are
             4. Do Dornelas et al and Elahi et al have any influence on the biodiversity-ecosystem function research area?
    * Class Activity: Group Projects
  
-* October 13: Regional Assembly - Dispersal
-         (yes I am only assigning 1 paper. Enjoy!)
-         * Reading: [The metacommunity concept: a framework for multi-scale community ecology](https://doi.org/10.1111/j.1461-0248.2004.00608.x)
-          - Questions for Discussion
-               1. We've spent a lot of the semester focused on community-scale biodiversity patterns and the mechanisms thought to generate them. What scale have we predominately been focusing on?
-               2. What mechanisms have we predominately been focused on as generating biodiversity patterns?
-               3. What mechanism is this paper arguing we should add to that list?
-               4. What is a metacommunity?
-               5. Is the study of metacommunities still focused on the "community-scale", a larger scale, or both? Why do you think this?
-               6. What is the difference between spatially implicit and explicit models of metacommunities? Was the model of neutral theory that we covered in class implicit or explicit?
-               7. The term 'species pool' is used several times in this manuscript. What is the species pool? Where does it come from?
-               8. Why is a species pool important? How can changes to it impact observed metacommunity dynamics?
-               9. They acknowledge that "local communities do not always have discrete boundaries and that different species may respond to processes at different scales" Do you think a patch based view works for your system? Can be used as a coarse approximation? Completely irrelevant to your system? Why?
-               10. Be able to explain (succinctly) the four main types of metacommunity models. What are they and how are they different? (i.e. how do they differ in their assumptions about patches, which species can enter the community, the role of nichebased processes, differences among species, etc).
-               11. Which model do you think applies to your system? Why? (yes I will go around the room on this one. Be able to name a relevant model and explain why it applies (in 1-2 sentences). If you do not think a metacommunity framework applies, say that and why. I'd recommend writing your sentence before class so you aren't caught off guard. If I was Stephen Hubbell here's what I would write: I study a tropical tree community that I think fits into the neutral model. I think this because we have dispersal, though its limited, and niche differences between species seem small (or non-existent) and its hard to see how those small differences create stable coexistence.         
+* October 13: Regional Assembly - Dispersal     
+   * (yes I am only assigning 1 paper. Enjoy!) Reading: [The metacommunity concept: a framework for multi-scale community ecology](https://doi.org/10.1111/j.1461-0248.2004.00608.x)
+        * Questions for Discussion
+             1. We've spent a lot of the semester focused on community-scale biodiversity patterns and the mechanisms thought to generate them. What scale have we predominately been focusing on?
+             2. What mechanisms have we predominately been focused on as generating biodiversity patterns?
+             3. What mechanism is this paper arguing we should add to that list?
+             4. What is a metacommunity?
+             5. Is the study of metacommunities still focused on the "community-scale", a larger scale, or both? Why do you think this?
+             6. What is the difference between spatially implicit and explicit models of metacommunities? Was the model of neutral theory that we covered in class implicit or explicit?
+             7. The term 'species pool' is used several times in this manuscript. What is the species pool? Where does it come from?
+             8. Why is a species pool important? How can changes to it impact observed metacommunity dynamics?
+             9. They acknowledge that "local communities do not always have discrete boundaries and that different species may respond to processes at different scales" Do you think a patch based view works for your system? Can be used as a coarse approximation? Completely irrelevant to your system? Why?
+            10. Be able to explain (succinctly) the four main types of metacommunity models. What are they and how are they different? (i.e. how do they differ in their assumptions about patches, which species can enter the community, the role of nichebased processes, differences among species, etc).
+            11. Which model do you think applies to your system? Why? (yes I will go around the room on this one. Be able to name a relevant model and explain why it applies (in 1-2 sentences). If you do not think a metacommunity framework applies, say that and why. I'd recommend writing your sentence before class so you aren't caught off guard. If I was Stephen Hubbell here's what I would write: I study a tropical tree community that I think fits into the neutral model. I think this because we have dispersal, though its limited, and niche differences between species seem small (or non-existent) and its hard to see how those small differences create stable coexistence.         
                
 * October 18: Regional Assembly - Environmental Heterogeneity & Productivity
     * Discussion: Local-Regional Diversity Relationships
