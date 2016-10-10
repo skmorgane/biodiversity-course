@@ -150,9 +150,6 @@ Tuesdays are often a split between class activity and discussion, thus there are
 
 * October 6: CANCELLED DUE TO HURRICANE MATTHEW
      
-
-### Weeks 7-9: Regional-Scale Diversity Patterns & Processes
-
 * October 11: 
    * Discussion: Biodiversity through time 
       * Reading: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
@@ -171,6 +168,8 @@ Tuesdays are often a split between class activity and discussion, thus there are
             3. How do Elahi et al suggest their results and the results of other studies can be reconiled with studies showing global biodiversity loss?
             4. Do Dornelas et al and Elahi et al have any influence on the biodiversity-ecosystem function research area?
    * Class Activity: Group Projects
+ 
+### Weeks 7-9: Regional-Scale Diversity Patterns & Processes
  
 * October 13: Regional Assembly - Dispersal     
    * (yes I am only assigning 1 paper. Enjoy!) Reading: [The metacommunity concept: a framework for multi-scale community ecology](https://doi.org/10.1111/j.1461-0248.2004.00608.x)
@@ -201,7 +200,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
 
 * October 27: Class Field Trip - Seminar by Mathew Leibold ("Rethinking Metacommunity Ecology")
 
-### Weeks 10-14 Global Biodiversity Patterns and Processes
+
  
 * November 1: Species-Area/Time Relationships
     *  Readings:
@@ -210,6 +209,8 @@ Tuesdays are often a split between class activity and discussion, thus there are
 * November 3: Class Field Trip: Allen Hurlbert (Large-scale patterns and processes driving biodiversity)
 
 * November 8: VOTE! NO CLASS
+
+### Weeks 10-14 Global Biodiversity Patterns and Processes
 
 * November 10: Biogeography
     * Discussion: 
