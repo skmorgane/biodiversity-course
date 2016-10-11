@@ -224,7 +224,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
 * November 17: Hotspots and Endemism
     * Readings:
 
-* November 22: Invasive Species Patterns Across Scales
+* November 22: TBD
     * Discussion: 
          * Readings:
     * Class Activity: Group Projects
