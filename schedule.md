@@ -188,10 +188,12 @@ Tuesdays are often a split between class activity and discussion, thus there are
                
 * October 18: Regional Assembly - Environmental Heterogeneity & Productivity
     * Discussion: 
-         * Readings:
+         * Reading:
     * Class Activity: Group Projects
 
 * October 20: Class Field Trip - Seminar by Julia Baum (Marine Biodiversity - Functional Groups and Size distributions)
+    *  For those not attending the talk, here is the reading. Questions to be answered and emailed to me will be posted by Friday: [Fishing degrades size structure of coral reef fish communities](https://doi.org/10.1111/gcb.13482)
+      
 
 * October 25: 
     * Discussion: Local-Regional Diversity Relationships
