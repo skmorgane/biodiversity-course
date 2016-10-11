@@ -191,7 +191,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
          * Reading:
     * Class Activity: Group Projects
 
-* October 20: Class Field Trip - Seminar by Julia Baum (Marine Biodiversity - Functional Groups and Size distributions)
+* October 20: **Class Field Trip - Seminar by Julia Baum (Marine Biodiversity - Functional Groups and Size distributions)**
     *  For those not attending the talk, here is the reading. Questions to be answered and emailed to me will be posted by Friday: [Fishing degrades size structure of coral reef fish communities](https://doi.org/10.1111/gcb.13482)
       
 
@@ -200,15 +200,13 @@ Tuesdays are often a split between class activity and discussion, thus there are
          * Readings:
     * Class Activity: Group Projects
 
-* October 27: Class Field Trip - Seminar by Mathew Leibold ("Rethinking Metacommunity Ecology")
-
-
+* October 27: **Class Field Trip - Seminar by Mathew Leibold ("Rethinking Metacommunity Ecology")**
  
 * November 1: Species-Area/Time Relationships
     *  Readings:
     *  Class Activity: Group Projects
 
-* November 3: Class Field Trip: Allen Hurlbert (Large-scale patterns and processes driving biodiversity)
+* November 3: **Class Field Trip: Allen Hurlbert (Large-scale patterns and processes driving biodiversity)**
 
 * November 8: VOTE! NO CLASS
 
