@@ -191,7 +191,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
          * Reading:
     * Class Activity: Group Projects
 
-* October 20: **Class Field Trip - Seminar by Julia Baum (Marine Biodiversity - Functional Groups and Size distributions)**
+* October 20: **Class Field Trip - Seminar by Julia Baum ("Coral Reef Community Structure and Resilience in a Changing World")**
     *  For those not attending the talk, here is the reading. Questions to be answered and emailed to me will be posted by Friday: [Fishing degrades size structure of coral reef fish communities](https://doi.org/10.1111/gcb.13482)
          * Questions:
             1. What is the size spectra? What information does it provide about a community?
