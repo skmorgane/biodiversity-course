@@ -188,8 +188,26 @@ Tuesdays are often a split between class activity and discussion, thus there are
                
 * October 18: Regional Assembly - Environmental Heterogeneity
     * Discussion: 
-         * Reading:
+         * Reading: The "Frankenpaper" - emailed to the class listserv
+         * Questions:
+            1. MacArthur & MacArthur: 
+               - how are they defining environmental heterogeneity? What is it and what scale ('Microsite', within habitat, across habitats?
+            2. Tilman & Pacala: 
+               - how are they defining environmental heterogeneity? How does it compare to how MacArthur & MacArthur are thinking about it?
+               - how does environmental heterogeneity promote higher diversity in their model?
+            3. Shmida & Wilson
+               - how do they definte environmental heterogeneity. Compare it to the previous papers.
+               - Compare how environmental heterogeneity promotes diversity in this exerpt  in comparison to the exerpts from the other two papers. What is similar and what is different?
+               - What other concepts in ecology does it make you think of?
+            4. Stein et al
+               - In table 1, look at all the different ways scientists have tried to quantify environmental heterogeneity. Think about how Shmida and Wilson talk about environmental heterogeneity and what is being quantified in Table 1. What do you think about how environmental heterogeneity is being quantified. WHat does it tell us about the complexity of the environment?
+               - What was the general outcome of the meta-analysis?
+               - What does this say to you about the relationship between environmental heterogeneity and species richness?
+            5. Fahrig 
+               - 
+   
     * Class Activity: Group Projects
+      
 
 * October 20: **Class Field Trip - Seminar by Julia Baum ("Coral Reef Community Structure and Resilience in a Changing World")**
     *  For those not attending the talk, here is the reading. Questions to be answered and emailed to me will be posted by Friday: [Fishing degrades size structure of coral reef fish communities](https://doi.org/10.1111/gcb.13482)
