@@ -186,14 +186,19 @@ Tuesdays are often a split between class activity and discussion, thus there are
             10. Be able to explain (succinctly) the four main types of metacommunity models. What are they and how are they different? (i.e. how do they differ in their assumptions about patches, which species can enter the community, the role of nichebased processes, differences among species, etc).
             11. Which model do you think applies to your system? Why? (yes I will go around the room on this one. Be able to name a relevant model and explain why it applies (in 1-2 sentences). If you do not think a metacommunity framework applies, say that and why. I'd recommend writing your sentence before class so you aren't caught off guard. If I was Stephen Hubbell here's what I would write: I study a tropical tree community that I think fits into the neutral model. I think this because we have dispersal, though its limited, and niche differences between species seem small (or non-existent) and its hard to see how those small differences create stable coexistence.         
                
-* October 18: Regional Assembly - Environmental Heterogeneity & Productivity
+* October 18: Regional Assembly - Environmental Heterogeneity
     * Discussion: 
          * Reading:
     * Class Activity: Group Projects
 
 * October 20: **Class Field Trip - Seminar by Julia Baum (Marine Biodiversity - Functional Groups and Size distributions)**
     *  For those not attending the talk, here is the reading. Questions to be answered and emailed to me will be posted by Friday: [Fishing degrades size structure of coral reef fish communities](https://doi.org/10.1111/gcb.13482)
-      
+         * Questions:
+            1. What is the size spectra? What information does it provide about a community?
+            2. What about the shape of the size spectra are they quantifying?
+            3. What do the changes in the size spectra they document tell them about the impacts of human impacts on fish communities?
+            4. Why do they think the size spectra and total fish biomass provide different info about the fish community?
+    
 
 * October 25: 
     * Discussion: Local-Regional Diversity Relationships
