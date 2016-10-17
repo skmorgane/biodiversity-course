@@ -224,7 +224,8 @@ Tuesdays are often a split between class activity and discussion, thus there are
 
 * October 25: 
     * Discussion: Local-Regional Diversity Relationships
-         * Readings:
+         * Reading: [Community diversity: relative roles of local and regional processes by Ricklefs](http://www.jstor.org/stable/1698957?seq=1#page_scan_tab_contents)
+         * Reading: [The Combined Influence of the Local Environment and Regional Enrichment on Bird Species Richness](https://doi.org/10.1086/649578)
     * Class Activity: Group Projects
 
 * October 27: **Class Field Trip - Seminar by Mathew Leibold ("Rethinking Metacommunity Ecology")**
