@@ -229,6 +229,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
     * Class Activity: Group Projects
 
 * October 27: **Class Field Trip - Seminar by Mathew Leibold ("Rethinking Metacommunity Ecology")**
+    * For those not attending the talk, here is the reading: [Empirical approaches to metacommunities: a review and comparison with theory](https://doi.org/10.1016/j.tree.2011.04.009)
  
 * November 1: Species-Area/Time Relationships
     *  Readings:
