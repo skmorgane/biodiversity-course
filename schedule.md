@@ -242,8 +242,12 @@ Tuesdays are often a split between class activity and discussion, thus there are
 
 * October 27: **Class Field Trip - Seminar by Mathew Leibold ("Rethinking Metacommunity Ecology")**
     * For those not attending the talk, here is the reading: [Empirical approaches to metacommunities: a review and comparison with theory](https://doi.org/10.1016/j.tree.2011.04.009)
- 
-* November 1: Species-Area/Time Relationships
+         1. What are the empirical shortcomings the paper finds in the study of metacommunities? (i.e. are there system/taxon biases, are they doing a good job of testing all the frameworks?)
+         2. Do empirical studies primarily support a particular model or do they tend to suggest more than one model is operating, even in the same system?
+         3. Theoretically, what are some of the ways they think the study of meetacommunities needs to change to advance?
+         4. Empirically, what are some of the ways they think the study of meetacommunities needs to change to advance?
+         
+ * November 1: Species-Area/Time Relationships
     *  Readings:
     *  Class Activity: Group Projects
 
