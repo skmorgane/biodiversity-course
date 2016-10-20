@@ -225,6 +225,13 @@ Tuesdays are often a split between class activity and discussion, thus there are
 * October 25: 
     * Discussion: Local-Regional Diversity Relationships
          * Reading: [Community diversity: relative roles of local and regional processes](http://www.jstor.org/stable/1698957?seq=1#page_scan_tab_contents)
+            1. In the second paragraph ("Present-day ecological investigations...."), Ricklefs describes what he sees as the state of the field in 1987. Do you think this is still a valid assessment of the field today? Why?
+            2. Ricklefs proposes that local deterministic processes make common predictions: "i) community convergence, ii) resistence of the community to invasion, and iii) independence of local and regional diversity." Explain why these are the expectastions from local processes (i.e. what are the mechanisms/processes that would result in those outcomes?)
+            3. What concept(s) does Ricklefs argue has gotten lost in diversity research?
+            4. What is the key concept that community ecologists use to assume that local biodiversity processes ware separate from regional diversity processes?
+            5. What are Figures 2 & 3? What does Ricklefs say they show? Why?
+            6. How does Ricklefs propose ecology fix its limited focus on local processes? Has the field responded to his concerns?
+                    
          * Reading: [The Combined Influence of the Local Environment and Regional Enrichment on Bird Species Richness](https://doi.org/10.1086/649578)
     * Class Activity: Group Projects
 
