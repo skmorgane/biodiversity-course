@@ -230,7 +230,8 @@ Tuesdays are often a split between class activity and discussion, thus there are
             3. What concept(s) does Ricklefs argue has gotten lost in diversity research?
             4. What is the key concept that community ecologists use to assume that local biodiversity processes ware separate from regional diversity processes?
             5. What are Figures 2 & 3? What does Ricklefs say they show? Why?
-            6. How does Ricklefs propose ecology fix its limited focus on local processes? Has the field responded to his concerns?                    
+            6. How does Ricklefs propose ecology fix its limited focus on local processes? 
+            7. Think about the Tilman & Pacala section from the Environmental Heterogeneity reading and Hubbell's neutral theory in the context of Ricklef's paper. i) what does Tilman & Pacala figure 2.1 say to you about increasing regional diversity and local coexistence? ii) Do you think Hubbell's neutral model is something that implements Ricklef's ideas?
          * Reading: [The Combined Influence of the Local Environment and Regional Enrichment on Bird Species Richness](https://doi.org/10.1086/649578).
             1. According to White and Hurlbert what has been missing from this debate over local vs. regional control of local richness?
             2. What is variance partitioning and how do they use it to push forward the local-regional debate?
