@@ -229,7 +229,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
             2. Ricklefs proposes that local deterministic processes make common predictions: "i) community convergence, ii) resistence of the community to invasion, and iii) independence of local and regional diversity." Explain why these are the expectastions from local processes (i.e. what are the mechanisms/processes that would result in those outcomes?)
             3. What concept(s) does Ricklefs argue has gotten lost in diversity research?
             4. What is the key concept that community ecologists use to assume that local biodiversity processes ware separate from regional diversity processes?
-            5. What are Figures 2 & 3? What does Ricklefs say they show? Why?
+            5. What are Figures 2 & 3? How does Ricklefs interpret them?
             6. How does Ricklefs propose ecology fix its limited focus on local processes? 
             7. Think about the Tilman & Pacala section from the Environmental Heterogeneity reading and Hubbell's neutral theory in the context of Ricklef's paper. i) what does Tilman & Pacala figure 2.1 say to you about increasing regional diversity and local coexistence? ii) Do you think Hubbell's neutral model is something that implements Ricklef's ideas?
          * Reading: [The Combined Influence of the Local Environment and Regional Enrichment on Bird Species Richness](https://doi.org/10.1086/649578).
