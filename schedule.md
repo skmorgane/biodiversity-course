@@ -230,9 +230,14 @@ Tuesdays are often a split between class activity and discussion, thus there are
             3. What concept(s) does Ricklefs argue has gotten lost in diversity research?
             4. What is the key concept that community ecologists use to assume that local biodiversity processes ware separate from regional diversity processes?
             5. What are Figures 2 & 3? What does Ricklefs say they show? Why?
-            6. How does Ricklefs propose ecology fix its limited focus on local processes? Has the field responded to his concerns?
-                    
-         * Reading: [The Combined Influence of the Local Environment and Regional Enrichment on Bird Species Richness](https://doi.org/10.1086/649578)
+            6. How does Ricklefs propose ecology fix its limited focus on local processes? Has the field responded to his concerns?                    
+         * Reading: [The Combined Influence of the Local Environment and Regional Enrichment on Bird Species Richness](https://doi.org/10.1086/649578).
+            1. According to White and Hurlbert what has been missing from this debate over local vs. regional control of local richness?
+            2. What is variance partitioning and how do they use it to push forward the local-regional debate?
+            3. What are the local variables they exmaine? What are the regional variables?
+            4. How do local and regional variables relate to local diversity?
+            5. At what time scales do local or regional variables have their strongest signal? Why?
+            6. How do they propose local and regional processes are combining to determine local richness?
     * Class Activity: Group Projects
 
 * October 27: **Class Field Trip - Seminar by Mathew Leibold ("Rethinking Metacommunity Ecology")**
