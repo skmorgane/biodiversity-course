@@ -248,7 +248,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
          3. Theoretically, what are some of the ways they think the study of meetacommunities needs to change to advance?
          4. Empirically, what are some of the ways they think the study of meetacommunities needs to change to advance?
          
- * November 1: Species-Area/Time Relationships
+* November 1: Species-Area/Time Relationships
     *  For this week there is 1 paper and 2 short execerpts from books. The book excerpts will be sent to the class by email
     *  Reading: Part of Chapter 2 from *Species Diversity in Space and Time* by Rosenzweig
     *  Reading: Part of Chapter 13 from *Biogeography* by Lomolino, Riddle, & Brown
@@ -266,7 +266,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
     * Discussion: 
          * Readings:
  
-* November 15: Latitduinal Gradient of Biodiversity
+* November 15: Latitudinal Gradient of Biodiversity
     * Discussion: 
          * Readings:
     * Class Activity: Group Projects
