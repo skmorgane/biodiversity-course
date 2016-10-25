@@ -249,7 +249,10 @@ Tuesdays are often a split between class activity and discussion, thus there are
          4. Empirically, what are some of the ways they think the study of meetacommunities needs to change to advance?
          
  * November 1: Species-Area/Time Relationships
-    *  Readings:
+    *  For this week there is 1 paper and 2 short execerpts from books. The book excerpts will be sent to the class by email
+    *  Reading: Part of Chapter 2 from *Species Diversity in Space and Time* by Rosenzweig
+    *  Reading: Part of Chapter 13 from *Biogeography* by Lomolino, Riddle, & Brown
+    *  Reading: [Two-phase species-time relationships in North American land birds](https://doi.org/10.1111/j.1461-0248.2004.00581.x) 
     *  Class Activity: Group Projects
 
 * November 3: **Class Field Trip: Allen Hurlbert (Large-scale patterns and processes driving biodiversity)**
