@@ -11,6 +11,7 @@ title: Project
 * 10/24 Select topic
     * Each group should email me to let me know what your topic is
 * 11/29 Group Presentations Begin
+    * Presentation Length: 15 minute presentation plus 5 minutes for questions
     * Can you give a short overview of your topic area - what is it and why is is important to study
       - E.g. If you're interested in trait clustering in communities, then you should be able to explain why the field has been interested in understanding patterns of trait clustering
     * Can you explain clearly what we don't yet understand and why we really need to understand it
