@@ -251,6 +251,10 @@ Tuesdays are often a split between class activity and discussion, thus there are
 * November 1: Species-Area/Time Relationships
     *  For this week there is 1 paper and 2 short execerpts from books. The book excerpts will be sent to the class by email
     *  Reading: Part of Chapter 2 from *Species Diversity in Space and Time* by Rosenzweig
+         - Questions
+         1. Why does creating a species-area plot from contiguous plots generate a shallower slope than a plot made from non-contiguous plots?
+         2. Be able to explain how the three hypotheses (individuals, habitats, biogeography) would generate a species area relationship.
+         3. If you had to guess which mechanism might be more important at small, intermediate, and large spatial scales, which mechanism would you assign to which scale? Why?
     *  Reading: Part of Chapter 13 from *Biogeography* by Lomolino, Riddle, & Brown
     *  Reading: [Two-phase species-time relationships in North American land birds](https://doi.org/10.1111/j.1461-0248.2004.00581.x) 
     *  Class Activity: Group Projects
