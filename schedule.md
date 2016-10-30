@@ -268,7 +268,14 @@ Tuesdays are often a split between class activity and discussion, thus there are
 
 * November 3: **Class Field Trip: Allen Hurlbert (Large-scale patterns and processes driving biodiversity)**
     *  For those not attending the talk, here is the reading: [On the processes generating latitudinal richness gradients: identifying diagnostic patterns and predictions](https://doi.org/10.3389/fgene.2014.00420)
-
+         1. What is the current problem with testing hypotheses for how the latitudinal gradient in species richness is generated?
+         2. Explain the zero-sum constraint used in the models.
+         3. What is the niche conservatism hypothesis?
+         4. What is the ecological limits hypothesis?
+         5. What is the evolutionary rates hypothesis?
+         6. What is the tropical stability hypothesis?
+         7. What was the goal of the simulations? (i.e. what information do they provide that will help future tests of the latitudinal gradient?)
+         
 * November 8: VOTE! NO CLASS
 
 ### Weeks 10-14 Global Biodiversity Patterns and Processes
