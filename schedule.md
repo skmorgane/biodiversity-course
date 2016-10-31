@@ -280,11 +280,12 @@ Tuesdays are often a split between class activity and discussion, thus there are
 
 ### Weeks 10-14 Global Biodiversity Patterns and Processes
 
-* November 10: Biogeography
+* November 10: Biogeographic Processes
     * Discussion: 
-         * Readings:
+         * Readings: [An update on Wallace's zoogeographic regions of the World](https://doi.org/10.1126/science.1228282)
+         * Readings: [Community assembly through adaptive radiation in Hawaiian Spiders](https://doi.org/10.1126/science.1091875)
  
-* November 15: Latitudinal Gradient of Biodiversity
+* November 15: Large-scale Patterns of Phylogenetic, Functional, and Species Diversity
     * Discussion: 
          * Readings:
     * Class Activity: Group Projects
@@ -292,7 +293,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
 * November 17: Hotspots and Endemism
     * Readings:
 
-* November 22: TBD
+* November 22: Invasive Species Patterns
     * Discussion: 
          * Readings:
     * Class Activity: Group Projects
