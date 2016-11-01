@@ -283,7 +283,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
 * November 10: Biogeographic Processes
     * Discussion: 
          * Readings: [An update on Wallace's zoogeographic regions of the World](https://doi.org/10.1126/science.1228282)
-         * Readings: [Community assembly through adaptive radiation in Hawaiian Spiders](https://doi.org/10.1126/science.1091875)
+         * Readings: 
  
 * November 15: Large-scale Patterns of Phylogenetic, Functional, and Species Diversity
     * Discussion: 
