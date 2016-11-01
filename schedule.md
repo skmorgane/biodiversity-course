@@ -266,7 +266,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
          6. We haven't talked about phylogenetic or functional diversity in a while. Take a moment to ponder whether you expect those aspects of biodiversity to show similar patterns across scales (and similar drivers) to the Species-Area and Species-Time relationships.
     *  Class Activity: Group Projects
 
-* November 3: **Class Field Trip: Allen Hurlbert (Large-scale patterns and processes driving biodiversity)**
+* November 3: **Class Field Trip: Allen Hurlbert ("Origin and maintenance of biodiversity gradients: making inferences at regional to global scales")**
     *  For those not attending the talk, here is the reading: [On the processes generating latitudinal richness gradients: identifying diagnostic patterns and predictions](https://doi.org/10.3389/fgene.2014.00420)
          1. What is the current problem with testing hypotheses for how the latitudinal gradient in species richness is generated?
          2. Explain the zero-sum constraint used in the models.
