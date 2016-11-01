@@ -285,10 +285,8 @@ Tuesdays are often a split between class activity and discussion, thus there are
          * Readings: [An update on Wallace's zoogeographic regions of the World](https://doi.org/10.1126/science.1228282)
          * Readings:
  
-* November 15: Global Invasive Species Diversity Patterns
-    * Discussion: 
-         * Readings:
-    * Class Activity: Group Projects
+* November 15: 
+    * No readings. In-Class Project Time.
 
 * November 17: Hotspots and Endemism
     * Readings:
