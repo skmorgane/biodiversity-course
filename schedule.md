@@ -249,7 +249,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
          4. Empirically, what are some of the ways they think the study of meetacommunities needs to change to advance?
          
 * November 1: Species-Area/Time Relationships
-    *  For this week there is 1 paper and 2 short execerpts from books. The book excerpts will be sent to the class by email
+    *  For this week there is 1 paper and 2 short excerpts from books. The book excerpts will be sent to the class by email
     *  Reading: Part of Chapter 2 from *Species Diversity in Space and Time* by Rosenzweig
           1. Why does creating a species-area plot from contiguous plots generate a shallower slope than a plot made from non-contiguous plots?
          2. Be able to explain how the three hypotheses (individuals, habitats, biogeography) would generate a species area relationship.
@@ -283,9 +283,9 @@ Tuesdays are often a split between class activity and discussion, thus there are
 * November 10: Biogeographic Processes
     * Discussion: 
          * Readings: [An update on Wallace's zoogeographic regions of the World](https://doi.org/10.1126/science.1228282)
-         * Readings: 
+         * Readings:
  
-* November 15: Large-scale Patterns of Phylogenetic, Functional, and Species Diversity
+* November 15: Global Invasive Species Diversity Patterns
     * Discussion: 
          * Readings:
     * Class Activity: Group Projects
@@ -293,7 +293,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
 * November 17: Hotspots and Endemism
     * Readings:
 
-* November 22: Invasive Species Patterns
+* November 22: Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
     * Discussion: 
          * Readings:
     * Class Activity: Group Projects
