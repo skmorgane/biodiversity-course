@@ -282,8 +282,9 @@ Tuesdays are often a split between class activity and discussion, thus there are
 
 * November 10: Biogeographic Processes
     * Discussion: 
+         * Readings: [Global patterns and drivers of phylogenetic structure in island floras](https://doi.org/10.1038/srep12213)
          * Readings: [An update on Wallace's zoogeographic regions of the World](https://doi.org/10.1126/science.1228282)
-         * Readings:
+         
  
 * November 15: 
     * No readings. In-Class Project Time.
