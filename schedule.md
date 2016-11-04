@@ -283,6 +283,11 @@ Tuesdays are often a split between class activity and discussion, thus there are
 * November 10: Biogeographic Processes
     * Discussion: 
          * Readings: [Global patterns and drivers of phylogenetic structure in island floras](https://doi.org/10.1038/srep12213)
+            - Questions:
+               1. The paper is exhaustive in discussing the details of each analysis, but that is not what I want you to focus on. I chose this reading because it covers all but one of the focal processes types that invoked to explain biogeographic biodiversity patterns: dispersal, environment, and speciation. Be able to explain how these three processes influence biodiversity on islands. 
+               2. Have we discussed these processes before and if so in what context?
+               3. Is the biogeographic version of the process different or very similar to how they were discussed for smaller scales?
+               4. They conduct the analyses on all angiosperms, palms, and ferns. Why did they look at palms and ferns separately?
          * Readings: [An update on Wallace's zoogeographic regions of the World](https://doi.org/10.1126/science.1228282)
          
  
