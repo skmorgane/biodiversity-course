@@ -289,6 +289,12 @@ Tuesdays are often a split between class activity and discussion, thus there are
                3. Is the biogeographic version of the process different or very similar to how they were discussed for smaller scales?
                4. They conduct the analyses on all angiosperms, palms, and ferns. Why did they look at palms and ferns separately?
          * Readings: [An update on Wallace's zoogeographic regions of the World](https://doi.org/10.1126/science.1228282)
+            - Questions:
+               1. What are biogeographic regions (zoogeographic in this paper)?
+               2. The whole reason I assigned this paper is Figure 1. (There's other interesting stuff in the paper, but I want you to spend time on Figure 1). Why do these zoogeographic regions differ?  Can you think of geographic or events from earth's history that might explain why some regions are distinctive?
+               3. Assuming you came  up with at least one explanation for why a region is different, does your explanation fit into the processes discussed in the other paper?
+               4. Fig 3 breaksdown the data by taxonomic group. What's your gut response when you compare those graphs? Are they surprisingly similar or are there surprising differences?
+               5. The paper compares their results to Wallace's original regions. When Wallace made his regions in 1876, there were many things that were yet to be discovered that are key to this paper. What tools or knowledge did these authors have that Wallace didn't have that would be relevant to this project? How did Wallace's results compare to this high-tech version?
          
  
 * November 15: 
