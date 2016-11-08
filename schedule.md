@@ -301,7 +301,8 @@ Tuesdays are often a split between class activity and discussion, thus there are
     * No readings. In-Class Project Time.
 
 * November 17: Hotspots and Endemism
-    * Readings:
+    * Readings: [Global hotspots of species richness are not congruent with endemism or threat](https://doi.org/10.1038/nature03850)
+    * Readings: [A global assessment of endemism and species richness across island and mainland regions](https://doi.org/10.1073/pnas.0810306106)
 
 * November 22: Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
     * Discussion: 
