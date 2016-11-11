@@ -302,14 +302,14 @@ Tuesdays are often a split between class activity and discussion, thus there are
 
 * November 17: Hotspots and Endemism
       * Readings: [Global hotspots of species richness are not congruent with endemism or threat](https://doi.org/10.1038/nature03850)
-            - Questions
-              1. What is an endemic species?
-              2. What do we mean by a 'hotspot'?
-              3. How congruent were the different types of hotspots?
-              4. What type of places were most of the species richness hotspots?
-              5. What type of places were most of the endemism hotspots?
-              6. What type of places were most of the threat hotspots?
-              7. What do the authors suggest might be behind the differences in the patterns of species richness vs endemic richness?
+               - Questions
+                  1. What is an endemic species?
+                  2. What do we mean by a 'hotspot'?
+                  3. How congruent were the different types of hotspots?
+                  4. What type of places were most of the species richness hotspots?
+                  5. What type of places were most of the endemism hotspots?
+                  6. What type of places were most of the threat hotspots?
+                  7. What do the authors suggest might be behind the differences in the patterns of species richness vs endemic richness?
       * Readings: [A global assessment of endemism and species richness across island and mainland regions](https://doi.org/10.1073/pnas.0810306106)
             - Questions
               1. Explain the Endemism Richness index. How is it calculated and what is it telling you?
