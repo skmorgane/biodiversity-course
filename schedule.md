@@ -319,7 +319,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
 
 * November 22: Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
     * Discussion: 
-         * Readings: [Understanding global patterns of mammalian functional and phylogenetic diversity](https://doi.org/10.1098/rstb.2011.002)
+         * Readings: [Understanding global patterns of mammalian functional and phylogenetic diversity](https://doi.org/10.1098/rstb.2011.0024)
     * Class Activity: Group Projects
 
 ### Weeks 15-16: Group Presentations
