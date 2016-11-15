@@ -316,10 +316,23 @@ Tuesdays are often a split between class activity and discussion, thus there are
               2. How did the endemic richness index differ between islands and mainlands?
               3. How did patterns in the endemic richness index compare across the different taxa assessed?
               4. Compare these results to the other assigned paper. What do they tell you in combination about patterns of endemism?
-
+          
 * November 22: Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
     * Discussion: 
          * Readings: [Understanding global patterns of mammalian functional and phylogenetic diversity](https://doi.org/10.1098/rstb.2011.0024)
+          - Questions
+              1. Why are patterns of phylogenetic diversity important to understand?
+              2.   Why are patterns of functional diversity important to understand?
+              3.  Figure 1 shows possible relationships between FD and PD. 
+	          a. Explain what the phylogenetic constraint space represents 
+	          b. Why might functional diversity be higher than expected given the amount of phylogenetic diversity? (WHat does that even mean?)
+	          c. Why might functional diversity be less than expected from phylogenetic diversity?
+              4. Conceptually, species richness constrain PD and FD. How?
+              5. What were the observed patterns between species richness, PD, and FD?
+              6. Did continents differ in their observed phylogenetic/functional diversity relationship? What do you think this means?
+              7. What were the differences in patterns between the temperate and tropical regions? What did they suggest explained that difference?
+              8. The paper talks a lot of about communities, but does the data used here represent communities? What might this better reflect? Does that change how you think about the results? 
+
     * Class Activity: Group Projects
 
 ### Weeks 15-16: Group Presentations
