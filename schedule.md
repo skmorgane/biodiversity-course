@@ -317,10 +317,20 @@ Tuesdays are often a split between class activity and discussion, thus there are
               3. How did patterns in the endemic richness index compare across the different taxa assessed?
               4. Compare these results to the other assigned paper. What do they tell you in combination about patterns of endemism?
           
-* November 22: Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
+* November 22: 
+
+    * Class Activity: Group Projects
+
+### Weeks 15-16: Group Presentations
+ 
+* November 29: Group Presentations
+
+* December 1: Group Presentations
+
+* December 6: Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
     * Discussion: 
          * Readings: [Understanding global patterns of mammalian functional and phylogenetic diversity](https://doi.org/10.1098/rstb.2011.0024)
-          - Questions
+           - Questions
               1. Why are patterns of phylogenetic diversity important to understand?
               2.   Why are patterns of functional diversity important to understand?
               3.  Figure 1 shows possible relationships between FD and PD. 
@@ -332,14 +342,12 @@ Tuesdays are often a split between class activity and discussion, thus there are
               6. Did continents differ in their observed phylogenetic/functional diversity relationship? What do you think this means?
               7. What were the differences in patterns between the temperate and tropical regions? What did they suggest explained that difference?
               8. The paper talks a lot of about communities, but does the data used here represent communities? What might this better reflect? Does that change how you think about the results? 
-
-    * Class Activity: Group Projects
-
-### Weeks 15-16: Group Presentations
- 
-* November 29: Group Presentations
-
-* December 1: Group Presentations
-
-* December 6: What have we learned?
+	      
+     * What have we learned:
+	   * Readings: Look over the questions and topics on the schedule and reflect on what we have covered over the past semester
+	    - Questions:
+			1.  What themes or processes came up multiple times this semester?
+			2.  What role does spatial scale play in our understanding of biodiversity?
+			3.  When you entered the class, what dimension of biodiversity did you focus on? How did you assume it was related to other aspects of biodiversity? Did the class strengthen or change they way you think about that?
+			
 
