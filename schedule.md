@@ -2,39 +2,35 @@
 layout: page
 title: Schedule
 ---
-Tuesdays are often a split between class activity and discussion, thus there are often two topics on those days. Thursdays are always just discussion. Activity days when laptops are required are noted in italics.
+(Updates for Fall 2017 in Progress)
+Thursdays are often a split between class activity and discussion, thus there are often two topics on those days. Tuesdays are always just discussion. Activity days when laptops are required are noted in italics.
 
 ### Weeks 1 & 2: Thinking about what biodiversity means/is
 
-* August 23: Introductions. What does the word biodiversity mean to you?
+* August 22: Introductions. What does the word biodiversity mean to you?
 
-* August 25: Why are we interested in biodiversity?
-    * Reading: [Accelerated modern human-induced species losses: Entering the 6th mass extinction](https://doi.org/10.1126/sciadv.1400253 )
+* August 24 
+	* Discussion: Dimensions of Biodiversity - Functional, Phylogenetic, Genetic, Taxonomic
+		* Reading: [The Functions of Biological Diversity in an Age of Extinction](https://doi.org/10.1126/science.1215855) 
+	*  Class Activity: Biodiversity Dimensions in the Literature 
 
-
-* *August 30:* 
-    * Discussion: What is biodiversity? Pt 1 (Concept/Construct, Alpha-Beta-Gamma) 
-        * Reading: What is Biodiversity? by Kevin Gaston (sent via course listserv)
-        * Reading: [Inventory, differentiations, and proportional diversity for quantifying species diversity](https://doi.org/10.1007/s00442-008-1190-z)
-    * Class Activity: Exploring Diversity Indices
-        * Reading (not required): [A consistent terminology for quantifying species diversity? Yes, it does exist](https://doi.org/10.1007%2Fs00442-010-1812-0)
-
-* September 1 - CANCELLED - PREPARE FOR HERMINE.  September 1: Dimensions of Biodiversity - Phylogenetic, Taxonomic, Functional
-
-* *September 6:* 
-    * Discussion: Dimensions of Biodiversity - Phylogenetic, Taxonomic, Functional
-         * Reading: [Vive le difference: plant functional diversity matters to ecosystem function](http://dx.doi.org/10.1016/S0169-5347(01)02283-2)
-         * Reading: [Preserving the Tree of Life](https://doi.org/10.1126/science.1085510)
-    * Class Activity: Exploring Diversity Indices continued - BRING LAPTOP/SCIENTIFIC CALCULATOR/PHONE 
-      WITH SCIENTIFIC CALCULATOR (i.e. something to do math with exponents and square roots on)
+* August 29 
+	* Discussion: Measuring Biodiversity - Alpha, Beta, Gamma Diversity
+		* Reading: [Disentangling the Drivers of Beta Diversity Along Latitudinal and Elevational Gradients](https://doi.org/10.1126/science.1208584)
+        	* Reading: [Partitioning diversity into independent alpha and beta components](https://doi.org/10.1890/06-1736.1)
+		
+* August 31
+	* Discussion: Measuring Biodiversity - Eveness
+        	* Reading: [A consistent terminology for quantifying species diversity? Yes, it does exist](https://doi.org/10.1007%2Fs00442-010-1812-0)
+    	* Class Activity: Exploring Diversity Indices
 
 ### Weeks 3-6: Local-scale Biodiversity Patterns & Processes
 
-* September 8: Assembly Mechanisms - Biotic and Environmental Filters
+* September 5: Assembly Mechanisms - Biotic and Environmental Filters
       * Reading: [Rebuilding community ecology from functional traits](http://dx.doi.org/10.1016/j.tree.2006.02.002)
       * Reading: [Community assembly, coexistence and the environmental filtering metaphor](https://doi.org/10.1111/1365-2435.12345)
  
-* September 13: 
+* September 7: 
     * Discussion: Assembly Mechanisms - Niches/Deterministic vs. Neutral/Stochastic
          * Reading: [Neutral theory in community ecology and the hypothesis of functional equivalence](https://doi.org/10.1111/j.0269-8463.2005.00965.x)
             * Note from Morgan: I will provide a cartoon overview of the Neutral Theory in class. In this reading, I want you to focus on the following issues:
@@ -44,7 +40,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
          * Reading: [Drought mediates the importance of stochastic community assembly](https://doi.org/10.1073/pnas.0704350104)
       * Class Activity: Structuring Introductions of Papers/Proposals and what that has to do with your Class Project
 
-* September 15: Patterns in Taxonomic, Phylogenetic, and Functional Diversity
+* September 12: Patterns in Taxonomic, Phylogenetic, and Functional Diversity
     * Reading: [Opposing assembly mechanism in a Neotropical Dry Forest](https://doi.org/10.1890/08-1025.1)
          * Questions to focus on for discussion:
          1. This is not the first paper Swneson and Enquist published on the structure of this forest. What did their first paper focus on and what did it show? (You don't need to go find this other paper, the basic info is in this one)
@@ -66,7 +62,7 @@ Tuesdays are often a split between class activity and discussion, thus there are
          6. How do these results compare to Swenson and Enquist? Are they consistent? Yield different insights?
          7. If you are a conservation planner, what do these results mean to you?
 
-* *September 20*: 
+* *September 14*: 
     * Discussion: Patterns in Abundance 
          * Reading: [Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework](https://doi.org/10.1111/j.1461-0248.2007.01094.x)
             * Questions to focus on for discussion:
@@ -95,13 +91,13 @@ Tuesdays are often a split between class activity and discussion, thus there are
                9. Do you think terrestrial systems would show as clean a result as the marine systems do? Why?
     * Class Activity: Alpha, Beta, Gamma
 
-* September 22: Patterns in Body Size
+* September 19: Patterns in Body Size
       - Question for discussion
             1. There is a variety of evidence suggesting shrinking body sizes is one of the expected responses to climate change (no I'm not making this up. You can read this if you want to know more but this is not required for class: [Declining body size: a third universal response to warming?](https://doi.org/10.1016/j.tree.2011.03.005). Think about the two assigned papers. What impacts might declining body sizes have on current body size distributions and food webs?
     * Reading: [Body size in ecological networks](https://doi.org/10.1016/j.tree.2005.04.005)
     * Reading: [Relationships between body size and abundance in ecology](https://doi.org/10.1016/j.tree.2007.03.007)
   
-* September 27:  
+* September 21:  
     * Discussion: Species Networks
          * Readings: [Tolerance of pollination networks to species extinctions](https://doi.org/10.1098/rspb.2004.2909)
             * Questions for Discussion
@@ -121,14 +117,14 @@ Tuesdays are often a split between class activity and discussion, thus there are
     * Class Activity: Group Projects
  
 
-* September 29: Productivity-Diversity Debate
+* September 26: Productivity-Diversity Debate
       * For class you will break into small groups to figure out what you think is going on with this debate. Is someone right and someone wrong? Is everyone right or everyone wrong? How do we walk away from a debate like this with a better understanding of what is going on in nature? The first two papers set out the main debate. The second two are short comments about technical and conceptual issues. Make sure to have a firm grasp of the first two papers and you can have a looser grasp of the two short comments. At the end of class we will come back together as a group and see how different groups thought about this debate.
     * Readings: [Productivity is a poor predictor of plant species richness](https://doi.org/10.1126/science.1204498)
     * Readings: [Worldwide evidence of a unimodal relationship between productivity and plant species richness](https://doi.org/10.1126/science.aab3916 )
     * Readings: [Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness"](https://doi.org/10.1126/science.aad6236)
     * Readings: [Response to Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness"](https://doi.org/10.1126/science.aad8019)
 
-* October 4:  
+* September 28:  
       * Discussion: Biodiversity-Ecosystem Function Debate
          * Reading: [Partitioning selection and complementarity in biodiversity experiments](https://doi.org/10.1038/35083573)
               - Questions for discussion
