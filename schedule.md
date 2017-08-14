@@ -144,9 +144,7 @@ Thursdays are often a split between class activity and discussion, thus there ar
                4. Think about these results in the context of Loreau and Hector. Do any of their conclusions differ from the other paper or  do they find similar things? If you think the results are different, why?  
        * Class Activity: Group Projects
 
-* October 6: CANCELLED DUE TO HURRICANE MATTHEW
-     
-* October 11: 
+* October 3: 
    * Discussion: Biodiversity through time 
       * Reading: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
          - Questions for discussion
@@ -163,11 +161,15 @@ Thursdays are often a split between class activity and discussion, thus there ar
             2. What does the Elahi et al study add to our understanding of local biodiversity dynamics?
             3. How do Elahi et al suggest their results and the results of other studies can be reconiled with studies showing global biodiversity loss?
             4. Do Dornelas et al and Elahi et al have any influence on the biodiversity-ecosystem function research area?
+     
+* October 5: 
+  * Discussion: Biodiversity through time - Hillebrand? Brown et al?
+
    * Class Activity: Group Projects
  
 ### Weeks 7-9: Regional-Scale Diversity Patterns & Processes
  
-* October 13: Regional Assembly - Dispersal     
+* October 10: Regional Assembly - Dispersal     
    * (yes I am only assigning 1 paper. Enjoy!) Reading: [The metacommunity concept: a framework for multi-scale community ecology](https://doi.org/10.1111/j.1461-0248.2004.00608.x)
         * Questions for Discussion
              1. We've spent a lot of the semester focused on community-scale biodiversity patterns and the mechanisms thought to generate them. What scale have we predominately been focusing on?
@@ -182,7 +184,7 @@ Thursdays are often a split between class activity and discussion, thus there ar
             10. Be able to explain (succinctly) the four main types of metacommunity models. What are they and how are they different? (i.e. how do they differ in their assumptions about patches, which species can enter the community, the role of nichebased processes, differences among species, etc).
             11. Which model do you think applies to your system? Why? (yes I will go around the room on this one. Be able to name a relevant model and explain why it applies (in 1-2 sentences). If you do not think a metacommunity framework applies, say that and why. I'd recommend writing your sentence before class so you aren't caught off guard. If I was Stephen Hubbell here's what I would write: I study a tropical tree community that I think fits into the neutral model. I think this because we have dispersal, though its limited, and niche differences between species seem small (or non-existent) and its hard to see how those small differences create stable coexistence.         
                
-* October 18: Regional Assembly - Environmental Heterogeneity
+* October 12: Regional Assembly - Environmental Heterogeneity
     * Discussion: 
          * Reading: The "Frankenpaper" - emailed to the class listserv
          * Questions:
@@ -209,7 +211,7 @@ Thursdays are often a split between class activity and discussion, thus there ar
     * Class Activity: Group Projects
       
 
-* October 20: **Class Field Trip - Seminar by Julia Baum ("Coral Reef Community Structure and Resilience in a Changing World")**
+* October 17: **Class Field Trip - Seminar by Julia Baum ("Coral Reef Community Structure and Resilience in a Changing World")**
     *  For those not attending the talk, here is the reading and questions: [Fishing degrades size structure of coral reef fish communities](https://doi.org/10.1111/gcb.13482)
          * Questions:
             1. What is the size spectra? What information does it provide about a community?
@@ -218,7 +220,7 @@ Thursdays are often a split between class activity and discussion, thus there ar
             4. Why do they think the size spectra and total fish biomass provide different info about the fish community?
     
 
-* October 25: 
+* October 19: 
     * Discussion: Local-Regional Diversity Relationships
          * Reading: [Community diversity: relative roles of local and regional processes](http://www.jstor.org/stable/1698957?seq=1#page_scan_tab_contents)
             1. In the second paragraph ("Present-day ecological investigations...."), Ricklefs describes what he sees as the state of the field in 1987. Do you think this is still a valid assessment of the field today? Why?
@@ -237,14 +239,14 @@ Thursdays are often a split between class activity and discussion, thus there ar
             6. How do they propose local and regional processes are combining to determine local richness?
     * Class Activity: Group Projects
 
-* October 27: **Class Field Trip - Seminar by Mathew Leibold ("Rethinking Metacommunity Ecology")**
+* October 24: **Class Field Trip - Seminar by Mathew Leibold ("Rethinking Metacommunity Ecology")**
     * For those not attending the talk, here is the reading: [Empirical approaches to metacommunities: a review and comparison with theory](https://doi.org/10.1016/j.tree.2011.04.009)
          1. What are the empirical shortcomings the paper finds in the study of metacommunities? (i.e. are there system/taxon biases, are they doing a good job of testing all the frameworks?)
          2. Do empirical studies primarily support a particular model or do they tend to suggest more than one model is operating, even in the same system?
          3. Theoretically, what are some of the ways they think the study of meetacommunities needs to change to advance?
          4. Empirically, what are some of the ways they think the study of meetacommunities needs to change to advance?
          
-* November 1: Species-Area/Time Relationships
+* October 26: Species-Area/Time Relationships
     *  For this week there is 1 paper and 2 short excerpts from books. The book excerpts will be sent to the class by email
     *  Reading: Part of Chapter 2 from *Species Diversity in Space and Time* by Rosenzweig
           1. Why does creating a species-area plot from contiguous plots generate a shallower slope than a plot made from non-contiguous plots?
