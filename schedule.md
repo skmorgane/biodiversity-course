@@ -7,7 +7,7 @@ Thursdays are often a split between class activity and discussion, thus there ar
 
 ### Weeks 1 & 2: Thinking about what biodiversity means/is
 
-* **August 22**: Introductions. What does the word biodiversity mean to you?
+* [**August 22**](Day1.html): Introductions. What does the word biodiversity mean to you?
 
 * **August 24** 
 	* Discussion: Dimensions of Biodiversity - Functional, Phylogenetic, Genetic, Taxonomic
