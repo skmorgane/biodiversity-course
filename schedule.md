@@ -5,7 +5,7 @@ title: Schedule
 (Updates for Fall 2017 in Progress)
 Thursdays are often a split between class activity and discussion, thus there are often two topics on those days. Tuesdays are always just discussion. 
 
-IMPORTANT: if Date is in <span style="color:orange">ORANGE</span> then readings are not yet finalized
+IMPORTANT: if Date is in <span style="color:orange"> ORANGE </span> then readings are not yet finalized
 
 ### Weeks 1 & 2: Thinking about what biodiversity means/is
 
@@ -21,7 +21,7 @@ IMPORTANT: if Date is in <span style="color:orange">ORANGE</span> then readings 
 		* Reading: [Partitioning diversity into independent alpha and beta components](https://doi.org/10.1890/06-1736.1)
 		* Reading: [Disentangling the Drivers of Beta Diversity Along Latitudinal and Elevational Gradients](https://doi.org/10.1126/science.1208584)
 		
-* **August 31**
+* <span style="color:orange"> August 31 </span>
 	* Discussion: Measuring Biodiversity - Evenness
 		* Reading: [A consistent terminology for quantifying species diversity? Yes, it does exist](https://doi.org/10.1007%2Fs00442-010-1812-0)
 	* Class Activity: Exploring Diversity Indices
