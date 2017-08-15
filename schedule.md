@@ -17,12 +17,12 @@ Thursdays are often a split between class activity and discussion, thus there ar
 * **August 29** 
 	* Discussion: Measuring Biodiversity - Alpha, Beta, Gamma Diversity
 		* Reading: [Disentangling the Drivers of Beta Diversity Along Latitudinal and Elevational Gradients](https://doi.org/10.1126/science.1208584)
-        	* Reading: [Partitioning diversity into independent alpha and beta components](https://doi.org/10.1890/06-1736.1)
+		* Reading: [Partitioning diversity into independent alpha and beta components](https://doi.org/10.1890/06-1736.1)
 		
 * **August 31**
 	* Discussion: Measuring Biodiversity - Evenness
-        	* Reading: [A consistent terminology for quantifying species diversity? Yes, it does exist](https://doi.org/10.1007%2Fs00442-010-1812-0)
-    	* Class Activity: Exploring Diversity Indices
+		* Reading: [A consistent terminology for quantifying species diversity? Yes, it does exist](https://doi.org/10.1007%2Fs00442-010-1812-0)
+	* Class Activity: Exploring Diversity Indices
 
 ### Weeks 3-6: Local-scale Biodiversity Patterns & Processes
 
