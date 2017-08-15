@@ -31,29 +31,30 @@ IMPORTANT: if Date is in <span style="color:orange"> ORANGE </span> then reading
 * **September 5**
 	* Discussion: Assembly Mechanisms - Biotic and Environmental Filters
 		* Reading: [Rebuilding community ecology from functional traits](http://dx.doi.org/10.1016/j.tree.2006.02.002)
-      		* Reading: [Community assembly, coexistence and the environmental filtering metaphor](https://doi.org/10.1111/1365-2435.12345)
+		* Reading: [Community assembly, coexistence and the environmental filtering metaphor](https://doi.org/10.1111/1365-2435.12345)
  
 * **September 7** 
 	* Discussion: Assembly Mechanisms - Niches/Deterministic vs. Neutral/Stochastic
-         	* Reading: [Neutral theory in community ecology and the hypothesis of functional equivalence](https://doi.org/10.1111/j.0269-8463.2005.00965.x) Note from Morgan: I will provide a cartoon overview of the Neutral Theory in class. In this reading, I want you to focus on the following issues:
-               		1. How does Hubbell's view of communities compare to the Biotic/Environmental filter papers?
+		* Reading: [Neutral theory in community ecology and the hypothesis of functional equivalence](https://doi.org/10.1111/j.0269-8463.2005.00965.x) 
+			+ Note from Morgan: I will provide a cartoon overview of the Neutral Theory in class. In this reading, I want you to focus on the following issues:
+			1. How does Hubbell's view of communities compare to the Biotic/Environmental filter papers?
                   		+ Is there an important concept he deliberately ignores?
                   		+ What are his arguments for why this concept can be ignored?
-         	* Reading: [Drought mediates the importance of stochastic community assembly](https://doi.org/10.1073/pnas.0704350104)
+		* Reading: [Drought mediates the importance of stochastic community assembly](https://doi.org/10.1073/pnas.0704350104)
       * Class Activity: Structuring Introductions of Papers/Proposals and what that has to do with your Class Project
 
 * **September 12**
 	* Discussion: Patterns in Taxonomic, Phylogenetic, and Functional Diversity
-    		* Reading: [Opposing assembly mechanism in a Neotropical Dry Forest](https://doi.org/10.1890/08-1025.1)
-         		1. This is not the first paper Swneson and Enquist published on the structure of this forest. What did their first paper focus on and what did it show? (You don't need to go find this other paper, the basic info is in this one)
-         		2. They talk about other work that has examined whether functional traits were phylogenetically conserved. WHat did this other work discover?
-         		3. Swenson and Enquist look at this community in a couple of different ways (I'm not talking about just functional vs phylogenetic clustering , I mean different ways they looked at how these were related), what were these different ways they analyzed the community? Why did they do this?
-         		4. What did they find about functional trait clustering in this community?
-         		5. How do they interpret the clustering?
-         		6. What would Kraft et al say about this interpretation?
-         		7. What does this paper say to you about phylogenetic and functional diversity? (I deliberately left this question very vague - it can be about how they're related, Whether its useful to study this, different ways we should be thinking about diversity, or any other thoughts this paper inspired)
+		* Reading: [Opposing assembly mechanism in a Neotropical Dry Forest](https://doi.org/10.1890/08-1025.1)
+			1. This is not the first paper Swneson and Enquist published on the structure of this forest. What did their first paper focus on and what did it show? (You don't need to go find this other paper, the basic info is in this one)
+			2. They talk about other work that has examined whether functional traits were phylogenetically conserved. WHat did this other work discover?
+			3. Swenson and Enquist look at this community in a couple of different ways (I'm not talking about just functional vs phylogenetic clustering , I mean different ways they looked at how these were related), what were these different ways they analyzed the community? Why did they do this?
+			4. What did they find about functional trait clustering in this community?
+			5. How do they interpret the clustering?
+			6. What would Kraft et al say about this interpretation?
+			7. What does this paper say to you about phylogenetic and functional diversity? (I deliberately left this question very vague - it can be about how they're related, Whether its useful to study this, different ways we should be thinking about diversity, or any other thoughts this paper inspired)
     		* Reading: [Spatial mismatch and congruence between taxonomic,phylogenetic and functional diversity](https://doi.org/10.1111/j.1461-0248.2010.01493.x)
-         		1. What question are Devistor et al trying to address?
+			1. What question are Devistor et al trying to address?
          		2. What data do they use?
          		3. How do they justify the functional traits they select?
          		4. How are they quantifying diversity?
