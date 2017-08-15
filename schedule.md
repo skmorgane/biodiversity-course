@@ -3,44 +3,45 @@ layout: page
 title: Schedule
 ---
 (Updates for Fall 2017 in Progress)
-Thursdays are often a split between class activity and discussion, thus there are often two topics on those days. Tuesdays are always just discussion. Activity days when laptops are required are noted in italics.
+Thursdays are often a split between class activity and discussion, thus there are often two topics on those days. Tuesdays are always just discussion. 
 
 ### Weeks 1 & 2: Thinking about what biodiversity means/is
 
-* August 22: Introductions. What does the word biodiversity mean to you?
+* **August 22**: Introductions. What does the word biodiversity mean to you?
 
-* August 24 
+* **August 24** 
 	* Discussion: Dimensions of Biodiversity - Functional, Phylogenetic, Genetic, Taxonomic
 		* Reading: [The Functions of Biological Diversity in an Age of Extinction](https://doi.org/10.1126/science.1215855) 
 	*  Class Activity: Biodiversity Dimensions in the Literature 
 
-* August 29 
+* **August 29** 
 	* Discussion: Measuring Biodiversity - Alpha, Beta, Gamma Diversity
 		* Reading: [Disentangling the Drivers of Beta Diversity Along Latitudinal and Elevational Gradients](https://doi.org/10.1126/science.1208584)
         	* Reading: [Partitioning diversity into independent alpha and beta components](https://doi.org/10.1890/06-1736.1)
 		
-* August 31
-	* Discussion: Measuring Biodiversity - Eveness
+* **August 31**
+	* Discussion: Measuring Biodiversity - Evenness
         	* Reading: [A consistent terminology for quantifying species diversity? Yes, it does exist](https://doi.org/10.1007%2Fs00442-010-1812-0)
     	* Class Activity: Exploring Diversity Indices
 
 ### Weeks 3-6: Local-scale Biodiversity Patterns & Processes
 
-* September 5: Assembly Mechanisms - Biotic and Environmental Filters
-      * Reading: [Rebuilding community ecology from functional traits](http://dx.doi.org/10.1016/j.tree.2006.02.002)
-      * Reading: [Community assembly, coexistence and the environmental filtering metaphor](https://doi.org/10.1111/1365-2435.12345)
+* **September 5**
+	* Discussion: Assembly Mechanisms - Biotic and Environmental Filters
+		* Reading: [Rebuilding community ecology from functional traits](http://dx.doi.org/10.1016/j.tree.2006.02.002)
+      		* Reading: [Community assembly, coexistence and the environmental filtering metaphor](https://doi.org/10.1111/1365-2435.12345)
  
-* September 7: 
-    * Discussion: Assembly Mechanisms - Niches/Deterministic vs. Neutral/Stochastic
-         * Reading: [Neutral theory in community ecology and the hypothesis of functional equivalence](https://doi.org/10.1111/j.0269-8463.2005.00965.x)
-            * Note from Morgan: I will provide a cartoon overview of the Neutral Theory in class. In this reading, I want you to focus on the following issues:
+* **September 7** 
+	* Discussion: Assembly Mechanisms - Niches/Deterministic vs. Neutral/Stochastic
+         	* Reading: [Neutral theory in community ecology and the hypothesis of functional equivalence](https://doi.org/10.1111/j.0269-8463.2005.00965.x)
+            		* Note from Morgan: I will provide a cartoon overview of the Neutral Theory in class. In this reading, I want you to focus on the following issues:
                * How does Hubbell's view of communities compare to the Biotic/Environmental filter papers?
                   * Is there an important concept deliberately ignores?
                   * What are his arguments for why this concept can be ignored?
          * Reading: [Drought mediates the importance of stochastic community assembly](https://doi.org/10.1073/pnas.0704350104)
       * Class Activity: Structuring Introductions of Papers/Proposals and what that has to do with your Class Project
 
-* September 12: Patterns in Taxonomic, Phylogenetic, and Functional Diversity
+* **September 12**: Patterns in Taxonomic, Phylogenetic, and Functional Diversity
     * Reading: [Opposing assembly mechanism in a Neotropical Dry Forest](https://doi.org/10.1890/08-1025.1)
          * Questions to focus on for discussion:
          1. This is not the first paper Swneson and Enquist published on the structure of this forest. What did their first paper focus on and what did it show? (You don't need to go find this other paper, the basic info is in this one)
@@ -62,7 +63,7 @@ Thursdays are often a split between class activity and discussion, thus there ar
          6. How do these results compare to Swenson and Enquist? Are they consistent? Yield different insights?
          7. If you are a conservation planner, what do these results mean to you?
 
-* *September 14*: 
+* **September 14** 
     * Discussion: Patterns in Abundance 
          * Reading: [Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework](https://doi.org/10.1111/j.1461-0248.2007.01094.x)
             * Questions to focus on for discussion:
