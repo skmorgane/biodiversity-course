@@ -5,9 +5,11 @@ title: Schedule
 (Updates for Fall 2017 in Progress)
 Thursdays are often a split between class activity and discussion, thus there are often two topics on those days. Tuesdays are always just discussion. 
 
+IMPORTANT: if Date is in <span style="color:orange">ORANGE</span> then readings are not yet finalized
+
 ### Weeks 1 & 2: Thinking about what biodiversity means/is
 
-* [**August 22**](Day1.html): Introductions. What does the word biodiversity mean to you?
+* **August 22**: Introductions. What does the word biodiversity mean to you?
 
 * **August 24** 
 	* Discussion: Dimensions of Biodiversity - Functional, Phylogenetic, Genetic, Taxonomic
@@ -16,8 +18,8 @@ Thursdays are often a split between class activity and discussion, thus there ar
 
 * **August 29** 
 	* Discussion: Measuring Biodiversity - Alpha, Beta, Gamma Diversity
-		* Reading: [Disentangling the Drivers of Beta Diversity Along Latitudinal and Elevational Gradients](https://doi.org/10.1126/science.1208584)
 		* Reading: [Partitioning diversity into independent alpha and beta components](https://doi.org/10.1890/06-1736.1)
+		* Reading: [Disentangling the Drivers of Beta Diversity Along Latitudinal and Elevational Gradients](https://doi.org/10.1126/science.1208584)
 		
 * **August 31**
 	* Discussion: Measuring Biodiversity - Evenness
@@ -33,54 +35,50 @@ Thursdays are often a split between class activity and discussion, thus there ar
  
 * **September 7** 
 	* Discussion: Assembly Mechanisms - Niches/Deterministic vs. Neutral/Stochastic
-         	* Reading: [Neutral theory in community ecology and the hypothesis of functional equivalence](https://doi.org/10.1111/j.0269-8463.2005.00965.x)
-            		* Note from Morgan: I will provide a cartoon overview of the Neutral Theory in class. In this reading, I want you to focus on the following issues:
-               * How does Hubbell's view of communities compare to the Biotic/Environmental filter papers?
-                  * Is there an important concept deliberately ignores?
-                  * What are his arguments for why this concept can be ignored?
-         * Reading: [Drought mediates the importance of stochastic community assembly](https://doi.org/10.1073/pnas.0704350104)
+         	* Reading: [Neutral theory in community ecology and the hypothesis of functional equivalence](https://doi.org/10.1111/j.0269-8463.2005.00965.x) Note from Morgan: I will provide a cartoon overview of the Neutral Theory in class. In this reading, I want you to focus on the following issues:
+               		1. How does Hubbell's view of communities compare to the Biotic/Environmental filter papers?
+                  		+ Is there an important concept he deliberately ignores?
+                  		+ What are his arguments for why this concept can be ignored?
+         	* Reading: [Drought mediates the importance of stochastic community assembly](https://doi.org/10.1073/pnas.0704350104)
       * Class Activity: Structuring Introductions of Papers/Proposals and what that has to do with your Class Project
 
-* **September 12**: Patterns in Taxonomic, Phylogenetic, and Functional Diversity
-    * Reading: [Opposing assembly mechanism in a Neotropical Dry Forest](https://doi.org/10.1890/08-1025.1)
-         * Questions to focus on for discussion:
-         1. This is not the first paper Swneson and Enquist published on the structure of this forest. What did their first paper focus on and what did it show? (You don't need to go find this other paper, the basic info is in this one)
-         2. They talk about other work that has examined whether functional traits were phylogenetically conserved. WHat did this other work discover?
-         3. Swenson and Enquist look at this community in a couple of different ways (I'm not talking about just functional vs phylogenetic clustering , I mean different ways they looked at how these were related), what were these different ways they analyzed the community? Why did they do this?
-         4. What did they find about functional trait clustering in this community?
-         5. How do they interpret the clustering?
-         6. WHat would Kraft et al say about this interpretation?
-         7. What does this paper say to you about phylogenetic and functional diversity? (I deliberately left this question very vague - it can be about how they're related, Whether its useful to study this, different ways we should be thinking about diversity, or any other thoughts this paper inspired)
-    * Reading: [Spatial mismatch and congruence between taxonomic,phylogenetic and functional diversity](https://doi.org/10.1111/j.1461-0248.2010.01493.x)
-         * Questions to focus on for discussion:
-         1. What question are Devistor et al trying to address?
-         2. What data do they use?
-         3. How do they justify the functional traits they select?
-         4. How are they quantifying diversity?
-            - what is the data they are using for alpha, beta, gamma scales?
-            - why are they using Rao's Quadratic Entropy (Q)?
-         5. What did Devictor et al find?
-         6. How do these results compare to Swenson and Enquist? Are they consistent? Yield different insights?
-         7. If you are a conservation planner, what do these results mean to you?
+* **September 12**
+	* Discussion: Patterns in Taxonomic, Phylogenetic, and Functional Diversity
+    		* Reading: [Opposing assembly mechanism in a Neotropical Dry Forest](https://doi.org/10.1890/08-1025.1)
+         		1. This is not the first paper Swneson and Enquist published on the structure of this forest. What did their first paper focus on and what did it show? (You don't need to go find this other paper, the basic info is in this one)
+         		2. They talk about other work that has examined whether functional traits were phylogenetically conserved. WHat did this other work discover?
+         		3. Swenson and Enquist look at this community in a couple of different ways (I'm not talking about just functional vs phylogenetic clustering , I mean different ways they looked at how these were related), what were these different ways they analyzed the community? Why did they do this?
+         		4. What did they find about functional trait clustering in this community?
+         		5. How do they interpret the clustering?
+         		6. What would Kraft et al say about this interpretation?
+         		7. What does this paper say to you about phylogenetic and functional diversity? (I deliberately left this question very vague - it can be about how they're related, Whether its useful to study this, different ways we should be thinking about diversity, or any other thoughts this paper inspired)
+    		* Reading: [Spatial mismatch and congruence between taxonomic,phylogenetic and functional diversity](https://doi.org/10.1111/j.1461-0248.2010.01493.x)
+         		1. What question are Devistor et al trying to address?
+         		2. What data do they use?
+         		3. How do they justify the functional traits they select?
+         		4. How are they quantifying diversity?
+            			+ what is the data they are using for alpha, beta, gamma scales?
+            			+ why are they using Rao's Quadratic Entropy (Q)?
+         		5. What did Devictor et al find?
+         		6. How do these results compare to Swenson and Enquist? Are they consistent? Yield different insights?
+         		7. If you are a conservation planner, what do these results mean to you?
 
 * **September 14** 
     * Discussion: Patterns in Abundance 
          * Reading: [Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework](https://doi.org/10.1111/j.1461-0248.2007.01094.x)
-            * Questions to focus on for discussion:
                1. What is a species abundance distribution?
                2. What are the different ways a species abundance distribution can be plotted?
                3. What is the species abundance distribution of interest to ecologists?
-                  * there is more than one answer to this question- pick the one resonated with you
+                  + there is more than one answer to this question- pick the one resonated with you
                4. What processes have people proposed to explain the species abundance distribution
                5. What are some of the ways people judge which model is 'better'?
-                  * did one of those seem like a better approach to you? Why?
+                  + did one of those seem like a better approach to you? Why?
                6. Why has it been difficult to figure out which model fits the data best?
                7. What to the authors propose is a better way to move forward?
                8. In the species abundance distribution literature, two models pop up a lot: log normal and log series. Be able to explain what is different about them (Being able to draw them is fine).
                9. What is a veil line?
                10. From page 1006 to the end, the paper is full of suggestionsl for things that should/need to be done to help us better understand the species abundance distribution. Which approaches sounded most interesting/promising to you. Why?
          * Reading: [Commonness and rarity in the marine biosphere](https://doi.org/10.1073/pnas.1406664111)
-            * Questions to focus on for discussion:
                1. What question is Connolly et al trying to answer?
                2. What is the curse of dimensionality? Why do niche based models suffer from it but neutral ones do not?
                3. In class, I'll explain the gamma vs. log normal approach Connoly took and why, but it is based on  a paper by Pueyo that shows how theoretically a specific type of abundance distribution (a gamma distribution) should emerge from most neutral models. What do Connolly et al do to support their use of the gamma distribution to represent neutral models?
@@ -92,13 +90,7 @@ Thursdays are often a split between class activity and discussion, thus there ar
                9. Do you think terrestrial systems would show as clean a result as the marine systems do? Why?
     * Class Activity: Alpha, Beta, Gamma
 
-* September 19: Patterns in Body Size
-      - Question for discussion
-            1. There is a variety of evidence suggesting shrinking body sizes is one of the expected responses to climate change (no I'm not making this up. You can read this if you want to know more but this is not required for class: [Declining body size: a third universal response to warming?](https://doi.org/10.1016/j.tree.2011.03.005). Think about the two assigned papers. What impacts might declining body sizes have on current body size distributions and food webs?
-    * Reading: [Body size in ecological networks](https://doi.org/10.1016/j.tree.2005.04.005)
-    * Reading: [Relationships between body size and abundance in ecology](https://doi.org/10.1016/j.tree.2007.03.007)
-  
-* September 21:  
+* **September 19**  
     * Discussion: Species Networks
          * Readings: [Tolerance of pollination networks to species extinctions](https://doi.org/10.1098/rspb.2004.2909)
             * Questions for Discussion
@@ -115,58 +107,62 @@ Thursdays are often a split between class activity and discussion, thus there ar
             3. Did the networks they designed retain their initial structure or did they change over the simulations? What happened and why?
             4. How did modularity and nestedness impact the stability of the networks?
             5. How did the empirical results compare to what their models suggested they should find?
-    * Class Activity: Group Projects
+    * Class Activity: Group Projects (Identifying people with common interests)
+    
+* **September 21** 
+	* Discussion/Class Activity: Patterns in Body Size
+		* Read: Everyone is required to read: [Declining body size: a third universal response to warming?](https://doi.org/10.1016/j.tree.2011.03.005). 
+		* Pick one of the following:
+    			* Reading: [Body size in ecological networks](https://doi.org/10.1016/j.tree.2005.04.005)
+    			* Reading: [Relationships between body size and abundance in ecology](https://doi.org/10.1016/j.tree.2007.03.007)
+			* (note to Morgan) Pick one more body size paper for class
+	* Class Activity: Break into groups based on which optional paper you read and think about the impacts of warming on your pattern if warming does generally cause decreases in body size.
  
 
-* September 26: Productivity-Diversity Debate
-      * For class you will break into small groups to figure out what you think is going on with this debate. Is someone right and someone wrong? Is everyone right or everyone wrong? How do we walk away from a debate like this with a better understanding of what is going on in nature? The first two papers set out the main debate. The second two are short comments about technical and conceptual issues. Make sure to have a firm grasp of the first two papers and you can have a looser grasp of the two short comments. At the end of class we will come back together as a group and see how different groups thought about this debate.
+* **September 26**: 
+	* Discussion: Productivity-Diversity Debate. For class you will break into small groups to figure out what you think is going on with this debate. Is someone right and someone wrong? Is everyone right or everyone wrong? How do we walk away from a debate like this with a better understanding of what is going on in nature? The first two papers set out the main debate. The second two are short comments about technical and conceptual issues. Make sure to have a firm grasp of the first two papers and you can have a looser grasp of the two short comments. At the end of class we will come back together as a group and see what different groups thought about this debate.
     * Readings: [Productivity is a poor predictor of plant species richness](https://doi.org/10.1126/science.1204498)
     * Readings: [Worldwide evidence of a unimodal relationship between productivity and plant species richness](https://doi.org/10.1126/science.aab3916 )
     * Readings: [Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness"](https://doi.org/10.1126/science.aad6236)
     * Readings: [Response to Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness"](https://doi.org/10.1126/science.aad8019)
 
-* September 28:  
+* **September 28**  
       * Discussion: Biodiversity-Ecosystem Function Debate
-         * Reading: [Partitioning selection and complementarity in biodiversity experiments](https://doi.org/10.1038/35083573)
-              - Questions for discussion
-               1. What relationship between diversity and ecosystem processes does Loreau & Hector say experiments show?
-               2. Why are these experiments controversial?
-               3. What is the selection effect?
-               4. What is the sampling effect?
-               5. What is complementarity?
-               6. What do Loreau and Hector do to help resolve the controversy in this research area?
-               7. What data do they use?
-               8. What results do Loreau and Hector find in the data?               
-         * Reading: [Effects of biodiversity on the functioning of trophic groups and ecosystems](https://doi.org/10.1038/nature05202)
-              - Questions for discussion
-               1. What is the debate that Cardinale et al set out to address?
-               2. How to they set out to address it? What approach do they use?
-               3. What do they find? Do they find systematic differences between studies? What are their two consistent results?
-               4. Think about these results in the context of Loreau and Hector. Do any of their conclusions differ from the other paper or  do they find similar things? If you think the results are different, why?  
+      		* Reading: [Partitioning selection and complementarity in biodiversity experiments](https://doi.org/10.1038/35083573)
+			1. What relationship between diversity and ecosystem processes does Loreau & Hector say experiments show?
+			2. Why are these experiments controversial?
+			3. What is the selection effect?
+			4. What is the sampling effect?
+			5. What is complementarity?
+			6. What do Loreau and Hector do to help resolve the controversy in this research area?
+			7. What data do they use?
+			8. What results do Loreau and Hector find in the data?               
+         	* Reading: [Effects of biodiversity on the functioning of trophic groups and ecosystems](https://doi.org/10.1038/nature05202)
+			1. What is the debate that Cardinale et al set out to address?
+			2. How to they set out to address it? What approach do they use?
+			3. What do they find? Do they find systematic differences between studies? What are their two consistent results?
+			4. Think about these results in the context of Loreau and Hector. Do any of their conclusions differ from the other paper or  do they find similar things? If you think the results are different, why?  
        * Class Activity: Group Projects
 
-* October 3: 
-   * Discussion: Biodiversity through time 
-      * Reading: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
-         - Questions for discussion
-            1. What question are Dornelas et al asking?
-            2. Why do they think this is an important question to ask?
-            3. What aspects of biodiversity are they examining?
-            4. What did they do? What type of data are they using?
-            5. What were the general trends in biodiversity through time?
-            6. What do Dornelas et al think is going on that explains their patterns?
-            7. How do they think biodiversity research focus needs to change?      
-      * Reading:[Recent Trends in Local-Scale Marine Biodiversity Reflect Community Structure and Human Impacts](https://doi.org/10.1016/j.cub.2015.05.030)
-         - Questions for discussion
-            1. Compare the results from Elahi et al with Dornelas et al. Are they similar or do they differ?
-            2. What does the Elahi et al study add to our understanding of local biodiversity dynamics?
-            3. How do Elahi et al suggest their results and the results of other studies can be reconiled with studies showing global biodiversity loss?
-            4. Do Dornelas et al and Elahi et al have any influence on the biodiversity-ecosystem function research area?
+* **October 3** 
+	* Discussion: Biodiversity through time 
+		* Reading: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
+            		1. What question are Dornelas et al asking?
+            		2. Why do they think this is an important question to ask?
+            		3. What aspects of biodiversity are they examining?
+            		4. What did they do? What type of data are they using?
+            		5. What were the general trends in biodiversity through time?
+            		6. What do Dornelas et al think is going on that explains their patterns?
+            		7. How do they think biodiversity research focus needs to change?      
+      		* Reading:[Recent Trends in Local-Scale Marine Biodiversity Reflect Community Structure and Human Impacts](https://doi.org/10.1016/j.cub.2015.05.030)
+            		1. Compare the results from Elahi et al with Dornelas et al. Are they similar or do they differ?
+            		2. What does the Elahi et al study add to our understanding of local biodiversity dynamics?
+            		3. How do Elahi et al suggest their results and the results of other studies can be reconiled with studies showing global biodiversity loss?
+            		4. Do Dornelas et al and Elahi et al have any influence on the biodiversity-ecosystem function research area?
      
-* October 5: 
-  * Discussion: Biodiversity through time - Hillebrand? Brown et al?
-
-   * Class Activity: Group Projects
+* **October 5** 
+ 	 * Discussion: Biodiversity through time - Hillebrand? Brown et al?
+  	 * Class Activity: Group Projects
  
 ### Weeks 7-9: Regional-Scale Diversity Patterns & Processes
  
