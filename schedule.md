@@ -5,7 +5,7 @@ title: Schedule
 (Updates for Fall 2017 in Progress)
 Thursdays are often a split between class activity and discussion, thus there are often two topics on those days. Tuesdays are always just discussion. 
 
-IMPORTANT: if Date is in <span style="color:orange"> ORANGE </span> then readings are not yet finalized
+IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalized for that class period. If questions for readings are not yet posted, they will be at least 1 week before reading is discussed.
 
 ### Weeks 1 & 2: Thinking about what biodiversity means/is
 
@@ -89,75 +89,66 @@ IMPORTANT: if Date is in <span style="color:orange"> ORANGE </span> then reading
 
 #### September 19  Species Networks
 * Readings: [Tolerance of pollination networks to species extinctions](https://doi.org/10.1098/rspb.2004.2909)
-            1. What are Memmott et al trying to understand about pollinator networks?
-            2. What did they do to address their question? (what type of data did they compile, what did they do with that data)
-            3. What did they find?
-            4. Why do their pollinator networks seem to be robust to extinctions?
-            5. How do these results differ from the previous food webs results that had been published?
-            6. What do they think is causing the difference in response to extinctions between mutualism networks and trophic networks?
-         * Readings: [Stability of Ecological Communities and the Architecture of Mutualistic and Trophic Networks](https://doi.org/10.1126/science.1188321)
-            * Questions for Discussion
-            1. Why have differences between mutualism and trophic networks been hard to understand?
-            2. How did Thebault and Fontaine approach this question so they could be compared?
-            3. Did the networks they designed retain their initial structure or did they change over the simulations? What happened and why?
-            4. How did modularity and nestedness impact the stability of the networks?
-            5. How did the empirical results compare to what their models suggested they should find?
-    * Class Activity: Group Projects (Identifying people with common interests)
+    * What are Memmott et al trying to understand about pollinator networks?
+    * What did they do to address their question? (what type of data did they compile, what did they do with that data)
+    * What did they find?
+    * Why do their pollinator networks seem to be robust to extinctions?
+    * How do these results differ from the previous food webs results that had been published?
+    * What do they think is causing the difference in response to extinctions between mutualism networks and trophic networks?
+* Readings: [Stability of Ecological Communities and the Architecture of Mutualistic and Trophic Networks](https://doi.org/10.1126/science.1188321)
+    * Why have differences between mutualism and trophic networks been hard to understand?
+    * How did Thebault and Fontaine approach this question so they could be compared?
+    * Did the networks they designed retain their initial structure or did they change over the simulations? What happened and why?
+    * How did modularity and nestedness impact the stability of the networks?
+    * How did the empirical results compare to what their models suggested they should find?
+* Class Activity: Group Projects (Identifying people with common interests)
     
-* <span style="color:orange"> September 21 </span> 
-	* Discussion/Class Activity: Patterns in Body Size
-		* Read: Everyone is required to read: [Declining body size: a third universal response to warming?](https://doi.org/10.1016/j.tree.2011.03.005). 
-		* Pick one of the following:
-    			* Reading: [Body size in ecological networks](https://doi.org/10.1016/j.tree.2005.04.005)
-    			* Reading: [Relationships between body size and abundance in ecology](https://doi.org/10.1016/j.tree.2007.03.007)
-			* (note to Morgan) Pick one more body size paper for class
-	* Class Activity: Break into groups based on which optional paper you read and think about the impacts of warming on your pattern if warming does generally cause decreases in body size.
+#### September 21** Patterns in Body Size
+* Read: Everyone is required to read: [Declining body size: a third universal response to warming?](https://doi.org/10.1016/j.tree.2011.03.005). or Brown et al Metabolic Theory?
+* Pick one of the following to read:
+    * Reading: [Body size in ecological networks](https://doi.org/10.1016/j.tree.2005.04.005)
+    * Reading: [Relationships between body size and abundance in ecology](https://doi.org/10.1016/j.tree.2007.03.007)
+    * (note to Morgan) Pick one more body size paper for class - Predator Prey dynamics?
+* Class Activity: Break into groups based on which optional paper you read and think about the impacts of warming on your pattern if warming does generally cause decreases in body size.
  
+#### September 26 Biodiversity-Ecosystem Function Debate
+* Reading: [Partitioning selection and complementarity in biodiversity experiments](https://doi.org/10.1038/35083573)
+    * What relationship between diversity and ecosystem processes does Loreau & Hector say experiments show?
+    * Why are these experiments controversial?
+    * What is the selection effect?
+    * What is the sampling effect?
+    * What is complementarity?
+    * What do Loreau and Hector do to help resolve the controversy in this research area?
+    * What data do they use?
+    * What results do Loreau and Hector find in the data?               
+* Reading: [Effects of biodiversity on the functioning of trophic groups and ecosystems](https://doi.org/10.1038/nature05202)
+    * What is the debate that Cardinale et al set out to address?
+    * How to they set out to address it? What approach do they use?
+    * What do they find? Do they find systematic differences between studies? What are their two consistent results?
+    * Think about these results in the context of Loreau and Hector. Do any of their conclusions differ from the other paper or  do they find similar things? If you think the results are different, why?  
 
-* **September 26**: 
-	* Discussion: Productivity-Diversity Debate. For class you will break into small groups to figure out what you think is going on with this debate. Is someone right and someone wrong? Is everyone right or everyone wrong? How do we walk away from a debate like this with a better understanding of what is going on in nature? The first two papers set out the main debate. The second two are short comments about technical and conceptual issues. Make sure to have a firm grasp of the first two papers and you can have a looser grasp of the two short comments. At the end of class we will come back together as a group and see what different groups thought about this debate.
-    * Readings: [Productivity is a poor predictor of plant species richness](https://doi.org/10.1126/science.1204498)
-    * Readings: [Worldwide evidence of a unimodal relationship between productivity and plant species richness](https://doi.org/10.1126/science.aab3916 )
-    * Readings: [Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness"](https://doi.org/10.1126/science.aad6236)
-    * Readings: [Response to Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness"](https://doi.org/10.1126/science.aad8019)
+#### September 28 Productivity-Diversity Debate
+For class you will break into small groups to figure out what you think is going on with this debate. Is someone right and someone wrong? Is everyone right or everyone wrong? How do we walk away from a debate like this with a better understanding of what is going on in nature? The first two papers set out the main debate. The second two are short comments about technical and conceptual issues. Make sure to have a firm grasp of the first two papers and you can have a looser grasp of the two short comments. At the end of class we will come back together as a group and see what different groups thought about this debate.
+* Readings: [Productivity is a poor predictor of plant species richness](https://doi.org/10.1126/science.1204498)
+* Readings: [Worldwide evidence of a unimodal relationship between productivity and plant species richness](https://doi.org/10.1126/science.aab3916 )
+* Readings: [Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness"](https://doi.org/10.1126/science.aad6236)
+* Readings: [Response to Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness"](https://doi.org/10.1126/science.aad8019)
 
-* **September 28**  
-      * Discussion: Biodiversity-Ecosystem Function Debate
-      		* Reading: [Partitioning selection and complementarity in biodiversity experiments](https://doi.org/10.1038/35083573)
-			1. What relationship between diversity and ecosystem processes does Loreau & Hector say experiments show?
-			2. Why are these experiments controversial?
-			3. What is the selection effect?
-			4. What is the sampling effect?
-			5. What is complementarity?
-			6. What do Loreau and Hector do to help resolve the controversy in this research area?
-			7. What data do they use?
-			8. What results do Loreau and Hector find in the data?               
-         	* Reading: [Effects of biodiversity on the functioning of trophic groups and ecosystems](https://doi.org/10.1038/nature05202)
-			1. What is the debate that Cardinale et al set out to address?
-			2. How to they set out to address it? What approach do they use?
-			3. What do they find? Do they find systematic differences between studies? What are their two consistent results?
-			4. Think about these results in the context of Loreau and Hector. Do any of their conclusions differ from the other paper or  do they find similar things? If you think the results are different, why?  
-       * Class Activity: Group Projects
-
-* <span style="color:orange"> October 3</span>
-	* Discussion: Biodiversity through time 
-		* Reading: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
-            		1. What question are Dornelas et al asking?
-            		2. Why do they think this is an important question to ask?
-            		3. What aspects of biodiversity are they examining?
-            		4. What did they do? What type of data are they using?
-            		5. What were the general trends in biodiversity through time?
-            		6. What do Dornelas et al think is going on that explains their patterns?
-            		7. How do they think biodiversity research focus needs to change?      
-      		* Reading:[Recent Trends in Local-Scale Marine Biodiversity Reflect Community Structure and Human Impacts](https://doi.org/10.1016/j.cub.2015.05.030)
-            		1. Compare the results from Elahi et al with Dornelas et al. Are they similar or do they differ?
-            		2. What does the Elahi et al study add to our understanding of local biodiversity dynamics?
-            		3. How do Elahi et al suggest their results and the results of other studies can be reconiled with studies showing global biodiversity loss?
-            		4. Do Dornelas et al and Elahi et al have any influence on the biodiversity-ecosystem function research area?
-     
-* <span style="color:orange"> October 5 </span>
- 	 * Discussion: Biodiversity through time - Hillebrand? Brown et al?
-  	 * Class Activity: Group Projects
+#### October 3** Biodiversity through time
+* Reading: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
+    * What question are Dornelas et al asking?
+    * Why do they think this is an important question to ask?
+    * What aspects of biodiversity are they examining?
+    * What did they do? What type of data are they using?
+    * What were the general trends in biodiversity through time?
+    * What do Dornelas et al think is going on that explains their patterns?
+    * How do they think biodiversity research focus needs to change?      
+* Reading: Brown et al
+ 
+#### October 5** Biodiversity through time
+* Reading: Cardinale group?
+* Reading: Hillebrand?
+* Class Activity: Group Projects
  
 ### Weeks 7-9: Regional-Scale Diversity Patterns & Processes
  
