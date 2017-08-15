@@ -43,7 +43,7 @@ IMPORTANT: if Date is in <span style="color:orange"> ORANGE </span> then reading
 		* Reading: [Drought mediates the importance of stochastic community assembly](https://doi.org/10.1073/pnas.0704350104)
       * Class Activity: Structuring Introductions of Papers/Proposals and what that has to do with your Class Project
 
-* **September 12**
+* <span style="color:orange"> September 12 </span>
 	* Discussion: Patterns in Taxonomic, Phylogenetic, and Functional Diversity
 		* Reading: [Rebuilding community ecology from functional traits](http://dx.doi.org/10.1016/j.tree.2006.02.002)
 		* Reading: [Opposing assembly mechanism in a Neotropical Dry Forest](https://doi.org/10.1890/08-1025.1)
@@ -111,7 +111,7 @@ IMPORTANT: if Date is in <span style="color:orange"> ORANGE </span> then reading
             5. How did the empirical results compare to what their models suggested they should find?
     * Class Activity: Group Projects (Identifying people with common interests)
     
-* **September 21** 
+* <span style="color:orange"> September 21 </span> 
 	* Discussion/Class Activity: Patterns in Body Size
 		* Read: Everyone is required to read: [Declining body size: a third universal response to warming?](https://doi.org/10.1016/j.tree.2011.03.005). 
 		* Pick one of the following:
@@ -146,7 +146,7 @@ IMPORTANT: if Date is in <span style="color:orange"> ORANGE </span> then reading
 			4. Think about these results in the context of Loreau and Hector. Do any of their conclusions differ from the other paper or  do they find similar things? If you think the results are different, why?  
        * Class Activity: Group Projects
 
-* **October 3** 
+* <span style="color:orange"> October 3</span>
 	* Discussion: Biodiversity through time 
 		* Reading: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
             		1. What question are Dornelas et al asking?
@@ -162,13 +162,14 @@ IMPORTANT: if Date is in <span style="color:orange"> ORANGE </span> then reading
             		3. How do Elahi et al suggest their results and the results of other studies can be reconiled with studies showing global biodiversity loss?
             		4. Do Dornelas et al and Elahi et al have any influence on the biodiversity-ecosystem function research area?
      
-* **October 5** 
+* <span style="color:orange"> October 5 </span>
  	 * Discussion: Biodiversity through time - Hillebrand? Brown et al?
   	 * Class Activity: Group Projects
  
 ### Weeks 7-9: Regional-Scale Diversity Patterns & Processes
  
-* October 10: Regional Assembly - Dispersal     
+* **October 10**
+	* Discussion: Regional Assembly - Dispersal     
    * (yes I am only assigning 1 paper. Enjoy!) Reading: [The metacommunity concept: a framework for multi-scale community ecology](https://doi.org/10.1111/j.1461-0248.2004.00608.x)
         * Questions for Discussion
              1. We've spent a lot of the semester focused on community-scale biodiversity patterns and the mechanisms thought to generate them. What scale have we predominately been focusing on?
@@ -183,8 +184,8 @@ IMPORTANT: if Date is in <span style="color:orange"> ORANGE </span> then reading
             10. Be able to explain (succinctly) the four main types of metacommunity models. What are they and how are they different? (i.e. how do they differ in their assumptions about patches, which species can enter the community, the role of nichebased processes, differences among species, etc).
             11. Which model do you think applies to your system? Why? (yes I will go around the room on this one. Be able to name a relevant model and explain why it applies (in 1-2 sentences). If you do not think a metacommunity framework applies, say that and why. I'd recommend writing your sentence before class so you aren't caught off guard. If I was Stephen Hubbell here's what I would write: I study a tropical tree community that I think fits into the neutral model. I think this because we have dispersal, though its limited, and niche differences between species seem small (or non-existent) and its hard to see how those small differences create stable coexistence.         
                
-* October 12: Regional Assembly - Environmental Heterogeneity
-    * Discussion: 
+* **October 12** 
+    * Discussion: Regional Assembly - Environmental Heterogeneity
          * Reading: The "Frankenpaper" - emailed to the class listserv
          * Questions:
             1. MacArthur & MacArthur: 
@@ -208,18 +209,14 @@ IMPORTANT: if Date is in <span style="color:orange"> ORANGE </span> then reading
                - Why is the niche width of a species important for understanding how biodiversity responds to increasingly complex environments?
                - Brainstorm reasons this relationship may not have been seen in Stein et al. These can be statistical or biological reasons having to do with either paper. I know I haven't given you enough info to know for sure what might be an issue and what they may have corrected for or examined in secondary analyses, I just want you to think generally about the issue.   
     * Class Activity: Group Projects
-      
 
-* October 17: **Class Field Trip - Seminar by Julia Baum ("Coral Reef Community Structure and Resilience in a Changing World")**
-    *  For those not attending the talk, here is the reading and questions: [Fishing degrades size structure of coral reef fish communities](https://doi.org/10.1111/gcb.13482)
-         * Questions:
-            1. What is the size spectra? What information does it provide about a community?
-            2. What about the shape of the size spectra are they quantifying?
-            3. What do the changes in the size spectra they document tell them about the impacts of human impacts on fish communities?
-            4. Why do they think the size spectra and total fish biomass provide different info about the fish community?
-    
+* October 17
+	* FIELD TRIP? Andrew Gonzalez Biology Seminar
 
-* October 19: 
+* October 19
+	* Discussion: Fragmentation patterns
+
+* October 24: 
     * Discussion: Local-Regional Diversity Relationships
          * Reading: [Community diversity: relative roles of local and regional processes](http://www.jstor.org/stable/1698957?seq=1#page_scan_tab_contents)
             1. In the second paragraph ("Present-day ecological investigations...."), Ricklefs describes what he sees as the state of the field in 1987. Do you think this is still a valid assessment of the field today? Why?
@@ -238,14 +235,8 @@ IMPORTANT: if Date is in <span style="color:orange"> ORANGE </span> then reading
             6. How do they propose local and regional processes are combining to determine local richness?
     * Class Activity: Group Projects
 
-* October 24: **Class Field Trip - Seminar by Mathew Leibold ("Rethinking Metacommunity Ecology")**
-    * For those not attending the talk, here is the reading: [Empirical approaches to metacommunities: a review and comparison with theory](https://doi.org/10.1016/j.tree.2011.04.009)
-         1. What are the empirical shortcomings the paper finds in the study of metacommunities? (i.e. are there system/taxon biases, are they doing a good job of testing all the frameworks?)
-         2. Do empirical studies primarily support a particular model or do they tend to suggest more than one model is operating, even in the same system?
-         3. Theoretically, what are some of the ways they think the study of meetacommunities needs to change to advance?
-         4. Empirically, what are some of the ways they think the study of meetacommunities needs to change to advance?
-         
-* October 26: Species-Area/Time Relationships
+* October 26: 
+	* Discussion: Species-Area/Time Relationships
     *  For this week there is 1 paper and 2 short excerpts from books. The book excerpts will be sent to the class by email
     *  Reading: Part of Chapter 2 from *Species Diversity in Space and Time* by Rosenzweig
           1. Why does creating a species-area plot from contiguous plots generate a shallower slope than a plot made from non-contiguous plots?
@@ -262,23 +253,11 @@ IMPORTANT: if Date is in <span style="color:orange"> ORANGE </span> then reading
          5. What do the species-area and species-time relationships tell you about biodiversity across scales?
          6. We haven't talked about phylogenetic or functional diversity in a while. Take a moment to ponder whether you expect those aspects of biodiversity to show similar patterns across scales (and similar drivers) to the Species-Area and Species-Time relationships.
     *  Class Activity: Group Projects
-
-* November 3: **Class Field Trip: Allen Hurlbert ("Origin and maintenance of biodiversity gradients: making inferences at regional to global scales")**
-    *  For those not attending the talk, here is the reading: [On the processes generating latitudinal richness gradients: identifying diagnostic patterns and predictions](https://doi.org/10.3389/fgene.2014.00420)
-         1. What is the current problem with testing hypotheses for how the latitudinal gradient in species richness is generated?
-         2. Explain the zero-sum constraint used in the models.
-         3. What is the niche conservatism hypothesis?
-         4. What is the ecological limits hypothesis?
-         5. What is the evolutionary rates hypothesis?
-         6. What is the tropical stability hypothesis?
-         7. What was the goal of the simulations? (i.e. what information do they provide that will help future tests of the latitudinal gradient?)
-         
-* November 8: VOTE! NO CLASS
-
+    
 ### Weeks 10-14 Global Biodiversity Patterns and Processes
 
-* November 10: Biogeographic Processes
-    * Discussion: 
+* **October 31**
+    * Discussion: Biogeographic Processes
          * Readings: [Global patterns and drivers of phylogenetic structure in island floras](https://doi.org/10.1038/srep12213)
             - Questions:
                1. The paper is exhaustive in discussing the details of each analysis, but that is not what I want you to focus on. I chose this reading because it covers all but one of the focal processes invoked to explain biogeographic biodiversity patterns: dispersal, environment, and speciation. Be able to explain how these three processes influence biodiversity on islands. 
@@ -294,10 +273,11 @@ IMPORTANT: if Date is in <span style="color:orange"> ORANGE </span> then reading
                5. The paper compares their results to Wallace's original regions. When Wallace made his regions in 1876, there were many things that were yet to be discovered that are key to this paper. What tools or knowledge did these authors have that Wallace didn't have that would be relevant to this project? How did Wallace's results compare to this high-tech version?
          
  
-* November 15: 
-    * No readings. In-Class Project Time.
-    
-* November 17: Hotspots and Endemism
+* November 2:
+	* Discussion: Biogeographic Processes
+	  
+* **November 7**
+	* Discussion: Hotspots and Endemism
     * Readings: [Global hotspots of species richness are not congruent with endemism or threat](https://doi.org/10.1038/nature03850)
          - Questions
               1. What is an endemic species?
@@ -314,37 +294,49 @@ IMPORTANT: if Date is in <span style="color:orange"> ORANGE </span> then reading
               3. How did patterns in the endemic richness index compare across the different taxa assessed?
               4. Compare these results to the other assigned paper. What do they tell you in combination about patterns of endemism?
           
-* November 22: 
+* **November 9**
+	* No readings: Group Projects
 
-    * Class Activity: Group Projects
+* November 14
+	* Discussion: Latitidinal Gradient
 
-### Weeks 15-16: Group Presentations
- 
-* November 29: Group Presentations
+* **November 16**
+	* No readings: Group Projects
 
-* December 1: Group Presentations
+* **November 21** 
+	* No readings Group Projects
 
-* December 6: Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
-    * Discussion: 
-         * Readings: [Understanding global patterns of mammalian functional and phylogenetic diversity](https://doi.org/10.1098/rstb.2011.0024)
-           - Questions
-              1. Why are patterns of phylogenetic diversity important to understand?
-              2.   Why are patterns of functional diversity important to understand?
-              3.  Figure 1 shows possible relationships between FD and PD. 
+* ** November 28**
+	* Discussion: Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
+        	* Readings: [Understanding global patterns of mammalian functional and phylogenetic diversity](https://doi.org/10.1098/rstb.2011.0024)
+           	- Questions
+              	1. Why are patterns of phylogenetic diversity important to understand?
+              	2.   Why are patterns of functional diversity important to understand?
+              	3.  Figure 1 shows possible relationships between FD and PD. 
 	          a. Explain what the phylogenetic constraint space represents 
 	          b. Why might functional diversity be higher than expected given the amount of phylogenetic diversity? (WHat does that even mean?)
 	          c. Why might functional diversity be less than expected from phylogenetic diversity?
-              4. Conceptually, species richness constrain PD and FD. How?
-              5. What were the observed patterns between species richness, PD, and FD?
-              6. Did continents differ in their observed phylogenetic/functional diversity relationship? What do you think this means?
-              7. What were the differences in patterns between the temperate and tropical regions? What did they suggest explained that difference?
-              8. The paper talks a lot of about communities, but does the data used here represent communities? What might this better reflect? Does that change how you think about the results? 
-	      
-     * What have we learned:
-	   * Readings: Look over the questions and topics on the schedule and reflect on what we have covered over the past semester
-	    - Questions:
+		4. Conceptually, species richness constrain PD and FD. How?
+              	5. What were the observed patterns between species richness, PD, and FD?
+              	6. Did continents differ in their observed phylogenetic/functional diversity relationship? What do you think this means?
+              	7. What were the differences in patterns between the temperate and tropical regions? What did they suggest explained that difference?
+              	8. The paper talks a lot of about communities, but does the data used here represent communities? What might this better reflect? Does that change how you think about the results? 
+
+* **November 30** 
+	* No readings Group Projects
+
+### Weeks 15-16: Group Presentations and Discussion
+ 
+* December 5: 
+	* Discussion: What have we learned? Wrapping up the Semester
+		* Readings: Look over the questions and topics on the schedule and reflect on what we have covered over the past semester
+	    		- Questions:
 			1.  What themes or processes came up multiple times this semester?
 			2.  What role does spatial scale play in our understanding of biodiversity?
 			3.  When you entered the class, what dimension of biodiversity did you focus on? How did you assume it was related to other aspects of biodiversity? Did the class strengthen or change they way you think about that?
+			
+* December 7: Group Presentations
+
+	   
 			
 
