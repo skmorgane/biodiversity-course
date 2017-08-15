@@ -9,39 +9,40 @@ IMPORTANT: if Date is in <span style="color:orange"> ORANGE </span> then reading
 
 ### Weeks 1 & 2: Thinking about what biodiversity means/is
 
-* **August 22**: Introductions. What does the word biodiversity mean to you?
+#### August 22: Introductions. What does the word biodiversity mean to you?
 
-* **August 24** 
-	* Discussion: Dimensions of Biodiversity - Functional, Phylogenetic, Genetic, Taxonomic
-		* Reading: [The Functions of Biological Diversity in an Age of Extinction](https://doi.org/10.1126/science.1215855) 
-	*  Class Activity: Biodiversity Dimensions in the Literature 
+#### August 24 Dimensions of Biodiversity - Functional, Phylogenetic, Genetic, Taxonomic
 
-* **August 29** 
-	* Discussion: Measuring Biodiversity - Alpha, Beta, Gamma Diversity
-		* Reading: [Partitioning diversity into independent alpha and beta components](https://doi.org/10.1890/06-1736.1)
-		* Reading: [Disentangling the Drivers of Beta Diversity Along Latitudinal and Elevational Gradients](https://doi.org/10.1126/science.1208584)
-		
-* <span style="color:orange"> August 31 </span>
-	* Discussion: Measuring Biodiversity - Evenness
-		* Reading: [A consistent terminology for quantifying species diversity? Yes, it does exist](https://doi.org/10.1007%2Fs00442-010-1812-0)
-	* Class Activity: Exploring Diversity Indices
+* Reading: [The Functions of Biological Diversity in an Age of Extinction](https://doi.org/10.1126/science.1215855) 
+* Class Activity: Biodiversity Dimensions in the Literature 
+
+#### August 29
+
+* Discussion: Measuring Biodiversity - Alpha, Beta, Gamma Diversity
+    * Reading: [Partitioning diversity into independent alpha and beta components](https://doi.org/10.1890/06-1736.1)
+    * Reading: [Disentangling the Drivers of Beta Diversity Along Latitudinal and Elevational Gradients](https://doi.org/10.1126/science.1208584)
+
+#### <span style="color:orange"> August 31 </span>
+
+* Discussion: Measuring Biodiversity - Evenness
+    * Reading: [A consistent terminology for quantifying species diversity? Yes, it does exist](https://doi.org/10.1007%2Fs00442-010-1812-0)
+* Class Activity: Exploring Diversity Indices
 
 ### Weeks 3-6: Local-scale Biodiversity Patterns & Processes
 
-* **September 5**
-	* Discussion: Assembly Mechanisms - Biotic and Environmental Filters
-		* Reading: [Assembly Rules, Null Models, and Trait Dispersion: New Questions from Old Patterns](http://www.jstor.org/stable/3545686)
-		* Reading: [Community assembly, coexistence and the environmental filtering metaphor](https://doi.org/10.1111/1365-2435.12345)
- 
-* **September 7** 
-	* Discussion: Assembly Mechanisms - Niches/Deterministic vs. Neutral/Stochastic
-		* Reading: [Neutral theory in community ecology and the hypothesis of functional equivalence](https://doi.org/10.1111/j.0269-8463.2005.00965.x) 
-			+ Note from Morgan: I will provide a cartoon overview of the Neutral Theory in class. In this reading, I want you to focus on the following issues:
-			1. How does Hubbell's view of communities compare to the Biotic/Environmental filter papers?
-                  		+ Is there an important concept he deliberately ignores?
-                  		+ What are his arguments for why this concept can be ignored?
-		* Reading: [Drought mediates the importance of stochastic community assembly](https://doi.org/10.1073/pnas.0704350104)
-      * Class Activity: Structuring Introductions of Papers/Proposals and what that has to do with your Class Project
+#### September 5
+* Discussion: Assembly Mechanisms - Biotic and Environmental Filters
+    * Reading: [Assembly Rules, Null Models, and Trait Dispersion: New Questions from Old Patterns](http://www.jstor.org/stable/3545686)
+    * Reading: [Community assembly, coexistence and the environmental filtering metaphor](https://doi.org/10.1111/1365-2435.12345)
+
+#### September 7
+* Discussion: Assembly Mechanisms - Niches/Deterministic vs. Neutral/Stochastic
+    * Reading: [Neutral theory in community ecology and the hypothesis of functional equivalence](https://doi.org/10.1111/j.0269-8463.2005.00965.x) **Note from Morgan: I will provide a cartoon overview of the Neutral Theory in class. In this reading, I want you to focus on the following issues:**
+        1. How does Hubbell's view of communities compare to the Biotic/Environmental filter papers?
+        2.  Is there an important concept he deliberately ignores?
+        3. What are his arguments for why this concept can be ignored?
+* Reading: [Drought mediates the importance of stochastic community assembly](https://doi.org/10.1073/pnas.0704350104)
+* Class Activity: Structuring Introductions of Papers/Proposals and what that has to do with your Class Project
 
 * <span style="color:orange"> September 12 </span>
 	* Discussion: Patterns in Taxonomic, Phylogenetic, and Functional Diversity
