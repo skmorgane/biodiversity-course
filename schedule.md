@@ -152,174 +152,155 @@ For class you will break into small groups to figure out what you think is going
  
 ### Weeks 7-9: Regional-Scale Diversity Patterns & Processes
  
-* **October 10**
-	* Discussion: Regional Assembly - Dispersal     
-   * (yes I am only assigning 1 paper. Enjoy!) Reading: [The metacommunity concept: a framework for multi-scale community ecology](https://doi.org/10.1111/j.1461-0248.2004.00608.x)
-        * Questions for Discussion
-             1. We've spent a lot of the semester focused on community-scale biodiversity patterns and the mechanisms thought to generate them. What scale have we predominately been focusing on?
-             2. What mechanisms have we predominately been focused on as generating biodiversity patterns?
-             3. What mechanism is this paper arguing we should add to that list?
-             4. What is a metacommunity?
-             5. Is the study of metacommunities still focused on the "community-scale", a larger scale, or both? Why do you think this?
-             6. What is the difference between spatially implicit and explicit models of metacommunities? Was the model of neutral theory that we covered in class implicit or explicit?
-             7. The term 'species pool' is used several times in this manuscript. What is the species pool? Where does it come from?
-             8. Why is a species pool important? How can changes to it impact observed metacommunity dynamics?
-             9. They acknowledge that "local communities do not always have discrete boundaries and that different species may respond to processes at different scales" Do you think a patch based view works for your system? Can be used as a coarse approximation? Completely irrelevant to your system? Why?
-            10. Be able to explain (succinctly) the four main types of metacommunity models. What are they and how are they different? (i.e. how do they differ in their assumptions about patches, which species can enter the community, the role of nichebased processes, differences among species, etc).
-            11. Which model do you think applies to your system? Why? (yes I will go around the room on this one. Be able to name a relevant model and explain why it applies (in 1-2 sentences). If you do not think a metacommunity framework applies, say that and why. I'd recommend writing your sentence before class so you aren't caught off guard. If I was Stephen Hubbell here's what I would write: I study a tropical tree community that I think fits into the neutral model. I think this because we have dispersal, though its limited, and niche differences between species seem small (or non-existent) and its hard to see how those small differences create stable coexistence.         
+#### October 10 Regional Assembly - Dispersal
+* Reading: [The metacommunity concept: a framework for multi-scale community ecology](https://doi.org/10.1111/j.1461-0248.2004.00608.x)
+    * We've spent a lot of the semester focused on community-scale biodiversity patterns and the mechanisms thought to generate them. What scale have we predominately been focusing on?
+    * What mechanisms have we predominately been focused on as generating biodiversity patterns?
+    * What mechanism is this paper arguing we should add to that list?
+    * What is a metacommunity?
+    * Is the study of metacommunities still focused on the "community-scale", a larger scale, or both? Why do you think this?
+    * What is the difference between spatially implicit and explicit models of metacommunities? Was the model of neutral theory that we covered in class implicit or explicit?
+    * The term 'species pool' is used several times in this manuscript. What is the species pool? Where does it come from?
+    * Why is a species pool important? How can changes to it impact observed metacommunity dynamics?
+    * They acknowledge that "local communities do not always have discrete boundaries and that different species may respond to processes at different scales" Do you think a patch based view works for your system? Can be used as a coarse approximation?     * Completely irrelevant to your system? Why?
+    * Be able to explain (succinctly) the four main types of metacommunity models. What are they and how are they different? (i.e. how do they differ in their assumptions about patches, which species can enter the community, the role of nichebased processes, differences among species, etc).
+    * Which model do you think applies to your system? Why? (yes I will go around the room on this one. Be able to name a relevant model and explain why it applies (in 1-2 sentences). If you do not think a metacommunity framework applies, say that and why. I'd recommend writing your sentence before class so you aren't caught off guard. If I was Stephen Hubbell here's what I would write: I study a tropical tree community that I think fits into the neutral model. I think this because we have dispersal, though its limited, and niche differences between species seem small (or non-existent) and its hard to see how those small differences create stable coexistence.         
                
-* **October 12** 
-    * Discussion: Regional Assembly - Environmental Heterogeneity
-         * Reading: The "Frankenpaper" - emailed to the class listserv
-         * Questions:
-            1. MacArthur & MacArthur: 
-               - how are they defining environmental heterogeneity? What is it and what scale ('Microsite', within habitat, across habitats?
-            2. Tilman & Pacala: 
-               - how are they defining environmental heterogeneity? How does it compare to how MacArthur & MacArthur are thinking about it?
-               - how does environmental heterogeneity promote higher diversity in their model?
-            3. Shmida & Wilson
-               - how do they definte environmental heterogeneity. Compare it to the previous papers.
-               - Compare how environmental heterogeneity promotes diversity in this exerpt  in comparison to the exerpts from the other two papers. What is similar and what is different?
-               - What other concepts in ecology does it make you think of?
-            4. Stein et al
-               - In table 1, look at all the different ways scientists have tried to quantify environmental heterogeneity. Think about how Shmida and Wilson talk about environmental heterogeneity and what is being quantified in Table 1. What do you think about how environmental heterogeneity is being quantified. What does it tell us about the complexity of the environment?
-               - What was the general outcome of the meta-analysis?
-               - What does this say to you about the relationship between environmental heterogeneity and species richness?
-            5. Fahrig 
-               - One of the things landscape ecology studies is role of the configuration of the landscape. What is in the perspective of the landscape that is missing from the ways environmental heterogeneity is being quantified in the studies Stein et al compiled?
-               - Why might this aspect of environmental heterogeneity be important?
-            6. Allouche et al. 
-               - How are area and heterogeneity related?
-               - Why is the niche width of a species important for understanding how biodiversity responds to increasingly complex environments?
-               - Brainstorm reasons this relationship may not have been seen in Stein et al. These can be statistical or biological reasons having to do with either paper. I know I haven't given you enough info to know for sure what might be an issue and what they may have corrected for or examined in secondary analyses, I just want you to think generally about the issue.   
-    * Class Activity: Group Projects
+#### October 12 Regional Assembly - Environmental Heterogeneity
+* Reading: The "Frankenpaper" - emailed to the class listserv
+    * MacArthur & MacArthur: 
+        * how are they defining environmental heterogeneity? What is it and what scale ('Microsite', within habitat, across habitats?
+    * Tilman & Pacala: 
+        * how are they defining environmental heterogeneity? How does it compare to how MacArthur & MacArthur are thinking about it?
+        * how does environmental heterogeneity promote higher diversity in their model?
+    * Shmida & Wilson
+        * how do they definte environmental heterogeneity. Compare it to the previous papers.
+        * Compare how environmental heterogeneity promotes diversity in this exerpt  in comparison to the exerpts from the other two papers. What is similar and what is different?
+        * What other concepts in ecology does it make you think of?
+    * Stein et al
+        * In table 1, look at all the different ways scientists have tried to quantify environmental heterogeneity. Think about how Shmida and Wilson talk about environmental heterogeneity and what is being quantified in Table 1. What do you think about how environmental heterogeneity is being quantified. What does it tell us about the complexity of the environment?
+        * What was the general outcome of the meta-analysis?
+        * What does this say to you about the relationship between environmental heterogeneity and species richness?
+    * Fahrig 
+        * One of the things landscape ecology studies is role of the configuration of the landscape. What is in the perspective of the landscape that is missing from the ways environmental heterogeneity is being quantified in the studies Stein et al compiled?
+        * Why might this aspect of environmental heterogeneity be important?
+    * Allouche et al. 
+        * How are area and heterogeneity related?
+        * Why is the niche width of a species important for understanding how biodiversity responds to increasingly complex environments?
+        * Brainstorm reasons this relationship may not have been seen in Stein et al. These can be statistical or biological reasons having to do with either paper. I know I haven't given you enough info to know for sure what might be an issue and what they may have corrected for or examined in secondary analyses, I just want you to think generally about the issue.   
+* Class Activity: Group Projects
 
-* October 17
-	* FIELD TRIP? Andrew Gonzalez Biology Seminar
+#### October 17
+* FIELD TRIP? Andrew Gonzalez Biology Seminar
 
-* October 19
-	* Discussion: Fragmentation patterns
+#### October 19** Habitat Fragmentation patterns
+  
 
-* October 24: 
-    * Discussion: Local-Regional Diversity Relationships
-         * Reading: [Community diversity: relative roles of local and regional processes](http://www.jstor.org/stable/1698957?seq=1#page_scan_tab_contents)
-            1. In the second paragraph ("Present-day ecological investigations...."), Ricklefs describes what he sees as the state of the field in 1987. Do you think this is still a valid assessment of the field today? Why?
-            2. Ricklefs proposes that local deterministic processes make common predictions: "i) community convergence, ii) resistence of the community to invasion, and iii) independence of local and regional diversity." Explain why these are the expectastions from local processes (i.e. what are the mechanisms/processes that would result in those outcomes?)
-            3. What concept(s) does Ricklefs argue has gotten lost in diversity research?
-            4. What is the key concept that community ecologists use to assume that local biodiversity processes ware separate from regional diversity processes?
-            5. What are Figures 2 & 3? How does Ricklefs interpret them?
-            6. How does Ricklefs propose ecology expand its focus from predominately local processes? 
-            7. Think about the Tilman & Pacala section from the Environmental Heterogeneity reading and Hubbell's neutral theory in the context of Ricklef's paper. i) what does Tilman & Pacala figure 2.1 say to you about increasing regional diversity and local coexistence? ii) Do you think Hubbell's neutral model is something that implements Ricklef's ideas?
-         * Reading: [The Combined Influence of the Local Environment and Regional Enrichment on Bird Species Richness](https://doi.org/10.1086/649578).
-            1. According to White and Hurlbert what has been missing from this debate over local vs. regional control of local richness?
-            2. What is variance partitioning and how do they use it to push forward the local-regional debate?
-            3. What are the local variables they exmaine? What are the regional variables?
-            4. How do local and regional variables relate to local diversity?
-            5. At what time scales do local or regional variables have their strongest signal? Why?
-            6. How do they propose local and regional processes are combining to determine local richness?
-    * Class Activity: Group Projects
+#### October 24 Local-Regional Diversity Relationships
+* Reading: [Community diversity: relative roles of local and regional processes](http://www.jstor.org/stable/1698957?seq=1#page_scan_tab_contents)
+    * In the second paragraph ("Present-day ecological investigations...."), Ricklefs describes what he sees as the state of the field in 1987. Do you think this is still a valid assessment of the field today? Why?
+    * Ricklefs proposes that local deterministic processes make common predictions: "i) community convergence, ii) resistence of the community to invasion, and iii) independence of local and regional diversity." Explain why these are the expectastions from local processes (i.e. what are the mechanisms/processes that would result in those outcomes?)
+    * What concept(s) does Ricklefs argue has gotten lost in diversity research?
+    * What is the key concept that community ecologists use to assume that local biodiversity processes ware separate from regional diversity processes?
+    * What are Figures 2 & 3? How does Ricklefs interpret them?
+    * How does Ricklefs propose ecology expand its focus from predominately local processes? 
+    * Think about the Tilman & Pacala section from the Environmental Heterogeneity reading and Hubbell's neutral theory in the context of Ricklef's paper. i) what does Tilman & Pacala figure 2.1 say to you about increasing regional diversity and local coexistence? ii) Do you think Hubbell's neutral model is something that implements Ricklef's ideas?
+* Reading: [The Combined Influence of the Local Environment and Regional Enrichment on Bird Species Richness](https://doi.org/10.1086/649578).
+    * According to White and Hurlbert what has been missing from this debate over local vs. regional control of local richness?
+    * What is variance partitioning and how do they use it to push forward the local-regional debate?
+    * What are the local variables they exmaine? What are the regional variables?
+    * How do local and regional variables relate to local diversity?
+    * At what time scales do local or regional variables have their strongest signal? Why?
+    * How do they propose local and regional processes are combining to determine local richness?
 
-* October 26: 
-	* Discussion: Species-Area/Time Relationships
-    *  For this week there is 1 paper and 2 short excerpts from books. The book excerpts will be sent to the class by email
-    *  Reading: Part of Chapter 2 from *Species Diversity in Space and Time* by Rosenzweig
-          1. Why does creating a species-area plot from contiguous plots generate a shallower slope than a plot made from non-contiguous plots?
-         2. Be able to explain how the three hypotheses (individuals, habitats, biogeography) would generate a species area relationship.
-         3. If you had to guess which mechanism might be more important at small, intermediate, and large spatial scales, which mechanism would you assign to which scale? Why?
-    *  Reading: Part of Chapter 13 from *Biogeography* by Lomolino, Riddle, & Brown (Start at the section "The Species-Area Relationship")
-         - What are the two equations used to describe the species-area relationship?
-    *  Reading: [Two-phase species-time relationships in North American land birds](https://doi.org/10.1111/j.1461-0248.2004.00581.x) 
-         - Questions
-         1. What is the Species-Time relationship?
-         2. How is it calculated?
-         3. What are the two phases demonstrated in this paper?
-         4. Are the shapes of the two phases the same?
-         5. What do the species-area and species-time relationships tell you about biodiversity across scales?
-         6. We haven't talked about phylogenetic or functional diversity in a while. Take a moment to ponder whether you expect those aspects of biodiversity to show similar patterns across scales (and similar drivers) to the Species-Area and Species-Time relationships.
-    *  Class Activity: Group Projects
+#### October 26: Species-Area/Time Relationships
+For this week there is 1 paper and 2 short excerpts from books. The book excerpts will be sent to the class by email
+*  Reading: Part of Chapter 2 from *Species Diversity in Space and Time* by Rosenzweig
+    * Why does creating a species-area plot from contiguous plots generate a shallower slope than a plot made from non-contiguous plots?
+    * Be able to explain how the three hypotheses (individuals, habitats, biogeography) would generate a species area relationship.
+    * If you had to guess which mechanism might be more important at small, intermediate, and large spatial scales, which mechanism would you assign to which scale? Why?
+* Reading: Part of Chapter 13 from *Biogeography* by Lomolino, Riddle, & Brown (Start at the section "The Species-Area Relationship")
+    * What are the two equations used to describe the species-area relationship?
+*  Reading: [Two-phase species-time relationships in North American land birds](https://doi.org/10.1111/j.1461-0248.2004.00581.x) 
+    * What is the Species-Time relationship?
+    * How is it calculated?
+    * What are the two phases demonstrated in this paper?
+    * Are the shapes of the two phases the same?
+    * What do the species-area and species-time relationships tell you about biodiversity across scales?
+    * We haven't talked about phylogenetic or functional diversity in a while. Take a moment to ponder whether you expect those aspects of biodiversity to show similar patterns across scales (and similar drivers) to the Species-Area and Species-Time relationships.
+*  Class Activity: Group Projects
     
 ### Weeks 10-14 Global Biodiversity Patterns and Processes
 
-* **October 31**
-    * Discussion: Biogeographic Processes
-         * Readings: [Global patterns and drivers of phylogenetic structure in island floras](https://doi.org/10.1038/srep12213)
-            - Questions:
-               1. The paper is exhaustive in discussing the details of each analysis, but that is not what I want you to focus on. I chose this reading because it covers all but one of the focal processes invoked to explain biogeographic biodiversity patterns: dispersal, environment, and speciation. Be able to explain how these three processes influence biodiversity on islands. 
-               2. Have we discussed these processes before and if so in what context?
-               3. Is the biogeographic version of the process different or very similar to how they were discussed for smaller scales?
-               4. They conduct the analyses on all angiosperms, palms, and ferns. Why did they look at palms and ferns separately?
-         * Readings: [An update on Wallace's zoogeographic regions of the World](https://doi.org/10.1126/science.1228282)
-            - Questions:
-               1. What are biogeographic regions (zoogeographic in this paper)?
-               2. The whole reason I assigned this paper is Figure 1. (There's other interesting stuff in the paper, but I want you to spend time on Figure 1). Why do these zoogeographic regions differ?  Can you think of geographic or events from earth's history that might explain why some regions are distinctive?
-               3. Assuming you came  up with at least one explanation for why a region is different, does your explanation fit into the processes discussed in the other paper?
-               4. Fig 3 breaksdown the data by taxonomic group. What's your gut response when you compare those graphs? Are they surprisingly similar or are there surprising differences?
-               5. The paper compares their results to Wallace's original regions. When Wallace made his regions in 1876, there were many things that were yet to be discovered that are key to this paper. What tools or knowledge did these authors have that Wallace didn't have that would be relevant to this project? How did Wallace's results compare to this high-tech version?
+#### October 31 Biogeographic Processes
+* Readings: [Global patterns and drivers of phylogenetic structure in island floras](https://doi.org/10.1038/srep12213)
+    * The paper is exhaustive in discussing the details of each analysis, but that is not what I want you to focus on. I chose this reading because it covers all but one of the focal processes invoked to explain biogeographic biodiversity patterns: dispersal, environment, and speciation. Be able to explain how these three processes influence biodiversity on islands. 
+    * Have we discussed these processes before and if so in what context?
+    * Is the biogeographic version of the process different or very similar to how they were discussed for smaller scales?
+    * They conduct the analyses on all angiosperms, palms, and ferns. Why did they look at palms and ferns separately?
+* Readings: [An update on Wallace's zoogeographic regions of the World](https://doi.org/10.1126/science.1228282)
+    * What are biogeographic regions (zoogeographic in this paper)?
+    * The whole reason I assigned this paper is Figure 1. (There's other interesting stuff in the paper, but I want you to spend time on Figure 1). Why do these zoogeographic regions differ?  Can you think of geographic or events from earth's history that might explain why some regions are distinctive?
+    * Assuming you came  up with at least one explanation for why a region is different, does your explanation fit into the processes discussed in the other paper?
+    * Fig 3 breaksdown the data by taxonomic group. What's your gut response when you compare those graphs? Are they surprisingly similar or are there surprising differences?
+    * The paper compares their results to Wallace's original regions. When Wallace made his regions in 1876, there were many things that were yet to be discovered that are key to this paper. What tools or knowledge did these authors have that Wallace didn't have that would be relevant to this project? How did Wallace's results compare to this high-tech version?
          
+
+#### November 2 
+* No readings: Group Projects
+
+#### November 7**   Latitidinal Gradient
+
+#### November 9 
+* No readings: Group Projects
+
+#### November 14 Hotspots and Endemism
+* Readings: [Global hotspots of species richness are not congruent with endemism or threat](https://doi.org/10.1038/nature03850)
+    * What is an endemic species?
+    * What do we mean by a 'hotspot'?
+    * How congruent were the different types of hotspots?
+    * What type of places were most of the species richness hotspots?
+    * What type of places were most of the endemism hotspots?
+    * What type of places were most of the threat hotspots?
+    * What do the authors suggest might be behind the differences in the patterns of species richness vs endemic richness?
+* Readings: [A global assessment of endemism and species richness across island and mainland regions](https://doi.org/10.1073/pnas.0810306106)
+    * Explain the Endemism Richness index. How is it calculated and what is it telling you?
+    * How did the endemic richness index differ between islands and mainlands?
+    * How did patterns in the endemic richness index compare across the different taxa assessed?
+    * Compare these results to the other assigned paper. What do they tell you in combination about patterns of endemism?
+
+#### November 16
+* No readings: Group Projects
+
+#### November 21 
+* No readings Group Projects
+
+#### November 28** Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
+* Readings: [Understanding global patterns of mammalian functional and phylogenetic diversity](https://doi.org/10.1098/rstb.2011.0024)
+    * Why are patterns of phylogenetic diversity important to understand?
+    * Why are patterns of functional diversity important to understand?
+    * Figure 1 shows possible relationships between FD and PD. 
+    * Explain what the phylogenetic constraint space represents 
+    * Why might functional diversity be higher than expected given the amount of phylogenetic diversity? (WHat does that even mean?)
+    * Why might functional diversity be less than expected from phylogenetic diversity?
+    * Conceptually, species richness constrain PD and FD. How?
+    * What were the observed patterns between species richness, PD, and FD?
+    * Did continents differ in their observed phylogenetic/functional diversity relationship? What do you think this means?
+    * What were the differences in patterns between the temperate and tropical regions? What did they suggest explained that difference?
+    * The paper talks a lot of about communities, but does the data used here represent communities? What might this better reflect? Does that change how you think about the results? 
+
+### Weeks 14-15: Group Presentations and Wrap-Up
+
+#### November 30 
+* GROUP PRESENTATIONS
  
-* November 2:
-	* Discussion: Biogeographic Processes
-	  
-* **November 7**
-	* Discussion: Hotspots and Endemism
-    * Readings: [Global hotspots of species richness are not congruent with endemism or threat](https://doi.org/10.1038/nature03850)
-         - Questions
-              1. What is an endemic species?
-              2. What do we mean by a 'hotspot'?
-              3. How congruent were the different types of hotspots?
-              4. What type of places were most of the species richness hotspots?
-              5. What type of places were most of the endemism hotspots?
-              6. What type of places were most of the threat hotspots?
-              7. What do the authors suggest might be behind the differences in the patterns of species richness vs endemic richness?
-    * Readings: [A global assessment of endemism and species richness across island and mainland regions](https://doi.org/10.1073/pnas.0810306106)
-         - Questions
-              1. Explain the Endemism Richness index. How is it calculated and what is it telling you?
-              2. How did the endemic richness index differ between islands and mainlands?
-              3. How did patterns in the endemic richness index compare across the different taxa assessed?
-              4. Compare these results to the other assigned paper. What do they tell you in combination about patterns of endemism?
-          
-* **November 9**
-	* No readings: Group Projects
-
-* November 14
-	* Discussion: Latitidinal Gradient
-
-* **November 16**
-	* No readings: Group Projects
-
-* **November 21** 
-	* No readings Group Projects
-
-* ** November 28**
-	* Discussion: Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
-        	* Readings: [Understanding global patterns of mammalian functional and phylogenetic diversity](https://doi.org/10.1098/rstb.2011.0024)
-           	- Questions
-              	1. Why are patterns of phylogenetic diversity important to understand?
-              	2.   Why are patterns of functional diversity important to understand?
-              	3.  Figure 1 shows possible relationships between FD and PD. 
-	          a. Explain what the phylogenetic constraint space represents 
-	          b. Why might functional diversity be higher than expected given the amount of phylogenetic diversity? (WHat does that even mean?)
-	          c. Why might functional diversity be less than expected from phylogenetic diversity?
-		4. Conceptually, species richness constrain PD and FD. How?
-              	5. What were the observed patterns between species richness, PD, and FD?
-              	6. Did continents differ in their observed phylogenetic/functional diversity relationship? What do you think this means?
-              	7. What were the differences in patterns between the temperate and tropical regions? What did they suggest explained that difference?
-              	8. The paper talks a lot of about communities, but does the data used here represent communities? What might this better reflect? Does that change how you think about the results? 
-
-* **November 30** 
-	* No readings Group Projects
-
-### Weeks 15-16: Group Presentations and Discussion
- 
-* December 5: 
-	* Discussion: What have we learned? Wrapping up the Semester
-		* Readings: Look over the questions and topics on the schedule and reflect on what we have covered over the past semester
-	    		- Questions:
-			1.  What themes or processes came up multiple times this semester?
-			2.  What role does spatial scale play in our understanding of biodiversity?
-			3.  When you entered the class, what dimension of biodiversity did you focus on? How did you assume it was related to other aspects of biodiversity? Did the class strengthen or change they way you think about that?
+#### December 5: What have we learned? Wrapping up the Semester
+* Readings: Look over the questions and topics on the schedule and reflect on what we have covered over the past semester
+    * What themes or processes came up multiple times this semester?
+    * What role does spatial scale play in our understanding of biodiversity?
+    * When you entered the class, what dimension of biodiversity did you focus on? How did you assume it was related to other aspects of biodiversity? Did the class strengthen or change they way you think about that?
 			
-* December 7: Group Presentations
+
 
 	   
 			
