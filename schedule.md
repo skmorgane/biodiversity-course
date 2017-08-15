@@ -30,7 +30,7 @@ IMPORTANT: if Date is in <span style="color:orange"> ORANGE </span> then reading
 
 * **September 5**
 	* Discussion: Assembly Mechanisms - Biotic and Environmental Filters
-		* Reading: [Rebuilding community ecology from functional traits](http://dx.doi.org/10.1016/j.tree.2006.02.002)
+		* Reading: [Assembly Rules, Null Models, and Trait Dispersion: New Questions from Old Patterns](http://www.jstor.org/stable/3545686)
 		* Reading: [Community assembly, coexistence and the environmental filtering metaphor](https://doi.org/10.1111/1365-2435.12345)
  
 * **September 7** 
@@ -45,6 +45,7 @@ IMPORTANT: if Date is in <span style="color:orange"> ORANGE </span> then reading
 
 * **September 12**
 	* Discussion: Patterns in Taxonomic, Phylogenetic, and Functional Diversity
+		* Reading: [Rebuilding community ecology from functional traits](http://dx.doi.org/10.1016/j.tree.2006.02.002)
 		* Reading: [Opposing assembly mechanism in a Neotropical Dry Forest](https://doi.org/10.1890/08-1025.1)
 			1. This is not the first paper Swneson and Enquist published on the structure of this forest. What did their first paper focus on and what did it show? (You don't need to go find this other paper, the basic info is in this one)
 			2. They talk about other work that has examined whether functional traits were phylogenetically conserved. WHat did this other work discover?
