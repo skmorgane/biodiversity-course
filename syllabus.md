@@ -6,7 +6,7 @@ title: Syllabus
 ## WIS 4934/6934 Biodiversity: Ecological Patterns and Processes
 
   |**Instructor**         |Dr. Morgan Ernest        
-  |**Office Location**    |Building 150, Room 2     
+  |**Office Location**    |Building 150, Room 2   (Knock loudly on external door)  
   |**Phone**              |352-294-2082            
   |**Email (preferred)**  |<skmorgane@ufl.edu>      
   |**Office Hours**       |Tuesday 3-4             
@@ -15,38 +15,35 @@ title: Syllabus
 												 
 #### **Times and Locations**
 
-Tuesday, Period 6-7 (12:50-2:45), RNK 0230
+Tuesday, Period 7 (1:55-2:45), MCCB G108
 
-Thursday, Period 8 (3:00-3:50), MCCB 2102
+Thursday, Period 7-8 (1:55-3:50), MCCB G108
 
 #### **Course Objectives**
 
 The goal of this class is to provide students a basic understanding of biodiversity patterns often studied in the field 
 of ecology. By the end of the semester, students will:
-1)	Have an appreciation of the complexity of term “biodiversity”
+1)	Have an appreciation of the complexity of the term “biodiversity”
 2)	Have a broad understanding of widely studied biodiversity patterns that exist at different spatial and temporal scales
 3)	Become familiar with various ecological processes that generate and help maintain biodiversity patterns
+4)	Gain experience with approaching and thinking about scientific debates
 
 
 #### **General Course Structure and Expectations**
 
 This course is designed to provide advanced training for graduate students in a specialized area of ecology. 
-This course is a mixture of lecture, class discussion of primary literature and hands-on experience involving 
+This course is a mixture of small lectures, class discussion of primary literature and hands-on experience involving 
 some class activities and a major project. While there is some lecturing, class participation, intellectual 
 engagement with topics, and discussion participation are the main ways students will learn in this class. 
-The first hour of Tuesdays and Thursdays are devoted to lecture and class discussions. You are expected to 
-come prepared to discuss the assigned papers. The second hour on Tuesdays are devoted to either class activities 
-or working on group projects. This course is designed to provide advanced training for graduate students in a 
-specialized area of ecology. 
+Tuesdays and the first hour of Thursdays are devoted to lecture and class discussions. You are expected to 
+come prepared to discuss the assigned papers. Participation in discussions is a major component in the grade. The second hour on Thursdays are devoted to either class activities or working on group projects. 
 
 #### **Course Grading**
 
 60% of grade will be based on a class project and presentation (330 points), 
 40% will be based on class participation in discussion* (220 points, 10 points/class day).
 
-*Undergraduates uncomfortable with the expectation of participating in a graduate discussion 
-should talk to me about a written alternative.
-
+*A written alternative to class participation can be made for those with anxiety about speaking in front of groups - just contact me to let me know you would prefer this option.
 
 #### **Attendance Policy**
 
@@ -59,9 +56,8 @@ Up to 4 additional missed days can be made-up by submitting make-up work.
 Class activities can be made-up on the student's time within a week by doing
 the activity and submitting the code/data for instructor evaluation. Missed 
 discussions can be made up by providing a written summary of the readings 
-for the day(s) missed. Written summaries will involve 1-paragraph summary of the 
-main questions and findings for each assigned paper and 1 paragraph 1 paragraph synthesizing 
-what these papers mean in conjunction about our understanding of biodiversity.
+for the day(s) missed. Written summaries will involve written answers to the 
+questions posted for the readings that were missed.
 
 If a student anticpates missing more than 6 class days (i.e. 3 weeks of classes), you
 must talk to the instructors beforehand.
@@ -69,7 +65,7 @@ must talk to the instructors beforehand.
 #### **Course Materials**
 
 1)	There is not a required or recommended text book for this class
-2)	All reading materials will be made available through the Canvas e-learning system. You must have an active GatorLink ID to access e-Learning. Should you encounter problems with your GatorLink account or need assistance, contact GatorLink website (http://gatorlink.ufl.edu ) or UF Computing Help Desk: The Hub, 392-HELP for assistance. If you need assistance with the e-Learning system, please visit e-Learning Support Services home page (https://elearning2.courses.ufl.edu/portal/help/main) or contact e-Learning Support Team (UF Helpdesk HUB 132; Phone:(352) 392-HELP (4357); Email:learning-support@ufl.edu). 
+2)	All reading materials are made available through the course schedule. If you are off-campus when you try to access readings, you will need to log in using the [UF VPN](http://www.uflib.ufl.edu/login/vpn.html).
 3)	Laptops: On specific days (notes on the course schedule) laptops or tablets will be required to participate in literature search and basic computational activities.
 
 
@@ -95,8 +91,7 @@ Honor Code at http://www.dso.ufl.edu/students.php.
 #### **Netiquette and Communication Courtesy**
 
 All members of the class are expected to follow rules of common courtesy
-in all email messages, threaded discussions and chats.
-
+in all email messages, threaded discussions and chats. 
 
 #### **Getting Help**
 
@@ -149,5 +144,5 @@ The details course schedule is available on the [course website](https://skmorga
 
 **Disclaimer:** This syllabus represents the current plans and
 objectives. As we go through the semester, those plans may need to
-change to enhance the class learning opportunity. Such changes,
-communicated clearly, are not unusual and should be expected.
+change to enhance the class learning opportunity or to accomodate natural disasters like hurricanes 
+(yes, this happened twice one semester). Such changes, communicated clearly, are not unusual and should be expected.
