@@ -25,7 +25,7 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 * Reading: [A consistent terminology for quantifying species diversity? Yes, it does exist](https://doi.org/10.1007%2Fs00442-010-1812-0)
 * Class Activity: Exploring Diversity Indices
 
-### Weeks 3-6: Local-scale Biodiversity Patterns & Processes
+### Weeks 3-7: Local-scale Biodiversity Patterns & Processes
 
 #### September 5 Assembly Mechanisms - Biotic and Environmental Filters
 * Reading: [Assembly Rules, Null Models, and Trait Dispersion: New Questions from Old Patterns](http://www.jstor.org/stable/3545686)
@@ -101,17 +101,16 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
     * Did the networks they designed retain their initial structure or did they change over the simulations? What happened and why?
     * How did modularity and nestedness impact the stability of the networks?
     * How did the empirical results compare to what their models suggested they should find?
-* Class Activity: Group Projects (Identifying people with common interests)
     
-#### September 21** Patterns in Body Size
-* Read: Everyone is required to read: [Declining body size: a third universal response to warming?](https://doi.org/10.1016/j.tree.2011.03.005). or Brown et al Metabolic Theory?
-* Pick one of the following to read:
-    * Reading: [Body size in ecological networks](https://doi.org/10.1016/j.tree.2005.04.005)
-    * Reading: [Relationships between body size and abundance in ecology](https://doi.org/10.1016/j.tree.2007.03.007)
-    * (note to Morgan) Pick one more body size paper for class - Predator Prey dynamics?
-* Class Activity: Break into groups based on which optional paper you read and think about the impacts of warming on your pattern if warming does generally cause decreases in body size.
- 
-#### September 26 Biodiversity-Ecosystem Function Debate
+#### September 21 Productivity-Diversity Debate
+For class you will break into small groups to figure out what you think is going on with this debate. Is someone right and someone wrong? Is everyone right or everyone wrong? How do we walk away from a debate like this with a better understanding of what is going on in nature? The first two papers set out the main debate. The second two are short comments about technical and conceptual issues. Make sure to have a firm grasp of the first two papers and you can have a looser grasp of the two short comments. At the end of class we will come back together as a group and see what different groups thought about this debate.
+* Readings: [Productivity is a poor predictor of plant species richness](https://doi.org/10.1126/science.1204498)
+* Readings: [Worldwide evidence of a unimodal relationship between productivity and plant species richness](https://doi.org/10.1126/science.aab3916 )
+* Readings: [Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness"](https://doi.org/10.1126/science.aad6236)
+* Readings: [Response to Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness"](https://doi.org/10.1126/science.aad8019)
+* Class Activity: Group Projects (Discussing the Project, Starting the group finding process.)
+
+#### September 26 Biodiversity and Ecosystem Function**
 * Reading: [Partitioning selection and complementarity in biodiversity experiments](https://doi.org/10.1038/35083573)
     * What relationship between diversity and ecosystem processes does Loreau & Hector say experiments show?
     * Why are these experiments controversial?
@@ -127,29 +126,29 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
     * What do they find? Do they find systematic differences between studies? What are their two consistent results?
     * Think about these results in the context of Loreau and Hector. Do any of their conclusions differ from the other paper or  do they find similar things? If you think the results are different, why?  
 
-#### September 28 Productivity-Diversity Debate
-For class you will break into small groups to figure out what you think is going on with this debate. Is someone right and someone wrong? Is everyone right or everyone wrong? How do we walk away from a debate like this with a better understanding of what is going on in nature? The first two papers set out the main debate. The second two are short comments about technical and conceptual issues. Make sure to have a firm grasp of the first two papers and you can have a looser grasp of the two short comments. At the end of class we will come back together as a group and see what different groups thought about this debate.
-* Readings: [Productivity is a poor predictor of plant species richness](https://doi.org/10.1126/science.1204498)
-* Readings: [Worldwide evidence of a unimodal relationship between productivity and plant species richness](https://doi.org/10.1126/science.aab3916 )
-* Readings: [Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness"](https://doi.org/10.1126/science.aad6236)
-* Readings: [Response to Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness"](https://doi.org/10.1126/science.aad8019)
+#### September 28 Biodiversity through time
+We'll be doing another debate-style discussion. This time over the controversy surrounding biodiversity patterns through time. 
+There will be two groups and the papers you read for this class differ depending  on what group you were assigned to:
+Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
+** Group 1 **
+* Reading: [Species-level and community-level responses to disturbance: a cross-community analysis](https://doi.org/10.1890/13-2250.1)
+* Reading: [Recent Trends in Local-Scale Marine Biodiversity Reflect Community Structure and Human Impacts](https://doi.org/10.1016/j.cub.2015.05.030)
+** Group 2 **
+* Reading: [Estimating local biodiversity change: a critique of papers claiming no net loss of local diversity](https://doi.org/10.1890/15-1759.1)
+* Reading: [Biodiversity change is uncoupled from species richness trends: consequences for conservation and monitoring](https://doi.org/10.1111/1365-2664.12959)
 
-#### October 3** Biodiversity through time
-* Reading: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
-    * What question are Dornelas et al asking?
-    * Why do they think this is an important question to ask?
-    * What aspects of biodiversity are they examining?
-    * What did they do? What type of data are they using?
-    * What were the general trends in biodiversity through time?
-    * What do Dornelas et al think is going on that explains their patterns?
-    * How do they think biodiversity research focus needs to change?      
-* Reading: Brown et al
+
+#### October 3** Patterns in Body Size
+* Read: Everyone is required to read: [Declining body size: a third universal response to warming?](https://doi.org/10.1016/j.tree.2011.03.005). or Brown et al Metabolic Theory?
+* Pick one of the following to read:
+    * Reading: [Body size in ecological networks](https://doi.org/10.1016/j.tree.2005.04.005)
+    * Reading: [Relationships between body size and abundance in ecology](https://doi.org/10.1016/j.tree.2007.03.007)
+    * (note to Morgan) Pick one more body size paper for class - Predator Prey dynamics?
+* Class Activity: Break into groups based on which optional paper you read and think about the impacts of warming on your pattern if warming does generally cause decreases in body size.
  
-#### October 5** Biodiversity through time
-* Reading: Cardinale group?
-* Reading: Hillebrand?
-* Class Activity: Group Projects
- 
+#### October 5
+* Group Project Day. Finalize Groups, start talking about wwhat is a big challenge, important unanswered question that you all are interested in.
+
 ### Weeks 7-9: Regional-Scale Diversity Patterns & Processes
  
 #### October 10 Regional Assembly - Dispersal
