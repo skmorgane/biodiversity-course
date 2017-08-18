@@ -9,7 +9,10 @@ title: Syllabus
   |**Office Location**    |Building 150, Room 2   (Knock loudly on external door)  
   |**Phone**              |352-294-2082            
   |**Email (preferred)**  |<skmorgane@ufl.edu>      
-  |**Office Hours**       |Tuesday 3-4             
+  |**Office Hours**       |Tuesday 3-4    
+  
+  |**Teaching Assistant** |Erica Christensen
+  |**Email**              |
                                                  
 <br>
 												 
