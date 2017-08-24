@@ -32,7 +32,8 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 * Reading: [Partitioning diversity into independent alpha and beta components](https://doi.org/10.1890/06-1736.1)
 * Reading: [Disentangling the Drivers of Beta Diversity Along Latitudinal and Elevational Gradients](https://doi.org/10.1126/science.1208584)
 
-#### August 31** Measuring Biodiversity - Evenness
+#### August 31** Measuring Biodiversity - quantifying taxonomic, phylogenetic, functional diversity
+* Reading: Functional diversity (FD), species richness and community composition[(https://doi.org/10.1046/j.1461-0248.2002.00339.x)
 * Reading: [A consistent terminology for quantifying species diversity? Yes, it does exist](https://doi.org/10.1007%2Fs00442-010-1812-0)
 * Class Activity: Exploring Diversity Indices
 
@@ -42,7 +43,7 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 * Reading: [Assembly Rules, Null Models, and Trait Dispersion: New Questions from Old Patterns](http://www.jstor.org/stable/3545686)
 * Reading: [Community assembly, coexistence and the environmental filtering metaphor](https://doi.org/10.1111/1365-2435.12345)
 
-#### September 7 Assembly Mechanisms - Niches/Deterministic vs. Neutral/Stochastic
+#### September 7 Assembly Mechanisms** - Niches/Deterministic vs. Neutral/Stochastic
 * Reading: [Neutral theory in community ecology and the hypothesis of functional equivalence](https://doi.org/10.1111/j.0269-8463.2005.00965.x) *Note from Morgan: I will provide a cartoon overview of the Neutral Theory in class. In this reading, I want you to focus on the following issues:*
      * How does Hubbell's view of communities compare to the Biotic/Environmental filter papers?
      * Is there an important concept he deliberately ignores?
@@ -51,7 +52,6 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 * Class Activity: Structuring Introductions of Papers/Proposals and what that has to do with your Class Project
 
 #### September 12** Patterns in Taxonomic, Phylogenetic, and Functional Diversity
-* Reading: [Rebuilding community ecology from functional traits](http://dx.doi.org/10.1016/j.tree.2006.02.002)
 * Reading: [Opposing assembly mechanism in a Neotropical Dry Forest](https://doi.org/10.1890/08-1025.1)
      * This is not the first paper Swneson and Enquist published on the structure of this forest. What did their first paper focus on and what did it show? (You don't need to go find this other paper, the basic info is in this one)
      * They talk about other work that has examined whether functional traits were phylogenetically conserved. WHat did this other work discover?
@@ -71,7 +71,7 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
      * How do these results compare to Swenson and Enquist? Are they consistent? Yield different insights?
      * If you are a conservation planner, what do these results mean to you?
 
-#### September 14 Patterns in Abundance 
+#### September 14** Patterns in Abundance 
 * Reading: [Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework](https://doi.org/10.1111/j.1461-0248.2007.01094.x)
     * What is a species abundance distribution?
     * What are the different ways a species abundance distribution can be plotted?
