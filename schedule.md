@@ -46,11 +46,17 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
     * Do you agree with this conclusion? Are you convinced?
     * Regardless of whether you like or dislike the study, what do you think the next step is?
 * Reading: [Partitioning diversity into independent alpha and beta components](https://doi.org/10.1890/06-1736.1)
+    * What is the goal of this paper?
+    * WHat are the 5 basic properties alpha and beta diversities should have?
+    * What is a numbers equivalent? (if you're having trouble with that section, look at Table 1 and think about what those diversity indices produce and how you would interpret that number).
+    * In the section "Decomposing a diversity index" what does Jost say is the best way to decompose gamma into alpha and beta?
+    * In the section alpha and beta, what is the exact interpretation of beta diversity that emerges from Jost's approach?
+    Once you hit "Case 1", I have no specific questions and will not ask any. The rest of the paper is Jost providing examples and further justification for this approach to diversity indices and decomposition of gamma into alpha and beta. We can talk about any questions or thoughts this inspired. The rest of my questions are about thinking about these two papers in concert.
+    * What do you think Jost would say about the Kraft et al paper? What do you think Kraft et al would say about Jost?
+    * Clearly, beta diversity is a complicated beast. Why do we keep trying to quantify it? WHat are we really trying to know?  
 
-
-#### August 31** Measuring Biodiversity - quantifying taxonomic, phylogenetic, functional diversity
+#### August 31 Measuring Biodiversity - quantifying taxonomic, phylogenetic, functional diversity
 * Reading: Functional diversity (FD), species richness and community composition[(https://doi.org/10.1046/j.1461-0248.2002.00339.x)
-* Reading: [A consistent terminology for quantifying species diversity? Yes, it does exist](https://doi.org/10.1007%2Fs00442-010-1812-0)
 * Class Activity: Exploring Diversity Indices
 
 ### Weeks 3-7: Local-scale Biodiversity Patterns & Processes
