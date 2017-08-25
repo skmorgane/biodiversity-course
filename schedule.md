@@ -56,7 +56,7 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
     * Clearly, beta diversity is a complicated beast. Why do we keep trying to quantify it? WHat are we really trying to know?  
 
 #### August 31 Measuring Biodiversity - quantifying taxonomic, phylogenetic, functional diversity
-* Reading: Functional diversity (FD), species richness and community composition[(https://doi.org/10.1046/j.1461-0248.2002.00339.x)
+* Reading: [Functional diversity (FD), species richness and community composition](https://doi.org/10.1046/j.1461-0248.2002.00339.x)
 * Class Activity: Exploring Diversity Indices
 
 ### Weeks 3-7: Local-scale Biodiversity Patterns & Processes
