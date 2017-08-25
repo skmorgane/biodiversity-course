@@ -29,8 +29,24 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 
 #### August 29 Measuring Biodiversity - Alpha, Beta, Gamma Diversity
 
-* Reading: [Partitioning diversity into independent alpha and beta components](https://doi.org/10.1890/06-1736.1)
 * Reading: [Disentangling the Drivers of Beta Diversity Along Latitudinal and Elevational Gradients](https://doi.org/10.1126/science.1208584)
+    * What is a diversity gradient? Which ones are they studying here?
+    * What are the two scales that could be driving these diversity gradients?
+    * what are alpha, beta, and gamma diversity?
+    * What dimension of biodiversity is beta diversity related to?
+    * I want you to think a moment about beta diversity. To do so, think about these two scenarios:
+        * Given the same landscape, would you expect a dispersal limited group to have higher beta diversity or lower beta diversity than a group of species that are good dispersers? Why?
+	* Given the same landscape, how would you expect beta diversity to be different if that area had a large vs a small species pool? 
+    * How do they operationally measure alpha, beta, and gamma diversity?
+    * How does alpha, beta, gamma change with latitude and elevation?
+    * What are the 3 ways that beta diversity can calculated?
+    * What makes beta diversity complicated to interpret?
+    * How do they try to deal with this problem with beta diversity?
+    * What do they conclude?
+    * Do you agree with this conclusion? Are you convinced?
+    * Regardless of whether you like or dislike the study, what do you think the next step is?
+* Reading: [Partitioning diversity into independent alpha and beta components](https://doi.org/10.1890/06-1736.1)
+
 
 #### August 31** Measuring Biodiversity - quantifying taxonomic, phylogenetic, functional diversity
 * Reading: Functional diversity (FD), species richness and community composition[(https://doi.org/10.1046/j.1461-0248.2002.00339.x)
