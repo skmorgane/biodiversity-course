@@ -85,7 +85,7 @@ I added a paper for Thursday but DON'T PANIC. This is just one of the papers fro
 			________________                                     |
 			|              |                                     |
 			|              |                                     |
-		    ________        _______                                  |
+		   _________       _______                                   |
 		   |       |      |       |                                  |
 		   
 
