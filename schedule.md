@@ -63,7 +63,7 @@ I added a paper for Thursday but DON'T PANIC. This is just one of the papers fro
      * What does changing the shape of the dendrogram represent?
      * What effect does this have on the relationship between functional diversity and the number of species in your community?
 
-Class Activity: Exploring Diversity Indices
+* Class Activity: Exploring Diversity Indices
 
 ### Weeks 3-7: Local-scale Biodiversity Patterns & Processes
 
@@ -78,13 +78,6 @@ Class Activity: Exploring Diversity Indices
 
 #### September 12** Patterns in Taxonomic, Phylogenetic, and Functional Diversity
 * Reading: [Opposing assembly mechanism in a Neotropical Dry Forest](https://doi.org/10.1890/08-1025.1)
-     * This is not the first paper Swneson and Enquist published on the structure of this forest. What did their first paper focus on and what did it show? (You don't need to go find this other paper, the basic info is in this one)
-     * They talk about other work that has examined whether functional traits were phylogenetically conserved. WHat did this other work discover?
-     * Swenson and Enquist look at this community in a couple of different ways (I'm not talking about just functional vs phylogenetic clustering , I mean different ways they looked at how these were related), what were these different ways they analyzed the community? Why did they do this?
-     * What did they find about functional trait clustering in this community?
-     * How do they interpret the clustering?
-     * What would Kraft et al say about this interpretation?
-     * What does this paper say to you about phylogenetic and functional diversity? (I deliberately left this question very vague - it can be about how they're related, Whether its useful to study this, different ways we should be thinking about diversity, or any other thoughts this paper inspired)
 * Reading: [Spatial mismatch and congruence between taxonomic,phylogenetic and functional diversity](https://doi.org/10.1111/j.1461-0248.2010.01493.x)
      * What question are Devistor et al trying to address?
      * What data do they use?
@@ -121,7 +114,6 @@ Class Activity: Exploring Diversity Indices
     * The failing model couldn't explain two different types of species. What were those types and do you think a single process would explain why both groups deviate from the failing model? Why or why not?
     * Does this paper implement any of the improvements in testing models that McGill et al suggested?
     * Do you think terrestrial systems would show as clean a result as the marine systems do? Why?
-* Class Activity: Alpha, Beta, Gamma
 
 #### September 19  Species Networks
 * Readings: [Tolerance of pollination networks to species extinctions](https://doi.org/10.1098/rspb.2004.2909)
