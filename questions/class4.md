@@ -25,17 +25,16 @@ title: Class 9 Questions
      C. Let's assume when we put your D matrix through the clustering algorithm and you get the dendrogram below. Use your intuition to place each of the species on this dendrogram
      
 ---
-     
-                  |
+                                                      |
 						      |
 				_____________________________________________
 				|                                            |
 				|                                            |
-			________________                               |
-			|              |                               |
-			|              |                               |
-	_________       _______                            |
-	|       |      |       |                           |
+			________________                                     |
+			|              |                                     |
+			|              |                                     |
+                    _________       _______                                  |
+               	    |       |      |       |                                 |
 		   
 ---
     D. Assume each vertical |  equals a branch length of 5. (i.e. to consecutive | | = 10.). WHat is the functional diversity of this community?
