@@ -9,21 +9,21 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 
 ### Weeks 1 & 2: Thinking about what biodiversity means/is
 
-#### August 22: Introductions. What does the word biodiversity mean to you?
+#### 1. August 22: Introductions. What does the word biodiversity mean to you?
 
-#### August 24 Dimensions of Biodiversity - Functional, Phylogenetic, Genetic, Taxonomic
+#### 2. August 24 Dimensions of Biodiversity - Functional, Phylogenetic, Genetic, Taxonomic
 
 * Reading: [The Functions of Biological Diversity in an Age of Extinction](https://doi.org/10.1126/science.1215855) 
   * [Questions]({{ site.baseurl }}/questions/class2)
 * Class Activity: Biodiversity Dimensions in the Literature (Bring laptops/tablets for literature searches)
 
-#### August 29 Measuring Biodiversity - Alpha, Beta, Gamma Diversity
+#### 3. August 29 Measuring Biodiversity - Alpha, Beta, Gamma Diversity
 
 * Reading: [Disentangling the Drivers of Beta Diversity Along Latitudinal and Elevational Gradients](https://doi.org/10.1126/science.1208584)
 * Reading: [Partitioning diversity into independent alpha and beta components](https://doi.org/10.1890/06-1736.1)
 * [Questions]({{ site.baseurl }}/questions/class3)
     
-#### August 31 Measuring Biodiversity - quantifying taxonomic, phylogenetic, functional diversity
+#### 4. August 31 Measuring Biodiversity - quantifying taxonomic, phylogenetic, functional diversity
 I added a paper for Thursday but DON'T PANIC. This is just one of the papers from 8/29. We're just going to focus on parts we didn't really focus on for Tuesday.
 * Reading: [Partitioning diversity into independent alpha and beta components](https://doi.org/10.1890/06-1736.1)
     * Reread the example in the beginning about comparing the diversity of the communities in Antartica. 
@@ -62,32 +62,32 @@ I added a paper for Thursday but DON'T PANIC. This is just one of the papers fro
  * Examine figure 2. Petchey and Owen run simulations where they change the shape of the dendrogram.
      * What does changing the shape of the dendrogram represent?
      * What effect does this have on the relationship between functional diversity and the number of species in your community?
-
+* [Questions]({{ site.baseurl }}/questions/class4)
 * Class Activity: Exploring Diversity Indices
 
 ### Weeks 3-7: Local-scale Biodiversity Patterns & Processes
 
-#### September 5 Assembly Mechanisms - Biotic and Environmental Filters
+#### 5. September 5 Assembly Mechanisms - Biotic and Environmental Filters
 * Reading: [Assembly Rules, Null Models, and Trait Dispersion: New Questions from Old Patterns](http://www.jstor.org/stable/3545686)
 * Reading: [Community assembly, coexistence and the environmental filtering metaphor](https://doi.org/10.1111/1365-2435.12345)
 
-#### September 7 Assembly Mechanisms - Niches/Deterministic vs. Neutral/Stochastic
+#### 6. September 7 Assembly Mechanisms - Niches/Deterministic vs. Neutral/Stochastic
 * Reading: [Neutral theory in community ecology and the hypothesis of functional equivalence](https://doi.org/10.1111/j.0269-8463.2005.00965.x) *Note from Morgan: I will provide a cartoon overview of the Neutral Theory in class. In this reading, I want you to focus on the following issues:*
 * Reading: [Drought mediates the importance of stochastic community assembly](https://doi.org/10.1073/pnas.0704350104)
 * Class Activity: Structuring Introductions of Papers/Proposals and what that has to do with your Class Project
 
-#### September 12** Patterns in Taxonomic, Phylogenetic, and Functional Diversity
+#### 7. September 12** Patterns in Taxonomic, Phylogenetic, and Functional Diversity
 * Reading: [Opposing assembly mechanism in a Neotropical Dry Forest](https://doi.org/10.1890/08-1025.1)
 * Reading: [Spatial mismatch and congruence between taxonomic,phylogenetic and functional diversity](https://doi.org/10.1111/j.1461-0248.2010.01493.x)
 
-#### September 14 Patterns in Abundance 
+#### 8. September 14 Patterns in Abundance 
 * Reading: [Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework](https://doi.org/10.1111/j.1461-0248.2007.01094.x)
 
-#### September 19  Species Networks
+#### 9. September 19  Species Networks
 * Readings: [Tolerance of pollination networks to species extinctions](https://doi.org/10.1098/rspb.2004.2909)
 * Readings: [Stability of Ecological Communities and the Architecture of Mutualistic and Trophic Networks](https://doi.org/10.1126/science.1188321)
     
-#### September 21 Productivity-Diversity Debate
+#### 10. September 21 Productivity-Diversity Debate
 For class you will break into small groups to figure out what you think is going on with this debate. Is someone right and someone wrong? Is everyone right or everyone wrong? How do we walk away from a debate like this with a better understanding of what is going on in nature? The first two papers set out the main debate. The second two are short comments about technical and conceptual issues. Make sure to have a firm grasp of the first two papers and you can have a looser grasp of the two short comments. At the end of class we will come back together as a group and see what different groups thought about this debate.
 * Readings: [Productivity is a poor predictor of plant species richness](https://doi.org/10.1126/science.1204498)
 * Readings: [Worldwide evidence of a unimodal relationship between productivity and plant species richness](https://doi.org/10.1126/science.aab3916 )
@@ -95,11 +95,11 @@ For class you will break into small groups to figure out what you think is going
 * Readings: [Response to Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness"](https://doi.org/10.1126/science.aad8019)
 * Class Activity: Group Projects (Discussing the Project, Starting the group finding process.)
 
-#### September 26** Biodiversity and Ecosystem Function
+#### 11. September 26** Biodiversity and Ecosystem Function
 * Reading: [Partitioning selection and complementarity in biodiversity experiments](https://doi.org/10.1038/35083573)       
 * Reading: [Effects of biodiversity on the functioning of trophic groups and ecosystems](https://doi.org/10.1038/nature05202)
 
-#### September 28 Biodiversity through time
+#### 12. September 28 Biodiversity through time
 We'll be doing another debate-style discussion. This time over the controversy surrounding biodiversity patterns through time. 
 There will be two groups and the papers you read for this class differ depending  on what group you were assigned to:
 Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
@@ -113,7 +113,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 * Class Activity: Finalize Groups
 
 
-#### October 3** Patterns in Body Size
+#### 13. October 3** Patterns in Body Size
 * Read: Everyone is required to read: [Declining body size: a third universal response to warming?](https://doi.org/10.1016/j.tree.2011.03.005). or Brown et al Metabolic Theory?
 * Pick one of the following to read:
     * Reading: [Body size in ecological networks](https://doi.org/10.1016/j.tree.2005.04.005)
@@ -121,12 +121,12 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
     * (note to Morgan) Pick one more body size paper for class - Predator Prey dynamics?
 * Class Activity: Break into groups based on which optional paper you read and think about the impacts of warming on your pattern if warming does generally cause decreases in body size.
  
-#### October 5
+#### 14. October 5
 * Group Project Day. Start talking about what is a big challenge or important unanswered question that you all are interested in.
 
 ### Weeks 7-9: Regional-Scale Diversity Patterns & Processes
  
-#### October 10 Regional Assembly - Dispersal
+#### 15. October 10 Regional Assembly - Dispersal
 * Reading: [The metacommunity concept: a framework for multi-scale community ecology](https://doi.org/10.1111/j.1461-0248.2004.00608.x)
     * We've spent a lot of the semester focused on community-scale biodiversity patterns and the mechanisms thought to generate them. What scale have we predominately been focusing on?
     * What mechanisms have we predominately been focused on as generating biodiversity patterns?
@@ -140,7 +140,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
     * Be able to explain (succinctly) the four main types of metacommunity models. What are they and how are they different? (i.e. how do they differ in their assumptions about patches, which species can enter the community, the role of nichebased processes, differences among species, etc).
     * Which model do you think applies to your system? Why? (yes I will go around the room on this one. Be able to name a relevant model and explain why it applies (in 1-2 sentences). If you do not think a metacommunity framework applies, say that and why. I'd recommend writing your sentence before class so you aren't caught off guard. If I was Stephen Hubbell here's what I would write: I study a tropical tree community that I think fits into the neutral model. I think this because we have dispersal, though its limited, and niche differences between species seem small (or non-existent) and its hard to see how those small differences create stable coexistence.         
                
-#### October 12 Regional Assembly - Environmental Heterogeneity
+#### 16. October 12 Regional Assembly - Environmental Heterogeneity
 * Reading: The "Frankenpaper" - emailed to the class listserv
     * MacArthur & MacArthur: 
         * how are they defining environmental heterogeneity? What is it and what scale ('Microsite', within habitat, across habitats?
@@ -164,13 +164,13 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
         * Brainstorm reasons this relationship may not have been seen in Stein et al. These can be statistical or biological reasons having to do with either paper. I know I haven't given you enough info to know for sure what might be an issue and what they may have corrected for or examined in secondary analyses, I just want you to think generally about the issue.   
 * Class Activity: Group Projects
 
-#### October 17
+#### 17. October 17
 * FIELD TRIP? Andrew Gonzalez Biology Seminar
 
-#### October 19** Habitat Fragmentation patterns
+#### 18. October 19** Habitat Fragmentation patterns
   
 
-#### October 24 Local-Regional Diversity Relationships
+#### 19. October 24 Local-Regional Diversity Relationships
 * Reading: [Community diversity: relative roles of local and regional processes](http://www.jstor.org/stable/1698957?seq=1#page_scan_tab_contents)
     * In the second paragraph ("Present-day ecological investigations...."), Ricklefs describes what he sees as the state of the field in 1987. Do you think this is still a valid assessment of the field today? Why?
     * Ricklefs proposes that local deterministic processes make common predictions: "i) community convergence, ii) resistence of the community to invasion, and iii) independence of local and regional diversity." Explain why these are the expectastions from local processes (i.e. what are the mechanisms/processes that would result in those outcomes?)
@@ -187,7 +187,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
     * At what time scales do local or regional variables have their strongest signal? Why?
     * How do they propose local and regional processes are combining to determine local richness?
 
-#### October 26: Species-Area/Time Relationships
+#### 21. October 26: Species-Area/Time Relationships
 For this week there is 1 paper and 2 short excerpts from books. The book excerpts will be sent to the class by email
 *  Reading: Part of Chapter 2 from *Species Diversity in Space and Time* by Rosenzweig
     * Why does creating a species-area plot from contiguous plots generate a shallower slope than a plot made from non-contiguous plots?
@@ -206,7 +206,7 @@ For this week there is 1 paper and 2 short excerpts from books. The book excerpt
     
 ### Weeks 10-14 Global Biodiversity Patterns and Processes
 
-#### October 31 Biogeographic Processes
+#### 22. October 31 Biogeographic Processes
 * Readings: [Global patterns and drivers of phylogenetic structure in island floras](https://doi.org/10.1038/srep12213)
     * The paper is exhaustive in discussing the details of each analysis, but that is not what I want you to focus on. I chose this reading because it covers all but one of the focal processes invoked to explain biogeographic biodiversity patterns: dispersal, environment, and speciation. Be able to explain how these three processes influence biodiversity on islands. 
     * Have we discussed these processes before and if so in what context?
@@ -220,15 +220,15 @@ For this week there is 1 paper and 2 short excerpts from books. The book excerpt
     * The paper compares their results to Wallace's original regions. When Wallace made his regions in 1876, there were many things that were yet to be discovered that are key to this paper. What tools or knowledge did these authors have that Wallace didn't have that would be relevant to this project? How did Wallace's results compare to this high-tech version?
          
 
-#### November 2 
+#### 23. November 2 
 * No readings: Group Projects
 
-#### November 7**   Latitidinal Gradient
+#### 24. November 7**   Latitidinal Gradient
 
-#### November 9 
+#### 25. November 9 
 * No readings: Group Projects
 
-#### November 14 Hotspots and Endemism
+#### 26. November 14 Hotspots and Endemism
 * Readings: [Global hotspots of species richness are not congruent with endemism or threat](https://doi.org/10.1038/nature03850)
     * What is an endemic species?
     * What do we mean by a 'hotspot'?
@@ -243,13 +243,13 @@ For this week there is 1 paper and 2 short excerpts from books. The book excerpt
     * How did patterns in the endemic richness index compare across the different taxa assessed?
     * Compare these results to the other assigned paper. What do they tell you in combination about patterns of endemism?
 
-#### November 16
+#### 27. November 16
 * No readings: Group Projects
 
-#### November 21 
+#### 28. November 21 
 * No readings Group Projects
 
-#### November 28** Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
+#### 29. November 28** Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
 * Readings: [Understanding global patterns of mammalian functional and phylogenetic diversity](https://doi.org/10.1098/rstb.2011.0024)
     * Why are patterns of phylogenetic diversity important to understand?
     * Why are patterns of functional diversity important to understand?
@@ -265,10 +265,10 @@ For this week there is 1 paper and 2 short excerpts from books. The book excerpt
 
 ### Weeks 14-15: Group Presentations and Wrap-Up
 
-#### November 30 
+#### 30. November 30 
 * GROUP PRESENTATIONS
  
-#### December 5: What have we learned? Wrapping up the Semester
+#### 31. December 5: What have we learned? Wrapping up the Semester
 * Readings: Look over the questions and topics on the schedule and reflect on what we have covered over the past semester
     * What themes or processes came up multiple times this semester?
     * What role does spatial scale play in our understanding of biodiversity?
