@@ -31,6 +31,7 @@ I added a paper for Thursday but DON'T PANIC. This is just one of the papers fro
 * Reading: [Functional diversity (FD), species richness and community composition](https://doi.org/10.1046/j.1461-0248.2002.00339.x)
 * [Questions]({{ site.baseurl }}/questions/class4)
 * Class Activity: Exploring Diversity Indices. Bring computers.
+    * Files for class: [R Code]({{ site.baseurl }}/biodiv_exercise.R), [plant file 1]({{ site.baseurl }}/Portal_plants.csv), [plant file 2]({{ site.baseurl }}/Portal_plants2.csv), [plant file 1]({{ site.baseurl }}/Portal_plants.csv), [Rodent file]({{ site.baseurl }}/rodent_counts.csv)
 
 ### Weeks 3-7: Local-scale Biodiversity Patterns & Processes
 
