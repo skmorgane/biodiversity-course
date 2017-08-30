@@ -14,7 +14,7 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 #### August 24 Dimensions of Biodiversity - Functional, Phylogenetic, Genetic, Taxonomic
 
 * Reading: [The Functions of Biological Diversity in an Age of Extinction](https://doi.org/10.1126/science.1215855) 
-  * [Questions]({{ site.baseurl }}/questions/class2.md)
+  * [Questions]({{ site.baseurl }}/questions/class2)
 * Class Activity: Biodiversity Dimensions in the Literature (Bring laptops/tablets for literature searches)
 
 #### August 29 Measuring Biodiversity - Alpha, Beta, Gamma Diversity
