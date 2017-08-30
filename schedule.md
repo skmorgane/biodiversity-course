@@ -82,29 +82,6 @@ I added a paper for Thursday but DON'T PANIC. This is just one of the papers fro
 
 #### September 14** Patterns in Abundance 
 * Reading: [Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework](https://doi.org/10.1111/j.1461-0248.2007.01094.x)
-    * What is a species abundance distribution?
-    * What are the different ways a species abundance distribution can be plotted?
-    * What is the species abundance distribution of interest to ecologists?
-        * there is more than one answer to this question- pick the one resonated with you
-    * What processes have people proposed to explain the species abundance distribution
-    * What are some of the ways people judge which model is 'better'?
-        * did one of those seem like a better approach to you? Why?
-    * Why has it been difficult to figure out which model fits the data best?
-    * What to the authors propose is a better way to move forward?
-    * In the species abundance distribution literature, two models pop up a lot: log normal and log series. Be able to explain what is different about them (Being able to draw them is fine).
-    * What is a veil line?
-    * From page 1006 to the end, the paper is full of suggestionsl for things that should/need to be done to help us better understand the species abundance distribution. Which approaches sounded most interesting/promising to you. Why?
-* Reading: [Commonness and rarity in the marine biosphere](https://doi.org/10.1073/pnas.1406664111)
-    * What question is Connolly et al trying to answer?
-    * What is the curse of dimensionality? Why do niche based models suffer from it but neutral ones do not?
-    * In class, I'll explain the gamma vs. log normal approach Connoly took and why, but it is based on  a paper by Pueyo that shows how theoretically a specific type of abundance distribution (a gamma distribution) should emerge from most neutral models.       
-    * What do Connolly et al do to support their use of the gamma distribution to represent neutral models?
-    *  How do real data fit the gamma and log normal distributions. Does one tend to fit better than the other?
-    * There is a table showing the model fits fro the community scale to the regional scale. Did the results vary by scale?
-    * is it important to know whether the model that fails does so in a consistent way or idiosyncratic?
-    * The failing model couldn't explain two different types of species. What were those types and do you think a single process would explain why both groups deviate from the failing model? Why or why not?
-    * Does this paper implement any of the improvements in testing models that McGill et al suggested?
-    * Do you think terrestrial systems would show as clean a result as the marine systems do? Why?
 
 #### September 19  Species Networks
 * Readings: [Tolerance of pollination networks to species extinctions](https://doi.org/10.1098/rspb.2004.2909)
