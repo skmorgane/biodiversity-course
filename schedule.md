@@ -79,15 +79,6 @@ I added a paper for Thursday but DON'T PANIC. This is just one of the papers fro
 #### September 12** Patterns in Taxonomic, Phylogenetic, and Functional Diversity
 * Reading: [Opposing assembly mechanism in a Neotropical Dry Forest](https://doi.org/10.1890/08-1025.1)
 * Reading: [Spatial mismatch and congruence between taxonomic,phylogenetic and functional diversity](https://doi.org/10.1111/j.1461-0248.2010.01493.x)
-     * What question are Devistor et al trying to address?
-     * What data do they use?
-     * How do they justify the functional traits they select?
-     * How are they quantifying diversity?
-          *  what is the data they are using for alpha, beta, gamma scales?
-	  *  why are they using Rao's Quadratic Entropy (Q)?
-     * What did Devictor et al find?
-     * How do these results compare to Swenson and Enquist? Are they consistent? Yield different insights?
-     * If you are a conservation planner, what do these results mean to you?
 
 #### September 14** Patterns in Abundance 
 * Reading: [Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework](https://doi.org/10.1111/j.1461-0248.2007.01094.x)
