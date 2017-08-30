@@ -1,8 +1,8 @@
 ---
 layout: nil
-title: Questions for Naeem et al "The Functions of Biodiversity in an Age of Extinction"
+title: Class 2 Questions
 ---
-
+### Questions for Naeem et al "The Functions of Biodiversity in an Age of Extinction"
 * What are the different dimensions of biodiversity that the authors discuss? Be able to define each of them briefly.
 * Do the authors think we should study one dimension at a time, figure out which dimension is most important? Or something else?
 * From this manuscript, how does it seem that ecology has been studying these dimensions of biodiversity?
