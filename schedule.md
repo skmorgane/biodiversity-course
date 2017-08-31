@@ -32,6 +32,8 @@ I added a paper for Thursday but DON'T PANIC. This is just one of the papers fro
 * [Questions]({{ site.baseurl }}/questions/class4)
 * Class Activity: Exploring Diversity Indices. Bring computers.
     * Files for class: [R Code]({{ site.baseurl }}/biodiv_exercise.R), [plant file 1]({{ site.baseurl }}/Portal_plants.csv), [plant file 2]({{ site.baseurl }}/Portal_plants2.csv), [plant file 1]({{ site.baseurl }}/Portal_plants.csv), [Rodent file]({{ site.baseurl }}/rodent_counts.csv)
+    
+    https://docs.google.com/document/d/1C0XKrW_0V-8yiLFxdqyzzPXFvTIjdDId2BZFaQBfGbI/edit?usp=sharing
 
 ### Weeks 3-7: Local-scale Biodiversity Patterns & Processes
 
