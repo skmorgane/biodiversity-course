@@ -1,6 +1,6 @@
 ---
 layout: nil
-title: Class 9 Questions
+title: Class 11 Questions
 ---
 #### Questions for Loreau and Hector: Partitioning selection and complementarity in biodiversity experiments
 * What relationship between diversity and ecosystem processes does Loreau & Hector say experiments show?
