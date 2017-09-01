@@ -43,7 +43,7 @@ I added a paper for Thursday but DON'T PANIC. This is just one of the papers fro
 * [Questions]({{ site.baseurl }}/questions/class5)
 
 #### 6. September 7 Assembly Mechanisms - Niches/Deterministic vs. Neutral/Stochastic
-* Reading: [Neutral theory in community ecology and the hypothesis of functional equivalence](https://doi.org/10.1111/j.0269-8463.2005.00965.x) *Note from Morgan: I will provide a cartoon overview of the Neutral Theory in class. In this reading, I want you to focus on the following issues:*
+* Reading: [Neutral theory in community ecology and the hypothesis of functional equivalence](https://doi.org/10.1111/j.0269-8463.2005.00965.x) 
 * Reading: [Drought mediates the importance of stochastic community assembly](https://doi.org/10.1073/pnas.0704350104)
 * Class Activity: Structuring Introductions of Papers/Proposals and what that has to do with your Class Project
 
