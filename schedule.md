@@ -40,6 +40,7 @@ I added a paper for Thursday but DON'T PANIC. This is just one of the papers fro
 #### 5. September 5 Assembly Mechanisms - Biotic and Environmental Filters
 * Reading: [Assembly Rules, Null Models, and Trait Dispersion: New Questions from Old Patterns](http://www.jstor.org/stable/3545686)
 * Reading: [Community assembly, coexistence and the environmental filtering metaphor](https://doi.org/10.1111/1365-2435.12345)
+* [Questions]({{ site.baseurl }}/questions/class5)
 
 #### 6. September 7 Assembly Mechanisms - Niches/Deterministic vs. Neutral/Stochastic
 * Reading: [Neutral theory in community ecology and the hypothesis of functional equivalence](https://doi.org/10.1111/j.0269-8463.2005.00965.x) *Note from Morgan: I will provide a cartoon overview of the Neutral Theory in class. In this reading, I want you to focus on the following issues:*
