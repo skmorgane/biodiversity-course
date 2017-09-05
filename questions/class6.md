@@ -20,5 +20,5 @@ way, what element of classical community assembly does Hubbell get rid of?)
 
 * Under what conditions should stochasticity in community assembly be more important?
 * What pattern is Chase using to distinguish niche-assembled communities from stochastically-assembled communities?
-* Can you think of a way you might replicate Chase's experiment with Hubbell's BCI tree community? What would constitute a "harsh environment?" Think about the trade-off Hubbell is describing in Fig. 1
+* Can you think of a way you might replicate Chase's experiment with Hubbell's BCI tree community (if you could magically have 20 replicates of BCI to work with, that is)? What would constitute a "harsh environment?" Think about the trade-off Hubbell is describing in Fig. 1
 * Is Chase agreeing or disagreeing with Hubbell?
