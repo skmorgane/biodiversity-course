@@ -48,7 +48,7 @@ I added a paper for Thursday but DON'T PANIC. This is just one of the papers fro
 * [Questions]({{ site.baseurl }}/questions/class6)
 * Class Activity: Structuring Introductions of Papers/Proposals and what that has to do with your Class Project
 
-#### 7. September 12** Patterns in Taxonomic, Phylogenetic, and Functional Diversity
+#### 7. September 12 Patterns in Taxonomic, Phylogenetic, and Functional Diversity
 * Reading: [Opposing assembly mechanism in a Neotropical Dry Forest](https://doi.org/10.1890/08-1025.1)
 * Reading: [Spatial mismatch and congruence between taxonomic,phylogenetic and functional diversity](https://doi.org/10.1111/j.1461-0248.2010.01493.x)
 
