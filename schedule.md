@@ -50,15 +50,13 @@ I added a paper for Thursday but DON'T PANIC. This is just one of the papers fro
 
 #### 7. September 12 CANCELLED DUE TO HURRICANE IRMA
 
-#### 8. September 14 Patterns in Taxonomic, Phylogenetic, and Functional Diversity
+#### 8. September 14 Hurricanes and Environmental and Biotic Filters
+ * Given our discussions last week about environmental and biotic filters, I want you to think about the impacts of Hurricane Irma on the Carribbean Islands and in South Florida. How might you expect the hurricane to impact environmental and/or biotic filters in the places it landed? Do you think the islands and the florida mainland might respond differently as they recover? Why? Feel free for your "reading" to look at news reports on the Caribbean Island impacts and the effects on south florida. We'll talk about those questions tomorrow.
+
+#### 9. September 19 Patterns in Taxonomic, Phylogenetic, and Functional Diversity
 * Reading: [Opposing assembly mechanism in a Neotropical Dry Forest](https://doi.org/10.1890/08-1025.1)
 * Reading: [Spatial mismatch and congruence between taxonomic,phylogenetic and functional diversity](https://doi.org/10.1111/j.1461-0248.2010.01493.x)
 * [Questions]({{ site.baseurl }}/questions/class7)
-* Class Activity: Create your elevator pitch
-
-#### 9. September 19 Patterns in Abundance 
-* Reading: [Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework](https://doi.org/10.1111/j.1461-0248.2007.01094.x)
-* Queestions:
   
 #### 10. September 21 Productivity-Diversity Debate
 For class you will break into small groups to figure out what you think is going on with this debate. Is someone right and someone wrong? Is everyone right or everyone wrong? How do we walk away from a debate like this with a better understanding of what is going on in nature? The first two papers set out the main debate. The second two are short comments about technical and conceptual issues. Make sure to have a firm grasp of the first two papers and you can have a looser grasp of the two short comments. At the end of class we will come back together as a group and see what different groups thought about this debate.
@@ -68,7 +66,9 @@ For class you will break into small groups to figure out what you think is going
 * Readings: [Response to Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness"](https://doi.org/10.1126/science.aad8019)
 * Class Activity: Group Projects (Discussing the Project, Starting the group finding process.)
 
-#### 11. September 26** Biodiversity and Ecosystem Function
+#### 11. September 26 Patterns in Abundance 
+* Reading: [Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework](https://doi.org/10.1111/j.1461-0248.2007.01094.x)
+* [Questions]({{ site.baseurl }}/questions/class8)Biodiversity and Ecosystem Function
 * Reading: [Partitioning selection and complementarity in biodiversity experiments](https://doi.org/10.1038/35083573)       
 * Reading: [Effects of biodiversity on the functioning of trophic groups and ecosystems](https://doi.org/10.1038/nature05202)
 
@@ -82,8 +82,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 ** Group 2 **
     * Reading: [Estimating local biodiversity change: a critique of papers claiming no net loss of local diversity](https://doi.org/10.1890/15-1759.1)
     * Reading: [Biodiversity change is uncoupled from species richness trends: consequences for conservation and monitoring](https://doi.org/10.1111/1365-2664.12959)
-
-* Class Activity: Finalize Groups
+* Group Projects (Discussing the Project, Starting the group finding process.)
 
 #### 13. October 3  Species Networks
 * Readings: [Tolerance of pollination networks to species extinctions](https://doi.org/10.1098/rspb.2004.2909)
@@ -132,10 +131,10 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
         * Brainstorm reasons this relationship may not have been seen in Stein et al. These can be statistical or biological reasons having to do with either paper. I know I haven't given you enough info to know for sure what might be an issue and what they may have corrected for or examined in secondary analyses, I just want you to think generally about the issue.   
 * Class Activity: Group Projects
 
-#### 17. October 17
-* FIELD TRIP? Andrew Gonzalez Biology Seminar
+#### 17. October 17 ** Habitat Fragmentation patterns
 
-#### 18. October 19** Habitat Fragmentation patterns
+
+#### 18. October 19 Group Project Day
   
 
 #### 19. October 24 Local-Regional Diversity Relationships
