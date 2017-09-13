@@ -54,9 +54,11 @@ I added a paper for Thursday but DON'T PANIC. This is just one of the papers fro
 * Reading: [Opposing assembly mechanism in a Neotropical Dry Forest](https://doi.org/10.1890/08-1025.1)
 * Reading: [Spatial mismatch and congruence between taxonomic,phylogenetic and functional diversity](https://doi.org/10.1111/j.1461-0248.2010.01493.x)
 * [Questions]({{ site.baseurl }}/questions/class7)
+* Class Activity: Create your elevator pitch
 
 #### 9. September 19 Patterns in Abundance 
 * Reading: [Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework](https://doi.org/10.1111/j.1461-0248.2007.01094.x)
+* Queestions:
   
 #### 10. September 21 Productivity-Diversity Debate
 For class you will break into small groups to figure out what you think is going on with this debate. Is someone right and someone wrong? Is everyone right or everyone wrong? How do we walk away from a debate like this with a better understanding of what is going on in nature? The first two papers set out the main debate. The second two are short comments about technical and conceptual issues. Make sure to have a firm grasp of the first two papers and you can have a looser grasp of the two short comments. At the end of class we will come back together as a group and see what different groups thought about this debate.
