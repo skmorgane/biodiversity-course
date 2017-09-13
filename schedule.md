@@ -50,12 +50,12 @@ I added a paper for Thursday but DON'T PANIC. This is just one of the papers fro
 
 #### 7. September 12 CANCELLED DUE TO HURRICANE IRMA
 
-#### 7. September 14 Patterns in Taxonomic, Phylogenetic, and Functional Diversity
+#### 8. September 14 Patterns in Taxonomic, Phylogenetic, and Functional Diversity
 * Reading: [Opposing assembly mechanism in a Neotropical Dry Forest](https://doi.org/10.1890/08-1025.1)
 * Reading: [Spatial mismatch and congruence between taxonomic,phylogenetic and functional diversity](https://doi.org/10.1111/j.1461-0248.2010.01493.x)
 * [Questions]({{ site.baseurl }}/questions/class7)
 
-#### 8. September 19 Patterns in Abundance 
+#### 9. September 19 Patterns in Abundance 
 * Reading: [Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework](https://doi.org/10.1111/j.1461-0248.2007.01094.x)
   
 #### 10. September 21 Productivity-Diversity Debate
@@ -83,7 +83,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 
 * Class Activity: Finalize Groups
 
-#### 9. October 3  Species Networks
+#### 13. October 3  Species Networks
 * Readings: [Tolerance of pollination networks to species extinctions](https://doi.org/10.1098/rspb.2004.2909)
 * Readings: [Stability of Ecological Communities and the Architecture of Mutualistic and Trophic Networks](https://doi.org/10.1126/science.1188321)
 
