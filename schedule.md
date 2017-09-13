@@ -48,17 +48,16 @@ I added a paper for Thursday but DON'T PANIC. This is just one of the papers fro
 * [Questions]({{ site.baseurl }}/questions/class6)
 * Class Activity: Structuring Introductions of Papers/Proposals and what that has to do with your Class Project
 
-#### 7. September 12 Patterns in Taxonomic, Phylogenetic, and Functional Diversity
+#### 7. September 12 CANCELLED DUE TO HURRICANE IRMA
+
+#### 7. September 14 Patterns in Taxonomic, Phylogenetic, and Functional Diversity
 * Reading: [Opposing assembly mechanism in a Neotropical Dry Forest](https://doi.org/10.1890/08-1025.1)
 * Reading: [Spatial mismatch and congruence between taxonomic,phylogenetic and functional diversity](https://doi.org/10.1111/j.1461-0248.2010.01493.x)
+* [Questions]
 
-#### 8. September 14 Patterns in Abundance 
+#### 8. September 19 Patterns in Abundance 
 * Reading: [Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework](https://doi.org/10.1111/j.1461-0248.2007.01094.x)
-
-#### 9. September 19  Species Networks
-* Readings: [Tolerance of pollination networks to species extinctions](https://doi.org/10.1098/rspb.2004.2909)
-* Readings: [Stability of Ecological Communities and the Architecture of Mutualistic and Trophic Networks](https://doi.org/10.1126/science.1188321)
-    
+  
 #### 10. September 21 Productivity-Diversity Debate
 For class you will break into small groups to figure out what you think is going on with this debate. Is someone right and someone wrong? Is everyone right or everyone wrong? How do we walk away from a debate like this with a better understanding of what is going on in nature? The first two papers set out the main debate. The second two are short comments about technical and conceptual issues. Make sure to have a firm grasp of the first two papers and you can have a looser grasp of the two short comments. At the end of class we will come back together as a group and see what different groups thought about this debate.
 * Readings: [Productivity is a poor predictor of plant species richness](https://doi.org/10.1126/science.1204498)
@@ -84,15 +83,10 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 
 * Class Activity: Finalize Groups
 
+#### 9. October 3  Species Networks
+* Readings: [Tolerance of pollination networks to species extinctions](https://doi.org/10.1098/rspb.2004.2909)
+* Readings: [Stability of Ecological Communities and the Architecture of Mutualistic and Trophic Networks](https://doi.org/10.1126/science.1188321)
 
-#### 13. October 3** Patterns in Body Size
-* Read: Everyone is required to read: [Declining body size: a third universal response to warming?](https://doi.org/10.1016/j.tree.2011.03.005). or Brown et al Metabolic Theory?
-* Pick one of the following to read:
-    * Reading: [Body size in ecological networks](https://doi.org/10.1016/j.tree.2005.04.005)
-    * Reading: [Relationships between body size and abundance in ecology](https://doi.org/10.1016/j.tree.2007.03.007)
-    * (note to Morgan) Pick one more body size paper for class - Predator Prey dynamics?
-* Class Activity: Break into groups based on which optional paper you read and think about the impacts of warming on your pattern if warming does generally cause decreases in body size.
- 
 #### 14. October 5
 * Group Project Day. Start talking about what is a big challenge or important unanswered question that you all are interested in.
 
