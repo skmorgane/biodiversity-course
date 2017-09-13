@@ -53,7 +53,7 @@ I added a paper for Thursday but DON'T PANIC. This is just one of the papers fro
 #### 7. September 14 Patterns in Taxonomic, Phylogenetic, and Functional Diversity
 * Reading: [Opposing assembly mechanism in a Neotropical Dry Forest](https://doi.org/10.1890/08-1025.1)
 * Reading: [Spatial mismatch and congruence between taxonomic,phylogenetic and functional diversity](https://doi.org/10.1111/j.1461-0248.2010.01493.x)
-* [Questions]
+* [Questions]({{ site.baseurl }}/questions/class7)
 
 #### 8. September 19 Patterns in Abundance 
 * Reading: [Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework](https://doi.org/10.1111/j.1461-0248.2007.01094.x)
