@@ -68,9 +68,7 @@ For class you will break into small groups to figure out what you think is going
 
 #### 11. September 26 Patterns in Abundance 
 * Reading: [Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework](https://doi.org/10.1111/j.1461-0248.2007.01094.x)
-* [Questions]({{ site.baseurl }}/questions/class8)Biodiversity and Ecosystem Function
-* Reading: [Partitioning selection and complementarity in biodiversity experiments](https://doi.org/10.1038/35083573)       
-* Reading: [Effects of biodiversity on the functioning of trophic groups and ecosystems](https://doi.org/10.1038/nature05202)
+* [Questions]({{ site.baseurl }}/questions/class8)
 
 #### 12. September 28 Biodiversity through time
 We'll be doing another debate-style discussion. This time over the controversy surrounding biodiversity patterns through time. 
