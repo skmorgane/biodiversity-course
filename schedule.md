@@ -64,7 +64,7 @@ For class you will break into small groups to figure out what you think is going
 * Readings: [Worldwide evidence of a unimodal relationship between productivity and plant species richness](https://doi.org/10.1126/science.aab3916 )
 * Readings: [Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness"](https://doi.org/10.1126/science.aad6236)
 * Readings: [Response to Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness"](https://doi.org/10.1126/science.aad8019)
-* Class Activity: Group Projects (Discussing the Project, Starting the group finding process.)
+* Class Activity: Create your elevator pitch
 
 #### 11. September 26 Patterns in Abundance 
 * Reading: [Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework](https://doi.org/10.1111/j.1461-0248.2007.01094.x)
@@ -80,14 +80,14 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 ** Group 2 **
     * Reading: [Estimating local biodiversity change: a critique of papers claiming no net loss of local diversity](https://doi.org/10.1890/15-1759.1)
     * Reading: [Biodiversity change is uncoupled from species richness trends: consequences for conservation and monitoring](https://doi.org/10.1111/1365-2664.12959)
-* Group Projects (Discussing the Project, Starting the group finding process.)
+* Group Projects: Sharing Interests
 
 #### 13. October 3  Species Networks
 * Readings: [Tolerance of pollination networks to species extinctions](https://doi.org/10.1098/rspb.2004.2909)
 * Readings: [Stability of Ecological Communities and the Architecture of Mutualistic and Trophic Networks](https://doi.org/10.1126/science.1188321)
 
 #### 14. October 5
-* Group Project Day. Start talking about what is a big challenge or important unanswered question that you all are interested in.
+* Group Project Day. Start talking with each other about big challenges or important unanswered question that you all are interested in.
 
 ### Weeks 7-9: Regional-Scale Diversity Patterns & Processes
  
