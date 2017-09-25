@@ -85,6 +85,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 #### 13. October 3  Species Networks
 * Readings: [Tolerance of pollination networks to species extinctions](https://doi.org/10.1098/rspb.2004.2909)
 * Readings: [Stability of Ecological Communities and the Architecture of Mutualistic and Trophic Networks](https://doi.org/10.1126/science.1188321)
+* [Questions]({{ site.baseurl }}/questions/networks)
 
 #### 14. October 5
 * Group Project Day. Start talking with each other about big challenges or important unanswered question that you all are interested in.
