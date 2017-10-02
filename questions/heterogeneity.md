@@ -1,4 +1,7 @@
-
+---
+layout: nil
+title: Metacommunity Questions
+---
 *   MacArthur & MacArthur:
         how are they defining environmental heterogeneity? What is it and what scale (‘Microsite’, within habitat, across habitats?
 *   Tilman & Pacala:
