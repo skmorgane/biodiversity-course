@@ -94,40 +94,11 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
  
 #### 15. October 10 Regional Assembly - Dispersal
 * Reading: [The metacommunity concept: a framework for multi-scale community ecology](https://doi.org/10.1111/j.1461-0248.2004.00608.x)
-    * We've spent a lot of the semester focused on community-scale biodiversity patterns and the mechanisms thought to generate them. What scale have we predominately been focusing on?
-    * What mechanisms have we predominately been focused on as generating biodiversity patterns?
-    * What mechanism is this paper arguing we should add to that list?
-    * What is a metacommunity?
-    * Is the study of metacommunities still focused on the "community-scale", a larger scale, or both? Why do you think this?
-    * What is the difference between spatially implicit and explicit models of metacommunities? Was the model of neutral theory that we covered in class implicit or explicit?
-    * The term 'species pool' is used several times in this manuscript. What is the species pool? Where does it come from?
-    * Why is a species pool important? How can changes to it impact observed metacommunity dynamics?
-    * They acknowledge that "local communities do not always have discrete boundaries and that different species may respond to processes at different scales" Do you think a patch based view works for your system? Can be used as a coarse approximation?     * Completely irrelevant to your system? Why?
-    * Be able to explain (succinctly) the four main types of metacommunity models. What are they and how are they different? (i.e. how do they differ in their assumptions about patches, which species can enter the community, the role of nichebased processes, differences among species, etc).
-    * Which model do you think applies to your system? Why? (yes I will go around the room on this one. Be able to name a relevant model and explain why it applies (in 1-2 sentences). If you do not think a metacommunity framework applies, say that and why. I'd recommend writing your sentence before class so you aren't caught off guard. If I was Stephen Hubbell here's what I would write: I study a tropical tree community that I think fits into the neutral model. I think this because we have dispersal, though its limited, and niche differences between species seem small (or non-existent) and its hard to see how those small differences create stable coexistence.         
+    * [Questions]({{ site.baseurl }}/questions/metacommunity)        
                
 #### 16. October 12 Regional Assembly - Environmental Heterogeneity
 * Reading: The "Frankenpaper" - emailed to the class listserv
-    * MacArthur & MacArthur: 
-        * how are they defining environmental heterogeneity? What is it and what scale ('Microsite', within habitat, across habitats?
-    * Tilman & Pacala: 
-        * how are they defining environmental heterogeneity? How does it compare to how MacArthur & MacArthur are thinking about it?
-        * how does environmental heterogeneity promote higher diversity in their model?
-    * Shmida & Wilson
-        * how do they definte environmental heterogeneity. Compare it to the previous papers.
-        * Compare how environmental heterogeneity promotes diversity in this exerpt  in comparison to the exerpts from the other two papers. What is similar and what is different?
-        * What other concepts in ecology does it make you think of?
-    * Stein et al
-        * In table 1, look at all the different ways scientists have tried to quantify environmental heterogeneity. Think about how Shmida and Wilson talk about environmental heterogeneity and what is being quantified in Table 1. What do you think about how environmental heterogeneity is being quantified. What does it tell us about the complexity of the environment?
-        * What was the general outcome of the meta-analysis?
-        * What does this say to you about the relationship between environmental heterogeneity and species richness?
-    * Fahrig 
-        * One of the things landscape ecology studies is role of the configuration of the landscape. What is in the perspective of the landscape that is missing from the ways environmental heterogeneity is being quantified in the studies Stein et al compiled?
-        * Why might this aspect of environmental heterogeneity be important?
-    * Allouche et al. 
-        * How are area and heterogeneity related?
-        * Why is the niche width of a species important for understanding how biodiversity responds to increasingly complex environments?
-        * Brainstorm reasons this relationship may not have been seen in Stein et al. These can be statistical or biological reasons having to do with either paper. I know I haven't given you enough info to know for sure what might be an issue and what they may have corrected for or examined in secondary analyses, I just want you to think generally about the issue.   
+    * [Questions]({{ site.baseurl }}/questions/heterogeneity)
 * Class Activity: Group Projects
 
 #### 17. October 17 ** Habitat Fragmentation patterns
