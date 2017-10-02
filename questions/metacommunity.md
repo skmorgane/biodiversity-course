@@ -3,7 +3,7 @@ layout: nil
 title: Metacommunity Questions
 ---
 
-*    We’ve spent a lot of the semester focused on community-scale biodiversity patterns and the mechanisms thought to generate them. What scale have we predominately been focusing on?
+*    We’ve spent a lot of the semester focused on biodiversity patterns and the mechanisms thought to generate them. What scale have we predominately been focusing on?
 *    What mechanisms have we predominately been focused on as generating biodiversity patterns?
 *    What mechanism is this paper arguing we should add to that list?
 *    What is a metacommunity?
