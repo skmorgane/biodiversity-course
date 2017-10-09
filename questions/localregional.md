@@ -1,5 +1,6 @@
 ---
 layout: nil
+title: Local-Regional Diversity
 ---
 Questions for Ricklefs
     * In the second paragraph ("Present-day ecological investigations...."), Ricklefs describes what he sees as the state of the field in 1987. Do you think this is still a valid assessment of the field today? Why?
