@@ -110,12 +110,6 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 #### 19. October 24 Local-Regional Diversity Relationships
 * Reading: [Community diversity: relative roles of local and regional processes](http://www.jstor.org/stable/1698957?seq=1#page_scan_tab_contents)
 * Reading: [The Combined Influence of the Local Environment and Regional Enrichment on Bird Species Richness](https://doi.org/10.1086/649578).
-    * According to White and Hurlbert what has been missing from this debate over local vs. regional control of local richness?
-    * What is variance partitioning and how do they use it to push forward the local-regional debate?
-    * What are the local variables they exmaine? What are the regional variables?
-    * How do local and regional variables relate to local diversity?
-    * At what time scales do local or regional variables have their strongest signal? Why?
-    * How do they propose local and regional processes are combining to determine local richness?
 
 #### 21. October 26**: Species-Area/Time Relationships
 For this week there is 1 paper and 2 short excerpts from books. The book excerpts will be sent to the class by email
