@@ -110,6 +110,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 #### 19. October 24 Local-Regional Diversity Relationships
 * Reading: [Community diversity: relative roles of local and regional processes](http://www.jstor.org/stable/1698957?seq=1#page_scan_tab_contents)
 * Reading: [The Combined Influence of the Local Environment and Regional Enrichment on Bird Species Richness](https://doi.org/10.1086/649578).
+* [Questions]({{ site.baseurl }}/questions/localregional)
 
 #### 21. October 26**: Species-Area/Time Relationships
 For this week there is 1 paper and 2 short excerpts from books. The book excerpts will be sent to the class by email
