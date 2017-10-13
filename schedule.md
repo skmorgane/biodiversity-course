@@ -114,21 +114,8 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 * Reading: [The Combined Influence of the Local Environment and Regional Enrichment on Bird Species Richness](https://doi.org/10.1086/649578).
 * [Questions]({{ site.baseurl }}/questions/localregional)
 
-#### 21. October 26**: Species-Area/Time Relationships
-For this week there is 1 paper and 2 short excerpts from books. The book excerpts will be sent to the class by email
-*  Reading: Part of Chapter 2 from *Species Diversity in Space and Time* by Rosenzweig
-    * Why does creating a species-area plot from contiguous plots generate a shallower slope than a plot made from non-contiguous plots?
-    * Be able to explain how the three hypotheses (individuals, habitats, biogeography) would generate a species area relationship.
-    * If you had to guess which mechanism might be more important at small, intermediate, and large spatial scales, which mechanism would you assign to which scale? Why?
-* Reading: Part of Chapter 13 from *Biogeography* by Lomolino, Riddle, & Brown (Start at the section "The Species-Area Relationship")
-    * What are the two equations used to describe the species-area relationship?
-*  Reading: [Two-phase species-time relationships in North American land birds](https://doi.org/10.1111/j.1461-0248.2004.00581.x) 
-    * What is the Species-Time relationship?
-    * How is it calculated?
-    * What are the two phases demonstrated in this paper?
-    * Are the shapes of the two phases the same?
-    * What do the species-area and species-time relationships tell you about biodiversity across scales?
-    * We haven't talked about phylogenetic or functional diversity in a while. Take a moment to ponder whether you expect those aspects of biodiversity to show similar patterns across scales (and similar drivers) to the Species-Area and Species-Time relationships.
+#### 21. October 26: Species-Area/Time Relationships
+* Reading: [The imprint of the geographical, evolutionary and ecological context on species–area relationships](https://doi.org/10.1111/j.1461-0248.2005.00848)
 *  Class Activity: Group Projects
     
 ### Weeks 10-14 Global Biodiversity Patterns and Processes
