@@ -4,24 +4,6 @@ title: Project
 ---
 # Class Project Information
 
-## Next Deadline
-
-* 10/7 Finalized Groups
-    * Each group needs to email me to let me know who is in your group
-* 10/24 Select topic
-    * Each group should email me to let me know what your topic is
-* 11/29 Group Presentations Begin
-    * Presentation Length: 15 minute presentation plus 5 minutes for questions
-    * Can you give a short overview of your topic area - what is it and why is is important to study
-      - E.g. If you're interested in trait clustering in communities, then you should be able to explain why the field has been interested in understanding patterns of trait clustering
-    * Can you explain clearly what we don't yet understand and why we really need to understand it
-      - E.g. what about patterns of trait clustering to we not understand? Why is this gap in our knowledge important? If we can solve this can it help us understand a theory of ecology, design better experiments or conservation policies, or something else?
-    * Can you explain why we don't understand this thing yet (what has prevented us from already solving the problem you've identified)
-      - E.g. Do we not have enough data? Have we not collected the right type of data to definitively resolve the question? Why do we not have enough data or the right type of data?
-    * Can you explain what your plan is for solving this issue and getting us closer to answering the question you've outlined?
-      - E.g. this is the part where you get to be creative. Be as practical or impractical as you want. If you think you have a real solution, go for it. If you can figure out how to do it assuming technology that doesn't yet exist or that you could pull off with unrealistic funding levels thats good too. Or do you need to imploy some science fiction technology to be able to do what you want? 
-    * If you answer yes to all of those questions, then you are ready to go!
-
 
 ## Task
 
@@ -47,5 +29,28 @@ To work collaboratively on identifying a gap in our knowledge about biodiversity
     * Presnetations will need to introduce the audience to the current state of knowledge on their topic
     * Explain clearly what we currently do not understand about that topic
     * Present their idea for how to fill the current gap in knowledge
+    
+## Deadlines
 
+* 10/5 Finalize Groups
+* 11/2 Select topic: DEADLINE
+    * Each group should email me to let me know what your topic is. Email should contain: 3-4 sentences that include a statement about the issue in biodiversity that you think needs to be studied, why you think its important to study, and the gap in knowledge that you think needs to be filled.
+* 11/2 Talk about technology in science in class
+* 11/2 Start thinking about how you will address your question.
+* 11/16 Do you have a plan of how you would fill the gap in knowledge? YAY! You're ready to put your talk together! No? You have another class period to work on this.
+* 11/30 Group Presentations Begin: DEADLINE
+    * Presentation Length: 15 minute presentation plus 5 minutes for questions
+    * Can you give a short overview of your topic area - what is it and why is is important to study
+      - E.g. If you're interested in trait clustering in communities, then you should be able to explain why the field has been interested in understanding patterns of trait clustering and what's our current understanding of trait clustering in communities (this last part should/will set you up for the next part).
+    * Can you explain clearly what we don't yet understand and why we really need to understand it
+      - E.g. what about patterns of trait clustering to we not understand? Why is this gap in our knowledge important? If we can solve this can it help us understand a theory of ecology, design better experiments or conservation policies, or something else?
+    * Can you explain why we don't understand this thing yet (what has prevented us from already solving the problem you've identified)
+      - E.g. Do we not have enough data? Have we not collected the right type of data to definitively resolve the question? Why do we not have enough data or the right type of data?
+    * Can you explain what your plan is for solving this issue and getting us closer to answering the question you've outlined?
+      - E.g. this is the part where you get to be creative. Be as practical or impractical as you want. If you think you have a real solution, go for it. If you can figure out how to do it assuming technology that doesn't yet exist or that you could pull off with unrealistic funding levels thats good too. 
+    * If you answer yes to all of those questions, then you are ready to go!
+
+## Grading
+
+Grade is in part based on your effort and engagement with the project (as judged through your meetings in class) and in part on your ability to communicate your idea and answer the questions above. Your peers will judge your communication of your idea. Did they understand what you were trying to do? The gap in knowledge well articulated? Did your peers feel like your plan was clear and well explained?
 
