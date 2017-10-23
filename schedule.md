@@ -146,7 +146,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 
 #### 29. November 28** Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
 * Reading: [Understanding global patterns of mammalian functional and phylogenetic diversity](https://doi.org/10.1098/rstb.2011.0024)
-* [Questions]({{ site.baseurl }}/questions/Global)
+* [Questions]({{ site.baseurl }}/questions/GlobalDiversity)
     
 ### Weeks 14-15: Group Presentations and Wrap-Up
 
