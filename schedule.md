@@ -128,7 +128,9 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 #### 23. November 2 
 * No readings: Group Projects
 
-#### 24. November 7**   Latitidinal Gradient
+#### 24. November 7  Latitidinal Gradient
+* Readings: [Phylogeny, niche conservatism and the latitudinal diversity gradient in mammals](https://doi.org/10.1098/rspb.2010.0179)
+* Readings:[Plant diversity increases with the strength of negative density dependence at the global scale](https://doi.org/10.1126/science.aam5678)
 
 #### 25. November 9 
 * No readings: Group Projects
