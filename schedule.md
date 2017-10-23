@@ -115,7 +115,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 * [Questions]({{ site.baseurl }}/questions/localregional)
 
 #### 21. October 26: Species-Area/Time Relationships
-* Reading: [The imprint of the geographical, evolutionary and ecological context on species–area relationships](https://doi.org/10.1111/j.1461-0248.2005.00848)
+* Reading: [The imprint of the geographical, evolutionary and ecological context on species–area relationships](https://doi.org/10.1111/j.1461-0248.2005.00848.x)
 *  Class Activity: Group Projects
     
 ### Weeks 10-14 Global Biodiversity Patterns and Processes
