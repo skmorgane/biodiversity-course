@@ -123,6 +123,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 #### 22. October 31 Biogeographic Processes
 * Readings: [Global patterns and drivers of phylogenetic structure in island floras](https://doi.org/10.1038/srep12213)
 * Readings: [An update on Wallace's zoogeographic regions of the World](https://doi.org/10.1126/science.1228282)
+* [Questions]({{ site.baseurl }}/questions/biogeography)
       
 #### 23. November 2 
 * No readings: Group Projects
