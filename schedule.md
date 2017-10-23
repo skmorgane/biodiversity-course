@@ -145,19 +145,9 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 * No readings Group Projects
 
 #### 29. November 28** Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
-* Readings: [Understanding global patterns of mammalian functional and phylogenetic diversity](https://doi.org/10.1098/rstb.2011.0024)
-    * Why are patterns of phylogenetic diversity important to understand?
-    * Why are patterns of functional diversity important to understand?
-    * Figure 1 shows possible relationships between FD and PD. 
-    * Explain what the phylogenetic constraint space represents 
-    * Why might functional diversity be higher than expected given the amount of phylogenetic diversity? (WHat does that even mean?)
-    * Why might functional diversity be less than expected from phylogenetic diversity?
-    * Conceptually, species richness constrain PD and FD. How?
-    * What were the observed patterns between species richness, PD, and FD?
-    * Did continents differ in their observed phylogenetic/functional diversity relationship? What do you think this means?
-    * What were the differences in patterns between the temperate and tropical regions? What did they suggest explained that difference?
-    * The paper talks a lot of about communities, but does the data used here represent communities? What might this better reflect? Does that change how you think about the results? 
-
+* Reading: [Understanding global patterns of mammalian functional and phylogenetic diversity](https://doi.org/10.1098/rstb.2011.0024)
+* [Questions]({{ site.baseurl }}/questions/Global)
+    
 ### Weeks 14-15: Group Presentations and Wrap-Up
 
 #### 30. November 30 
