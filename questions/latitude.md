@@ -1,0 +1,12 @@
+---
+layout: nil
+title: Latitudinal Gradient
+---
+
+* What is the gap in knowledge about latitudinal gradients that this paper is trying to fill?
+* What are the four main hypotheses for explaining the latitudinal gradient in diversity?
+* What are the four critical assummptions that all their simulations contain?
+* Describe what happens during a simulations for the 4 different simulation scenarios (i.e. I'll stand at the board and you will tell me what to draw for each simulation)
+* What metrics did they measure from the simulation outcomes?
+* How simliar were the results from the simulations? How did they differ?
+* Why do we need to test multiple predictions that emerge from a hypothesis?
