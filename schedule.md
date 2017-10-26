@@ -140,7 +140,7 @@ I've only assigned one reading because I think there's a ton in this one to disc
 
 #### 26. November 14 Hotspots and Endemism
 * Readings: [Global hotspots of species richness are not congruent with endemism or threat](https://doi.org/10.1038/nature03850)
-* Readings: [A global assessment of endemism and species richness across island and mainland regions](https://doi.org/10.1073/pnas.0810306106)
+* Readings: [The Influence of Late Quaternary Climate-Change Velocity on Species Endemism](https://doi.org/10.1126/science.1210173)
 * [Questions]({{ site.baseurl }}/questions/Hotspots)
 
 #### 27. November 16
