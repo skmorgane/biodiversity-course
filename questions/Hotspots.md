@@ -11,8 +11,10 @@ title: Hotspots
     * What type of places were most of the endemism hotspots?
     * What type of places were most of the threat hotspots?
     * What do the authors suggest might be behind the differences in the patterns of species richness vs endemic richness?
-* A global assessment of endemism and species richness across island and mainland regions
-    * Explain the Endemism Richness index. How is it calculated and what is it telling you?
-    * How did the endemic richness index differ between islands and mainlands?
-    * How did patterns in the endemic richness index compare across the different taxa assessed?
-    * Compare these results to the other assigned paper. What do they tell you in combination about patterns of endemism?
+* The Influence of Late Quaternary Climate-Change Velocity on Species Endemism
+    * What is climate-change velocity?
+        * Would a 1 degree change in temperature have the same climate-change velocity everywhere?
+    * What impact should high climate-change veolcities have on species - particularly on species with different dispersal abilities?
+    * How do global patterns of endemism relate to global patterns of climate-change velocity?
+    * Think back to the patterns in the first paper - given this paper, would you expect species richness hotspots and endemism hotspots to be in the same locations?
+    
