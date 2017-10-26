@@ -15,3 +15,5 @@ title: Global Diversity
     * Did continents differ in their observed phylogenetic/functional diversity relationship? What do you think this means?
     * What were the differences in patterns between the temperate and tropical regions? What did they suggest explained that difference?
     * The paper talks a lot of about communities, but does the data used here represent communities? What might this better reflect? Does that change how you think about the results? 
+
+     
