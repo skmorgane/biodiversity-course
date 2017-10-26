@@ -132,6 +132,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 #### 24. November 7  Latitidinal Gradient
 I've only assigned one reading because I think there's a ton in this one to discuss, both scientifically and philosophically about how we approach biodiversity research.
 * Readings: [On the processes generating latitudinal richness gradients: identifying diagnostic patterns and predictions](https://doi.org/10.3389/fgene.2014.00420)
+* Reading: [Functional trait space and the latitudinal diversity gradient](https://doi.org/10.1073/pnas.1317722111)
 * [Questions]({{ site.baseurl }}/questions/latitude)
 
 #### 25. November 9 
@@ -150,7 +151,6 @@ I've only assigned one reading because I think there's a ton in this one to disc
 
 #### 29. November 28** Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
 * Reading: [Understanding global patterns of mammalian functional and phylogenetic diversity](https://doi.org/10.1098/rstb.2011.0024)
-* Reading: [Functional trait space and the latitudinal diversity gradient](https://doi.org/10.1073/pnas.1317722111)
 * [Questions]({{ site.baseurl }}/questions/GlobalDiversity)
     
 ### Weeks 14-15: Group Presentations and Wrap-Up
