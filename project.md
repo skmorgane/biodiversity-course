@@ -19,6 +19,9 @@ To work collaboratively on identifying a gap in our knowledge about biodiversity
 ## Implementation
 
 * A considerable amount of class time will be devoted to the class project. 
+    * Unless told otherwise, in-class projects days are to help reduce the out-of-class time load of the project and to make sure that your group has access to me if needed. 
+    * If your group would like to do your in-class meeting time out-of-class, that is perfectly fine. Just let me know in advance what your plan is. 
+    * If I'm going to conduct an important project discussion at the beginning of in-class project time, I will let you know in advance so you can plan accordingly.
 * Small groups of 3-4 people will work together on a class project
 * The group will need to identify something we don't understand about biodiversity
 * The group will need to devise a plan for filling that gap in knowledge
@@ -29,7 +32,7 @@ To work collaboratively on identifying a gap in our knowledge about biodiversity
     * Presnetations will need to introduce the audience to the current state of knowledge on their topic
     * Explain clearly what we currently do not understand about that topic
     * Present their idea for how to fill the current gap in knowledge
-    
+
 ## Deadlines
 
 * 10/5 Finalize Groups
