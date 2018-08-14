@@ -13,7 +13,7 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 
 #### 2. August 28 Measuring Biodiversity
 * Reading: [Disentangling the Drivers of Beta Diversity Along Latitudinal and Elevational Gradients](https://doi.org/10.1126/science.1208584)
-    * [Questions]({{ site.baseurl }}/questions/class3)
+    * [Questions]
 
 #### 3. August 30 Quantifying Biodiversity - Alpha, Beta, Gamma Diversity, and related concepts
 * Class Activity: Exploring Diversity Indices. Bring computers.
@@ -22,30 +22,30 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
  
 #### 4. September 4 Measuring Biodiversity - quantifying taxonomic, phylogenetic, functional diversity
 * Reading: [Functional diversity (FD), species richness and community composition](https://doi.org/10.1046/j.1461-0248.2002.00339.x)
-* [Questions]({{ site.baseurl }}/questions/class4)
+* [Questions]
     
 #### 5. September 6 Assembly Mechanisms - Biotic and Environmental Filters
 * Reading: [Assembly Rules, Null Models, and Trait Dispersion: New Questions from Old Patterns](http://www.jstor.org/stable/3545686)
 * Reading: [Community assembly, coexistence and the environmental filtering metaphor](https://doi.org/10.1111/1365-2435.12345)
-* [Questions]({{ site.baseurl }}/questions/class5)
+* [Questions]
 
 ### Weeks 4-7: Local-scale Biodiversity Patterns & Processes
 
 #### 6. September 11 Assembly Mechanisms - Niches and Biotic and Environmental Filters
 * Reading: [Assembly Rules, Null Models, and Trait Dispersion: New Questions from Old Patterns](http://www.jstor.org/stable/3545686)
 * Reading: [Community assembly, coexistence and the environmental filtering metaphor](https://doi.org/10.1111/1365-2435.12345)
-* [Questions]({{ site.baseurl }}/questions/class5) - replace with a more coexistence focused paper
+* [Questions] - replace with a more coexistence focused paper
 
 #### 7. September 13 Assembly Mechanisms - The role of Stochasticity and History
 * Reading: Find Priority effects reading
 * Reading: [Drought mediates the importance of stochastic community assembly](https://doi.org/10.1073/pnas.0704350104)
-* [Questions]({{ site.baseurl }}/questions/class6)
+* [Questions]
 * Class Activity: Create your elevator pitch
 
 #### 8. September 18 Patterns in Taxonomic, Phylogenetic, and Functional Diversity
 * Reading: [Phylogenetic Overdispersion in Floridian Oak Communities](https://www.cbs.umn.edu/sites/cbs.umn.edu/files/public/downloads/2004%20Cavender%20et%20al%20AmNat.pdf)
 * Reading: [Spatial mismatch and congruence between taxonomic,phylogenetic and functional diversity](https://doi.org/10.1111/j.1461-0248.2010.01493.x)
-* [Questions]({{ site.baseurl }}/questions/class7)
+* [Questions]
 
 #### 9. September 20 Biodiversity Ecosystem Function 
 For class you will break into small groups to figure out what you think is going on with this debate. Is someone right and someone wrong? Is everyone right or everyone wrong? How do we walk away from a debate like this with a better understanding of what is going on in nature? The first two papers set out the main debate. The second two are short comments about technical and conceptual issues. Make sure to have a firm grasp of the first two papers and you can have a looser grasp of the two short comments. At the end of class we will come back together as a group and see what different groups thought about this debate.
@@ -70,34 +70,34 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 #### 12. October 2 Species Networks
 * Readings: [Tolerance of pollination networks to species extinctions](https://doi.org/10.1098/rspb.2004.2909)
 * Readings: [Stability of Ecological Communities and the Architecture of Mutualistic and Trophic Networks](https://doi.org/10.1126/science.1188321)
-* [Questions]({{ site.baseurl }}/questions/networks)
+* [Questions]
 
 ### Weeks 7-10 Regional-Scale Diversity Patterns & Processes
 
 #### 13. October 4 Regional Assembly - Dispersal
 * Reading: [The metacommunity concept: a framework for multi-scale community ecology](https://doi.org/10.1111/j.1461-0248.2004.00608.x)
-* [Questions]({{ site.baseurl }}/questions/metacommunity)  
+* [Questions]  
 * Group Project Day. Start talking with each other about big challenges or important unanswered question that you all are interested in.
 
 #### 14. October 9 Regional Assembly - Environmental Heterogeneity
 * Reading: The "Frankenpaper" - emailed to the class listserv
-* [Questions]({{ site.baseurl }}/questions/heterogeneity)
+* [Questions]
 * Class Activity: Group Projects
 
 #### 15. October 11 Habitat Fragmentation patterns
 * Reading: [How fragmentation and corridors affect wind dynamics and seed dispersal in open habitats](https://doi.org/10.1073/pnas.1308968111)
 * Reading: [Habitat fragmentation and genetic variability of tetrapod populations](https://doi.org/10.1111/acv.12165)
-* [Questions]({{ site.baseurl }}/questions/Fragmentation)
+* [Questions]
 * Class Activity: Group Projects
 
 #### 16. October 16 Local-Regional Diversity Relationships
 * Reading: [Community diversity: relative roles of local and regional processes](http://www.jstor.org/stable/1698957?seq=1#page_scan_tab_contents)
 * Reading: [The Combined Influence of the Local Environment and Regional Enrichment on Bird Species Richness](https://doi.org/10.1086/649578).
-* [Questions]({{ site.baseurl }}/questions/localregional)
+* [Questions]
 
 #### 17. October 18 Species-Area/Time Relationships
 * Reading: [The imprint of the geographical, evolutionary and ecological context on species–area relationships](https://doi.org/10.1111/j.1461-0248.2005.00848.x)
-* [Questions]({{ site.baseurl }}/questions/SAR)
+* [Questions]
 *  Class Activity: Group Projects
 
 #### 18. October 23 Another regional-scale topic?
@@ -111,25 +111,26 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 
 #### 22. November 1: Biogeographic Processes: Earth History
 * Readings: [An update on Wallace's zoogeographic regions of the World](https://doi.org/10.1126/science.1228282)
-* [Questions]({{ site.baseurl }}/questions/biogeography)
+* [Questions]
       
 #### 23. November 6 Hotspots and Endemism
 * Readings: [Global hotspots of species richness are not congruent with endemism or threat](https://doi.org/10.1038/nature03850)
 * Readings: [The Influence of Late Quaternary Climate-Change Velocity on Species Endemism](https://doi.org/10.1126/science.1210173)
-* [Questions]({{ site.baseurl }}/questions/Hotspots)
+* [Questions]
 * Group Projects
 
 #### 24. November 8  Latitidinal Gradient: 
 * Readings: [On the processes generating latitudinal richness gradients: identifying diagnostic patterns and predictions](https://doi.org/10.3389/fgene.2014.00420)
 * Readings: Rare species topical trees paper?
-* [Questions]({{ site.baseurl }}/questions/latitude)
+* [Questions]
 
 #### 25. November 13 * Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
 * Reading: [Understanding global patterns of mammalian functional and phylogenetic diversity](https://doi.org/10.1098/rstb.2011.0024)
-* [Questions]({{ site.baseurl }}/questions/GlobalDiversity)
+* [Questions]
 
-#### 26. November 15 
-* Large-scale analyses Demo?
+#### 26. November 15 Global-Scale Temporal Biodiversity Dynamics
+* Reading:
+* [Questions]
 * Group Project time
 
 ### Weeks 14-15: Group Presentations and Wrap-Up
