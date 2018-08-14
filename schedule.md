@@ -15,13 +15,13 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 
 * Reading: [The Functions of Biological Diversity in an Age of Extinction](https://doi.org/10.1126/science.1215855) 
   * [Questions]({{ site.baseurl }}/questions/class2)
-* Class Activity: Biodiversity Dimensions in the Literature (Bring laptops/tablets for literature searches)
 
 #### 3. August 30 Measuring Biodiversity - Alpha, Beta, Gamma Diversity
 
 * Reading: [Disentangling the Drivers of Beta Diversity Along Latitudinal and Elevational Gradients](https://doi.org/10.1126/science.1208584)
 * Reading: [Partitioning diversity into independent alpha and beta components](https://doi.org/10.1890/06-1736.1)
 * [Questions]({{ site.baseurl }}/questions/class3)
+* Class Activity: Biodiversity Dimensions in the Literature (Bring laptops/tablets for literature searches)
     
 #### 4. September 4 Measuring Biodiversity - quantifying taxonomic, phylogenetic, functional diversity
 I added a paper for Thursday but DON'T PANIC. This is just one of the papers from 8/29. We're just going to focus on parts we didn't really focus on for Tuesday.
