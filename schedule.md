@@ -104,7 +104,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 
 #### 19. October 25 Group Project Day
 
-### Weeks 10-14 Global Biodiversity Patterns and Processes
+### Weeks 11-13 Global Biodiversity Patterns and Processes
 
 #### 21. October 30: Biogeographic Processes: Evolution
 * Readings: [Global patterns and drivers of phylogenetic structure in island floras](https://doi.org/10.1038/srep12213)
