@@ -1,6 +1,6 @@
 ---
 layout: nil
-title: Class 3 Questions
+title: AlphaBetaGamma
 ---
 
 #### Questions and Guidance for for Kraft et al. Disentangling the Drivers of 
