@@ -11,23 +11,21 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 
 #### 1. August 23 Introductions. What does the word biodiversity mean to you?
 
-#### 2. August 28 Measuring Biodiversity
+#### 2. August 28 Taxonomic Alpha, Beta, Gamma Diversity - Concepts
 * Reading: [Disentangling the Drivers of Beta Diversity Along Latitudinal and Elevational Gradients](https://doi.org/10.1126/science.1208584)
-    * [Questions]
+    * [Questions]({{ site.baseurl }}/questions/AlphaBetaGamma.md)
 
-#### 3. August 30 Quantifying Biodiversity - Alpha, Beta, Gamma Diversity, and related concepts
+#### 3. August 30 Taxonomic Alpha, Beta, Gamma Diversity - Practice
 * Class Activity: Exploring Diversity Indices. Bring computers.
 * Files for class: [R Code]({{ site.baseurl }}/biodiv_exercise.R), [plant file 1]({{ site.baseurl }}/Portal_plants.csv), [plant file 2]({{ site.baseurl }}/Portal_plants2.csv), [plant file 1]({{ site.baseurl }}/Portal_plants.csv), [Rodent file]({{ site.baseurl }}/rodent_counts.csv)
  https://docs.google.com/document/d/1C0XKrW_0V-8yiLFxdqyzzPXFvTIjdDId2BZFaQBfGbI/edit?usp=sharing 
  
-#### 4. September 4 Measuring Biodiversity - quantifying taxonomic, phylogenetic, functional diversity
+#### 4. September 4 Phylogenetic and functional diversity - Concepts
 * Reading: [Functional diversity (FD), species richness and community composition](https://doi.org/10.1046/j.1461-0248.2002.00339.x)
 * [Questions]
     
-#### 5. September 6 Assembly Mechanisms - Biotic and Environmental Filters
-* Reading: [Assembly Rules, Null Models, and Trait Dispersion: New Questions from Old Patterns](http://www.jstor.org/stable/3545686)
-* Reading: [Community assembly, coexistence and the environmental filtering metaphor](https://doi.org/10.1111/1365-2435.12345)
-* [Questions]
+#### 5. September 6 Phylogenetic and functional diversity - Practice
+* Class Activity
 
 ### Weeks 4-7: Local-scale Biodiversity Patterns & Processes
 
