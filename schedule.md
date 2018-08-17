@@ -21,7 +21,7 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
  
 #### 4. September 4 Phylogenetic and functional diversity - Concepts
 * Reading: [Functional diversity (FD), species richness and community composition](https://doi.org/10.1046/j.1461-0248.2002.00339.x)
-* [Questions]
+* [Questions]({{ site.baseurl }}/questions/PD_FD)
     
 #### 5. September 6 Phylogenetic and functional diversity - Practice
 * Class Activity
