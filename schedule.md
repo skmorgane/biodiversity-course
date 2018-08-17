@@ -16,9 +16,8 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
     * [Questions]({{ site.baseurl }}/questions/AlphaBetaGamma)
 
 #### 3. August 30 Taxonomic Alpha, Beta, Gamma Diversity - Practice
-* Class Activity: Exploring Diversity Indices. Bring computers.
-* Files for class: [R Code]({{ site.baseurl }}/biodiv_exercise.R), [plant file 1]({{ site.baseurl }}/Portal_plants.csv), [plant file 2]({{ site.baseurl }}/Portal_plants2.csv), [plant file 1]({{ site.baseurl }}/Portal_plants.csv), [Rodent file]({{ site.baseurl }}/rodent_counts.csv)
- https://docs.google.com/document/d/1C0XKrW_0V-8yiLFxdqyzzPXFvTIjdDId2BZFaQBfGbI/edit?usp=sharing 
+* Class Activity: Exploring taxonomic diversity. Bring computers.
+* Files for class: 
  
 #### 4. September 4 Phylogenetic and functional diversity - Concepts
 * Reading: [Functional diversity (FD), species richness and community composition](https://doi.org/10.1046/j.1461-0248.2002.00339.x)
