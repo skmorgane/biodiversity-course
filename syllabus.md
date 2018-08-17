@@ -5,22 +5,22 @@ title: Syllabus
 
 ## WIS 4934/6934 Biodiversity: Ecological Patterns and Processes
 
-  |**Instructor**         |Dr. Morgan Ernest        
-  |**Office Location**    |Building 150, Room 2   (Knock loudly on external door)  
+  |**Instructor**         |Dr. Morgan Ernest
+  |**Office Location**    |Building 150   (Knock loudly on external door)  
   |**Phone**              |352-294-2082            
-  |**Email (preferred)**  |<skmorgane@ufl.edu>      
-  |**Office Hours**       |Tuesday 3-4    
+  |**Email (preferred)**  |<skmorgane@ufl.edu>  
   
-  |**Teaching Assistant** |Erica Christensen
-  |**Email**              |
-                                                 
+  |**Co-Instructor**      |Ellen Bledsoe
+  |**Office Location**    |Building 150   (Knock loudly on external door)         
+  |**Email (preferred)**  |<ellen.bledsoe@weecology.org>     
+                                               
 <br>
 												 
 #### **Times and Locations**
 
-Tuesday, Period 7 (1:55-2:45), MCCB G108
+Tuesday, Period 7 (1:55-2:45), MCCB 3124
 
-Thursday, Period 7-8 (1:55-3:50), MCCB G108
+Thursday, Period 7-8 (1:55-3:50), MCCB 3124
 
 #### **Course Objectives**
 
@@ -38,7 +38,7 @@ This course is designed to provide advanced training for graduate students in a 
 This course is a mixture of small lectures, class discussion of primary literature and hands-on experience involving 
 some class activities and a major project. While there is some lecturing, class participation, intellectual 
 engagement with topics, and discussion participation are the main ways students will learn in this class. 
-Tuesdays and the first hour of Thursdays are devoted to lecture and class discussions. You are expected to 
+Tuesdays and (often) the first hour of Thursdays are devoted to lecture and class discussions. You are expected to 
 come prepared to discuss the assigned papers. Participation in discussions is a major component in the grade. The second hour on Thursdays are devoted to either class activities or working on group projects. 
 
 #### **Course Grading**
@@ -46,11 +46,11 @@ come prepared to discuss the assigned papers. Participation in discussions is a 
 60% of grade will be based on a class project and presentation (330 points), 
 40% will be based on class participation in discussion* (220 points, 10 points/class day).
 
-*A written alternative to class participation can be made for those with anxiety about speaking in front of groups - just contact me to let me know you would prefer this option.
+*A written alternative to class participation can be made for those with anxiety about speaking in front of groups - just contact me to let me know you would prefer this option*
 
 #### **Attendance Policy**
 
-Two days can be missed without impacts on your grade without the need
+Two days can be missed with  no impacts on your grade without the need
 to submit make-up work, though we recommend that students attempt any 
 missed class activities on their own time because additional class 
 activities or discussions may rely on that knowledge. 
@@ -69,7 +69,7 @@ must talk to the instructors beforehand.
 
 1)	There is not a required or recommended text book for this class
 2)	All reading materials are made available through the course schedule. If you are off-campus when you try to access readings, you will need to log in using the [UF VPN](http://www.uflib.ufl.edu/login/vpn.html).
-3)	Laptops: On specific days (notes on the course schedule) laptops or tablets will be required to participate in literature search and basic computational activities.
+3)	Laptops: On specific days (noted on the course schedule) laptops will be required to participate in basic computational activities.
 
 
 ### **UF Policies**
