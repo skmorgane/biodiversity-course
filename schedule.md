@@ -17,6 +17,8 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 
 #### 3. August 30 Taxonomic Alpha, Beta, Gamma Diversity - Practice
 * Class Activity: Exploring taxonomic diversity. Bring computers.
+    * Before class install R (and RStudio is you want to use that) on your laptop.
+        * [Instructions]({{ site.baseurl }}/exercises/R_info/R_info)
 * Files for class: 
  
 #### 4. September 4 Phylogenetic and functional diversity - Concepts
