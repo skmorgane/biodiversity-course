@@ -19,14 +19,22 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 * Class Activity: Exploring taxonomic diversity. Bring computers.
     * Before class install R (and RStudio is you want to use that) on your laptop.
         * [Instructions]({{ site.baseurl }}/exercises/R_info/R_info)
-* Files for class: 
+	* Files:
+	    * [rodent_controls.csv]({{ site.baseurl }}/exercises/AlphaBetaGamma/rodent_controls.csv)
+	    * [rodent_krats.csv]({{ site.baseurl }}/exercises/AlphaBetaGamma/rodent_krats.csv)
+        * R Packages to install: vegan  
  
 #### 4. September 4 Phylogenetic and functional diversity - Concepts
 * Reading: [Functional diversity (FD), species richness and community composition](https://doi.org/10.1046/j.1461-0248.2002.00339.x)
 * [Questions]({{ site.baseurl }}/questions/PD_FD)
     
 #### 5. September 6 Phylogenetic and functional diversity - Practice
-* Class Activity
+* Class Activity: Exploring phylogenetic and functional diversity. Bring computers.
+    * Files:
+        * Same rodent files as last week
+	* [Mammal_supertree.tre]({{ site.baseurl }}/exercises/AlphaBetaGamma/Mammal_supertree_2007.tre)
+	* [rodent_wgts.csv]({{ site.baseurl }}/exercises/AlphaBetaGamma/rodent_wgts.csv)
+	* R packages to install: picante, ape 
 
 ### Weeks 4-7: Local-scale Biodiversity Patterns & Processes
 
