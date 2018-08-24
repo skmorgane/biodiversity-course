@@ -32,8 +32,8 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 * Class Activity: Exploring phylogenetic and functional diversity. Bring computers.
     * Files:
         * Same rodent files as last week
-	* [Mammal_supertree.tre]({{ site.baseurl }}/exercises/AlphaBetaGamma/Mammal_supertree_2007.tre)
-	* [rodent_wgts.csv]({{ site.baseurl }}/exercises/AlphaBetaGamma/rodent_wgts.csv)
+	* [Mammal_supertree.tre]({{ site.baseurl }}/exercises/PD_FD/Mammal_supertree_2007.tre)
+	* [rodent_wgts.csv]({{ site.baseurl }}/exercises/PD_FD/rodent_wgts.csv)
 	* R packages to install: picante, ape 
 
 ### Weeks 4-7: Local-scale Biodiversity Patterns & Processes
