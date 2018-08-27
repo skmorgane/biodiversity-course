@@ -39,9 +39,8 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 ### Weeks 4-7: Local-scale Biodiversity Patterns & Processes
 
 #### 6. September 11 Assembly Mechanisms - Niches and Biotic and Environmental Filters
-* Reading: [Assembly Rules, Null Models, and Trait Dispersion: New Questions from Old Patterns](http://www.jstor.org/stable/3545686)
-* Reading: [Community assembly, coexistence and the environmental filtering metaphor](https://doi.org/10.1111/1365-2435.12345)
-* [Questions] - replace with a more coexistence focused paper
+* Reading: [Rethinking Community Assembly through the Lens of Coexistence Theory](https://doi.org/10.1146/annurev-ecolsys-110411-160411)
+* [Questions] - 
 
 #### 7. September 13 Assembly Mechanisms - The role of Stochasticity and History
 * Reading: Find Priority effects reading
