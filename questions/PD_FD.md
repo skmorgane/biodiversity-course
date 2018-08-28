@@ -26,7 +26,7 @@ title: Phylogenetic and Taxonomic Diversity
                                 |                                            |
                         ________________                                     |
                         |              |                              ______________
-			  |              |                             |              |         
+			    |              |                             |              |         
 		   
 ---
 
