@@ -33,7 +33,7 @@ title: Phylogenetic and Taxonomic Diversity
 		   
 ---
 
-D. Assume each individual vertical bar equals a branch length of 5. (i.e. a vertical line consisting of 2 vertical bars = 10). What is the functional diversity of this community?
+    D. Assume each individual vertical bar equals a branch length of 5. (i.e. a vertical line consisting of 2 vertical bars = 10). What is the functional diversity of this community?
  
 * Examine figure 2. Petchey and Owen run simulations where they change the shape of the dendrogram.
      * What does changing the shape of the dendrogram represent?
