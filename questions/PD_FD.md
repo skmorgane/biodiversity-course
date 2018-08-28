@@ -14,9 +14,12 @@ title: Phylogenetic and Taxonomic Diversity
      Species C: 13 units
      Species D: 13.5 units
      
-     A. Make the S matrix
-     B. Make the D matrix (for your distance metric, just take the absolute value of the difference between two species).
-     C. Let's assume when we put your D matrix through the clustering algorithm (we'll talk in class about how these work sincePetchey and Gaston don't go into much detail here) and you get the dendrogram below. Use your intuition to place each of the species on this dendrogram
+     
+    A. Make the S matrix
+    
+    B. Make the D matrix (for your distance metric, just take the absolute value of the difference between two species).
+     
+    C. Let's assume when we put your D matrix through the clustering algorithm (we'll talk in class about how these work sincePetchey and Gaston don't go into much detail here) and you get the dendrogram below. Use your intuition to place each of the species on this dendrogram
      
 ---
                                                       |
