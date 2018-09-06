@@ -40,7 +40,7 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 
 #### 6. September 11 Assembly Mechanisms - Niches and Biotic and Environmental Filters
 * Reading: [Rethinking Community Assembly through the Lens of Coexistence Theory](https://doi.org/10.1146/annurev-ecolsys-110411-160411)
-* [Questions] - 
+* [Questions]({{ site.baseurl }}/questions/coexistence) 
 
 #### 7. September 13 Assembly Mechanisms - The role of Stochasticity and History
 * Reading: [Stochastic Community Assembly Causes Higher Biodiversity in More Productive
