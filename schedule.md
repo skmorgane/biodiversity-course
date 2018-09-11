@@ -50,7 +50,7 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 #### 8. September 18 Patterns in Taxonomic, Phylogenetic, and Functional Diversity
 * Reading: [Phylogenetic Overdispersion in Floridian Oak Communities](https://www.cbs.umn.edu/sites/cbs.umn.edu/files/public/downloads/2004%20Cavender%20et%20al%20AmNat.pdf)
 * Reading: [Spatial mismatch and congruence between taxonomic,phylogenetic and functional diversity](https://doi.org/10.1111/j.1461-0248.2010.01493.x)
-* [Questions]({{ site.baseurl }}/questions/stochastic) 
+* [Questions]({{ site.baseurl }}/questions/) 
 
 #### 9. September 20 Biodiversity through time
 We'll be doing another debate-style discussion. This time over the controversy surrounding biodiversity patterns through time. 
