@@ -44,7 +44,7 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 
 #### 7. September 13 Assembly Mechanisms - The role of Stochasticity and History
 * Reading: [Drought mediates the importance of stochastic community assembly](https://doi.org/10.1073/pnas.0704350104)
-* [Questions](
+* [Questions]({{ site.baseurl }}/questions/stochastic)
 * Class Activity: Create your elevator pitch
 
 #### 8. September 18 Patterns in Taxonomic, Phylogenetic, and Functional Diversity
