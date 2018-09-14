@@ -50,7 +50,7 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 #### 8. September 18 Patterns in Taxonomic, Phylogenetic, and Functional Diversity
 * Reading: [Phylogenetic Overdispersion in Floridian Oak Communities](https://www.cbs.umn.edu/sites/cbs.umn.edu/files/public/downloads/2004%20Cavender%20et%20al%20AmNat.pdf)
 * Reading: [Spatial mismatch and congruence between taxonomic,phylogenetic and functional diversity](https://doi.org/10.1111/j.1461-0248.2010.01493.x)
-* [Questions]({{ site.baseurl }}/questions/) 
+* [Questions]({{ site.baseurl }}/questions/class7) 
 
 #### 9. September 20 Biodiversity through time
 We'll be doing another debate-style discussion. This time over the controversy surrounding biodiversity patterns through time. 
@@ -62,7 +62,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 ** Group 2 **
 * Reading: [Estimating local biodiversity change: a critique of papers claiming no net loss of local diversity](https://doi.org/10.1890/15-1759.1)
 * Reading: [Biodiversity change is uncoupled from species richness trends: consequences for conservation and monitoring](https://doi.org/10.1111/1365-2664.12959)
-  * Group Projects: Sharing Interests
+* Group Projects: Sharing Interests
 
 #### 10. September 25 Biodiversity Ecosystem Function 
 For class you will break into small groups to figure out what you think is going on with this debate. Is someone right and someone wrong? Is everyone right or everyone wrong? How do we walk away from a debate like this with a better understanding of what is going on in nature? The first two papers set out the main debate. The second two are short comments about technical and conceptual issues. Make sure to have a firm grasp of the first two papers and you can have a looser grasp of the two short comments. At the end of class we will come back together as a group and see what different groups thought about this debate.
