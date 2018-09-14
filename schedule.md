@@ -56,12 +56,17 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 We'll be doing another debate-style discussion. This time over the controversy surrounding biodiversity patterns through time. 
 There will be two groups and the papers you read for this class differ depending  on what group you were assigned to:
 Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
+
 ** Group 1 **
+
 * Reading: [Species-level and community-level responses to disturbance: a cross-community analysis](https://doi.org/10.1890/13-2250.1)
 * Reading: [Recent Trends in Local-Scale Marine Biodiversity Reflect Community Structure and Human Impacts](https://doi.org/10.1016/j.cub.2015.05.030)
+
 ** Group 2 **
+
 * Reading: [Estimating local biodiversity change: a critique of papers claiming no net loss of local diversity](https://doi.org/10.1890/15-1759.1)
 * Reading: [Biodiversity change is uncoupled from species richness trends: consequences for conservation and monitoring](https://doi.org/10.1111/1365-2664.12959)
+
 * Group Projects: Sharing Interests
 
 #### 10. September 25 Biodiversity Ecosystem Function 
