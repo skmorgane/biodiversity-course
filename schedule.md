@@ -65,9 +65,8 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 * Group Projects: Sharing Interests
 
 #### 10. September 25 Species Networks
-* Readings: [Tolerance of pollination networks to species extinctions](https://doi.org/10.1098/rspb.2004.2909)
 * Readings: [Stability of Ecological Communities and the Architecture of Mutualistic and Trophic Networks](https://doi.org/10.1126/science.1188321)
-* [Questions]
+* [Questions]({{ site.baseurl }}/questions/) 
 
 #### 11. September 27 Biodiversity Ecosystem Function 
 * Readings: [Effects of biodiversity on the functioning of trophic groups and ecosystems]{https://doi.org/10.1038/nature05202}
