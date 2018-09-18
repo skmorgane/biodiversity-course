@@ -11,5 +11,4 @@ title: Class 11 Questions
 * How did modularity and nestedness impact the stability of the networks?
 * Let's revisit our previous discussion on biotic filters and coexistence theory. Does this paper expand or alter your thoughts about biotic filters and how they operate to determine local biodiversity?
 
-#### Questions for Asymmetric Coevolutionary Networks Facilitate Biodiversity Maintenance
 
