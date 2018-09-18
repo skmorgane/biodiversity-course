@@ -64,18 +64,20 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
     * Reading: [Biodiversity change is uncoupled from species richness trends: consequences for conservation and monitoring](https://doi.org/10.1111/1365-2664.12959)
 * Group Projects: Sharing Interests
 
-#### 10. September 25 Biodiversity Ecosystem Function 
-For class you will break into small groups to figure out what you think is going on with this debate. Is someone right and someone wrong? Is everyone right or everyone wrong? How do we walk away from a debate like this with a better understanding of what is going on in nature? The first two papers set out the main debate. The second two are short comments about technical and conceptual issues. Make sure to have a firm grasp of the first two papers and you can have a looser grasp of the two short comments. At the end of class we will come back together as a group and see what different groups thought about this debate.
-* Readings: TBA
-
-#### 11. September 27 Patterns in Abundance 
-* Reading: Marine size spectra papers?
-* Rank Abundance Distributions demo?
-
-#### 12. October 2 Species Networks
+#### 10. September 25 Species Networks
 * Readings: [Tolerance of pollination networks to species extinctions](https://doi.org/10.1098/rspb.2004.2909)
 * Readings: [Stability of Ecological Communities and the Architecture of Mutualistic and Trophic Networks](https://doi.org/10.1126/science.1188321)
 * [Questions]
+
+#### 11. September 27 Biodiversity Ecosystem Function 
+* Readings: [Effects of biodiversity on the functioning of trophic groups and ecosystems]{https://doi.org/10.1038/nature05202}
+* Readings: [Emerging horizons in biodiversity and ecosystem functioning research]{https://doi.org/10.1016/j.tree.2009.03.018}
+* Readings: [Plant Species Richness and Ecosystem Multifunctionality in Global Drylands]{https://doi.org/10.1126/science.1215442}
+* Questions
+
+#### 12. October 2 Patterns of Abundance
+ - marine size spectra
+ - thibault?
 
 ### Weeks 7-10 Regional-Scale Diversity Patterns & Processes
 
