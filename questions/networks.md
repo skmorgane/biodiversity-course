@@ -3,19 +3,13 @@ layout: nil
 title: Class 11 Questions
 ---
 
-#### Questions for Tolerance of pollination networks to species extinctions
-
-* What are Memmott et al trying to understand about pollinator networks?
-* What did they do to address their question? (what type of data did they compile, what did they do with that data)
-* What did they find?
-* Why do their pollinator networks seem to be robust to extinctions?
-* How do these results differ from the previous food webs results that had been published?
-* What do they think is causing the difference in response to extinctions between mutualism networks and trophic networks?
-
-
 #### Questions for Stability of Ecological Communities and the Architecture of Mutualistic and Trophic Networks
+
 * Why have differences between mutualism and trophic networks been hard to understand?
-* How did Thebault and Fontaine approach this question so they could be compared?
+* We use a variety of terms to describe network structure. What do: modularity, connectance, and nestedness mean? (The little diagrams associated with Figure 3b can help with the latter two terms).
 * Did the networks they designed retain their initial structure or did they change over the simulations? What happened and why?
 * How did modularity and nestedness impact the stability of the networks?
-* How did the empirical results compare to what their models suggested they should find?
+* Let's revisit our previous discussion on biotic filters and coexistence theory. Does this paper expand or alter your thoughts about biotic filters and how they operate to determine local biodiversity?
+
+#### Questions for Asymmetric Coevolutionary Networks Facilitate Biodiversity Maintenance
+
