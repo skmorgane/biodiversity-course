@@ -72,7 +72,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 * Readings: [Effects of biodiversity on the functioning of trophic groups and ecosystems](https://doi.org/10.1038/nature05202)
 * Readings: [Emerging horizons in biodiversity and ecosystem functioning research](https://doi.org/10.1016/j.tree.2009.03.018)
 * Readings: [Plant Species Richness and Ecosystem Multifunctionality in Global Drylands](https://doi.org/10.1126/science.1215442)
-* Questions
+* [Questions]({{ site.baseurl }}/questions/BEF) 
 
 #### 12. October 2 Patterns of Abundance
  - marine size spectra
