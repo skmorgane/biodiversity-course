@@ -66,7 +66,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 
 #### 10. September 25 Species Networks
 * Readings: [Stability of Ecological Communities and the Architecture of Mutualistic and Trophic Networks](https://doi.org/10.1126/science.1188321)
-* [Questions]({{ site.baseurl }}/questions/network) 
+* [Questions]({{ site.baseurl }}/questions/networks) 
 
 #### 11. September 27 Biodiversity Ecosystem Function 
 * Readings: [Effects of biodiversity on the functioning of trophic groups and ecosystems](https://doi.org/10.1038/nature05202)
