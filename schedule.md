@@ -75,8 +75,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 * [Questions]({{ site.baseurl }}/questions/BEF) 
 
 #### 12. October 2 Patterns of Abundance
- - marine size spectra
- - thibault?
+ - Readings: [Temporal Dynamics in the Structure and Composition of a Desert Rodent Community](https://doi.org/10.1890/04-0321)
 
 ### Weeks 7-10 Regional-Scale Diversity Patterns & Processes
 
