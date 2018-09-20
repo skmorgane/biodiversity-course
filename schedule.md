@@ -75,7 +75,9 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 * [Questions]({{ site.baseurl }}/questions/BEF) 
 
 #### 12. October 2 Patterns of Abundance
- - Readings: [Temporal Dynamics in the Structure and Composition of a Desert Rodent Community](https://doi.org/10.1890/04-0321)
+ * Readings: EXCERPTS from Niche Apportionment and Species Coexistence Chapter will be emailed to group.
+ * Readings: [Temporal Dynamics in the Structure and Composition of a Desert Rodent Community](https://doi.org/10.1890/04-0321)
+ 
 
 ### Weeks 7-10 Regional-Scale Diversity Patterns & Processes
 
