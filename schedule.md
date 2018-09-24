@@ -76,9 +76,9 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 
 #### 12. October 2 Patterns of Abundance
  * Readings: EXCERPTS from Niche Apportionment and Species Coexistence Chapter will be emailed to group.
- * Readings: [Temporal Dynamics in the Structure and Composition of a Desert Rodent Community](https://doi.org/10.1890/04-0321)
+ * Readings: [Hyperdominance in the Amazonian Tree Flora](http://science.sciencemag.org/content/342/6156/1243092)
+ * [Questions]
  
-
 ### Weeks 7-10 Regional-Scale Diversity Patterns & Processes
 
 #### 13. October 4 Regional Assembly - Dispersal
