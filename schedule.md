@@ -77,7 +77,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 #### 12. October 2 Patterns of Abundance
  * Readings: EXCERPTS from Niche Apportionment and Species Coexistence Chapter will be emailed to group.
  * Readings: [Hyperdominance in the Amazonian Tree Flora](http://science.sciencemag.org/content/342/6156/1243092)
- * [Questions]
+ * [Questions]({{ site.baseurl }}/questions/abundance) 
  
 ### Weeks 7-10 Regional-Scale Diversity Patterns & Processes
 
