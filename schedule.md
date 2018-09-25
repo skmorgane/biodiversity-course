@@ -83,7 +83,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 
 #### 13. October 4 Regional Assembly - Dispersal
 * Reading: [The metacommunity concept: a framework for multi-scale community ecology](https://doi.org/10.1111/j.1461-0248.2004.00608.x)
-* [Questions]  
+* [Questions]({{ site.baseurl }}/questions/metacommunity)   
 * Group Project Day. Start talking with each other about big challenges or important unanswered question that you all are interested in.
 
 #### 14. October 9 Regional Assembly - Environmental Heterogeneity
