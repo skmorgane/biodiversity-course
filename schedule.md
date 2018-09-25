@@ -88,7 +88,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 
 #### 14. October 9 Regional Assembly - Environmental Heterogeneity
 * Reading: The "Frankenpaper" - emailed to the class listserv
-* [Questions]
+* [Questions]({{ site.baseurl }}/questions/heterogeneity) 
 * Class Activity: Group Projects
 
 #### 15. October 11 Habitat Fragmentation patterns
