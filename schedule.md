@@ -94,7 +94,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 #### 15. October 11 Habitat Fragmentation patterns
 * Reading: [How fragmentation and corridors affect wind dynamics and seed dispersal in open habitats](https://doi.org/10.1073/pnas.1308968111)
 * Reading: [Habitat fragmentation and genetic variability of tetrapod populations](https://doi.org/10.1111/acv.12165)
-* [Questions]
+* [Questions]({{ site.baseurl }}/questions/Fragmentation)
 * Class Activity: Group Projects
 
 #### 16. October 16 Local-Regional Diversity Relationships
