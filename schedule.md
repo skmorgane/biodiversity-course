@@ -97,12 +97,12 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 * [Questions]({{ site.baseurl }}/questions/Fragmentation)
 * Class Activity: Group Projects
 
-#### 16. October 16 Local-Regional Diversity Relationships
+#### 16. October 16** Local-Regional Diversity Relationships
 * Reading: [Community diversity: relative roles of local and regional processes](http://www.jstor.org/stable/1698957?seq=1#page_scan_tab_contents)
 * Reading: [The Combined Influence of the Local Environment and Regional Enrichment on Bird Species Richness](https://doi.org/10.1086/649578).
 * [Questions]
 
-#### 17. October 18 Species-Area/Time Relationships
+#### 17. October 18** Species-Area/Time Relationships
 * Reading: [The imprint of the geographical, evolutionary and ecological context on species–area relationships](https://doi.org/10.1111/j.1461-0248.2005.00848.x)
 * [Questions]
 *  Class Activity: Group Projects
@@ -120,22 +120,22 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 * Readings: [An update on Wallace's zoogeographic regions of the World](https://doi.org/10.1126/science.1228282)
 * [Questions]
       
-#### 23. November 6 Hotspots and Endemism
+#### 23. November 6** Hotspots and Endemism
 * Readings: [Global hotspots of species richness are not congruent with endemism or threat](https://doi.org/10.1038/nature03850)
 * Readings: [The Influence of Late Quaternary Climate-Change Velocity on Species Endemism](https://doi.org/10.1126/science.1210173)
 * [Questions]
 * Group Projects
 
-#### 24. November 8  Latitidinal Gradient: 
+#### 24. November 8**  Latitidinal Gradient: 
 * Readings: [On the processes generating latitudinal richness gradients: identifying diagnostic patterns and predictions](https://doi.org/10.3389/fgene.2014.00420)
 * Readings: Rare species topical trees paper?
 * [Questions]
 
-#### 25. November 13 * Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
+#### 25. November 13** Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
 * Reading: [Understanding global patterns of mammalian functional and phylogenetic diversity](https://doi.org/10.1098/rstb.2011.0024)
 * [Questions]
 
-#### 26. November 15 Global-Scale Temporal Biodiversity Dynamics
+#### 26. November 15** Global-Scale Temporal Biodiversity Dynamics
 * Reading:
 * [Questions]
 * Group Project time
