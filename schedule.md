@@ -102,10 +102,11 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 * Reading: [The Combined Influence of the Local Environment and Regional Enrichment on Bird Species Richness](https://doi.org/10.1086/649578).
 * [Questions]
 
-#### 17. October 18** Species-Area/Time Relationships
-* Reading: [The imprint of the geographical, evolutionary and ecological context on species–area relationships](https://doi.org/10.1111/j.1461-0248.2005.00848.x)
+#### 17. October 18 Species-Area Relationships
+* Reading: species-area relationship frankenpaper (emailed to group)
+* Reading: [Analysis of an evolutionary species–area relationship](https://www.nature.com/articles/35048558)
 * [Questions]
-*  Class Activity: Group Projects
+* Class Activity: Group Projects
 
 #### 18. October 23 Another regional-scale topic?
 
