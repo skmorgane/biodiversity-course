@@ -105,7 +105,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 #### 17. October 18 Species-Area Relationships
 * Reading: species-area relationship frankenpaper (emailed to group)
 * Reading: [Analysis of an evolutionary species–area relationship](https://www.nature.com/articles/35048558)
-* [Questions]
+* [Questions]({{ site.baseurl }}/questions/SAR) 
 * Class Activity: Group Projects
 
 #### 18. October 23 Another regional-scale topic?
