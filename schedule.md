@@ -108,7 +108,9 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 * [Questions]({{ site.baseurl }}/questions/SAR) 
 * Class Activity: Group Projects
 
-#### 18. October 23 Another regional-scale topic?
+#### 18. October 23** Core-Transient Framework
+* Readings: TBD
+* [Questions] 
 
 #### 19. October 25 Group Project Day
 
