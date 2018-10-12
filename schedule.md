@@ -97,7 +97,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 * [Questions]({{ site.baseurl }}/questions/Fragmentation)
 * Class Activity: Group Projects
 
-#### 16. October 16** Local-Regional Diversity Relationships
+#### 16. October 16 Local-Regional Diversity Relationships
 * Reading: [Community diversity: relative roles of local and regional processes](http://www.jstor.org/stable/1698957?seq=1#page_scan_tab_contents)
 * Reading: [The Combined Influence of the Local Environment and Regional Enrichment on Bird Species Richness](https://doi.org/10.1086/649578).
 * [Questions]({{ site.baseurl }}/questions/localregional)
