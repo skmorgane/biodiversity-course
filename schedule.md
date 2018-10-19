@@ -108,10 +108,10 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 * [Questions]({{ site.baseurl }}/questions/SAR) 
 * Class Activity: Group Projects
 
-#### 18. October 23** Core-Transient Framework
+#### 18. October 23 Core-Transient Framework
 * Reading: [Explaining the excess of rare species in natural species abundance distributions](https://doi.org/10.1038/nature01547)
 * Reading: [Opposing mechanisms drive richness patterns of core and transient bird species](https://www.jstor.org/stable/10.1086/669903)
-* [Questions] 
+* [Questions] ({{ site.baseurl }}/questions/core-transient)
 
 #### 19. October 25 Group Project Day
 
