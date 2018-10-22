@@ -118,7 +118,8 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 ### Weeks 11-13 Global Biodiversity Patterns and Processes
 
 #### 21. October 30: Biogeographic Processes: Evolution
-* Readings: [Global patterns and drivers of phylogenetic structure in island floras](https://doi.org/10.1038/srep12213)
+* Readings: [Comparative phylogeography of oceanic archipelagos: Hotspots for inferences of evolutionary process](https://doi.org/10.1073/pnas.1601078113)
+* [Questions]
 
 #### 22. November 1: Biogeographic Processes: Earth History
 * Readings: [An update on Wallace's zoogeographic regions of the World](https://doi.org/10.1126/science.1228282)
