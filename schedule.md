@@ -117,12 +117,13 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 
 ### Weeks 11-13 Global Biodiversity Patterns and Processes
 
-#### 21. October 30: Biogeographic Processes: Evolution
-* Readings: [Comparative phylogeography of oceanic archipelagos: Hotspots for inferences of evolutionary process](https://doi.org/10.1073/pnas.1601078113)
+#### 21. October 30: Biogeographic Processes: Biogeographic Regions
+* * Readings: [An update on Wallace's zoogeographic regions of the World](https://doi.org/10.1126/science.1228282)
 * [Questions]
 
-#### 22. November 1: Biogeographic Processes: Earth History
-* Readings: [An update on Wallace's zoogeographic regions of the World](https://doi.org/10.1126/science.1228282)
+
+#### 22. November 1: Biogeographic Processes: Evolution
+Readings: [Does the colonization of new biogeographic regions influence the diversification and accumulation of clade richness among the Corvides (Aves: Passeriformes)?](https://doi.org/10.1111/evo.13080)
 * [Questions]
       
 #### 23. November 6** Hotspots and Endemism
