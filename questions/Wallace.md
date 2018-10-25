@@ -1,3 +1,7 @@
+---
+layout: nil
+title: Class 11 Questions
+---
 
 ### An update on Wallace's zoogeographic regions of the World
 
