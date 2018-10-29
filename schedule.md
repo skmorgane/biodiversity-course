@@ -132,8 +132,8 @@ Readings: [Biogeographic regions and events of isolation and diversification of 
 * [Questions]
 
 #### 24. November 8**  Latitidinal Gradient: 
-* Readings: [On the processes generating latitudinal richness gradients: identifying diagnostic patterns and predictions](https://doi.org/10.3389/fgene.2014.00420)
-* Readings: Rare species topical trees paper?
+* Readings: [Out of the tropics: evolutionary dynamics of the latitudinal diversity gradient](https://doi.org/10.1126/science.1130880)
+* Readings: [Functional trait space and the latitudinal diversity gradient](https://doi.org/10.1073/pnas.1317722111)
 * [Questions]
 * Group Projects
 
