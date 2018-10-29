@@ -130,12 +130,12 @@ Readings: [Biogeographic regions and events of isolation and diversification of 
 * Readings: [Global hotspots of species richness are not congruent with endemism or threat](https://doi.org/10.1038/nature03850)
 * Readings: [The Influence of Late Quaternary Climate-Change Velocity on Species Endemism](https://doi.org/10.1126/science.1210173)
 * [Questions]
-* Group Projects
 
 #### 24. November 8**  Latitidinal Gradient: 
 * Readings: [On the processes generating latitudinal richness gradients: identifying diagnostic patterns and predictions](https://doi.org/10.3389/fgene.2014.00420)
 * Readings: Rare species topical trees paper?
 * [Questions]
+* Group Projects
 
 #### 25. November 13** Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
 * Reading: [Understanding global patterns of mammalian functional and phylogenetic diversity](https://doi.org/10.1098/rstb.2011.0024)
