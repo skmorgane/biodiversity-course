@@ -129,7 +129,7 @@ Readings: [Biogeographic regions and events of isolation and diversification of 
 #### 23. November 6** Hotspots and Endemism
 * Readings: [Global hotspots of species richness are not congruent with endemism or threat](https://doi.org/10.1038/nature03850)
 * Readings: [The Influence of Late Quaternary Climate-Change Velocity on Species Endemism](https://doi.org/10.1126/science.1210173)
-* [Questions]
+* [Questions]({{ site.baseurl }}/questions/Hotspots)
 
 #### 24. November 8**  Latitidinal Gradient: 
 Read the paper you were assigned in class - read the abstracts of the other 3. For this assignment, be able to explain the processes generating the latudinal gradient of diversity that your assigned paper examined. You will break into small groups first to make sure everyone understands their mechanisms, and then each group will explain their mechanisms to the rest of the group.
