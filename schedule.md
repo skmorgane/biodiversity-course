@@ -126,7 +126,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 Readings: [Biogeographic regions and events of isolation and diversification of the endemic biota of the tropical Andes](https://doi.org/10.1073/pnas.1803908115)
 * [Questions]({{ site.baseurl }}/questions/evolution)
       
-#### 23. November 6** Hotspots and Endemism
+#### 23. November 6 Hotspots and Endemism
 * Readings: [Global hotspots of species richness are not congruent with endemism or threat](https://doi.org/10.1038/nature03850)
 * Readings: [The Influence of Late Quaternary Climate-Change Velocity on Species Endemism](https://doi.org/10.1126/science.1210173)
 * [Questions]({{ site.baseurl }}/questions/Hotspots)
