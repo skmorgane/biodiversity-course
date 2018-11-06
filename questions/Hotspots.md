@@ -3,7 +3,7 @@ layout: nil
 title: Hotspots
 ---
 
-*Global hotspots of species richness are not congruent with endemism or threat
+* Global hotspots of species richness are not congruent with endemism or threat
     * What is an endemic species?
     * What do we mean by a 'hotspot'? 
     * What are the types of hotspots they are using in this paper, specifically? Why are they using these three measures of hotspots?
