@@ -3,17 +3,16 @@ layout: nil
 title: Global Diversity
 ---
 
-* Understanding global patterns of mammalian functional and phylogenetic diversity
-    * Why are patterns of phylogenetic diversity important to understand?
-    * Why are patterns of functional diversity important to understand?
-    * Figure 1 shows possible relationships between FD and PD. 
-    * Explain what the phylogenetic constraint space represents 
-    * Why might functional diversity be higher than expected given the amount of phylogenetic diversity? (WHat does that even mean?)
-    * Why might functional diversity be less than expected from phylogenetic diversity?
-    * Conceptually, species richness constrain PD and FD. How?
-    * What were the observed patterns between species richness, PD, and FD?
-    * Did continents differ in their observed phylogenetic/functional diversity relationship? What do you think this means?
-    * What were the differences in patterns between the temperate and tropical regions? What did they suggest explained that difference?
-    * The paper talks a lot of about communities, but does the data used here represent communities? What might this better reflect? Does that change how you think about the results? 
+* We haven't talked a lot about phylogenetic and functional diversity in a while. Let's start with some review:
+   * What is phylogenetic diversity and what kind of information does it tell us about biodiversity?
+   * What is functional diversity and what kind of information does it tell us about biodiversity? 
+* Figure 1 shows possible relationships between FD and PD and is also a partial review of patterns we talked about earlier in the semester. 
+   * What is overdispersion and what do we think it means ecologically?  
+   * Figure 1 has a 'deficit' region labelled. What does it mean and what does it reflect ecologically?
+   * Explain what the phylogenetic constraint space represents 
+* What were the observed patterns between species richness, PD, and FD?
+* Did continents differ in their observed phylogenetic/functional diversity relationship? What do you think this means?
+* What were the differences in patterns between the temperate and tropical regions? What did they suggest explained that difference? What do you think?
+* The paper talks a lot of about communities. In the methods, find in the methods what the spatial scale of the data points is. Do you agree with calling this an analysis of communities? Why ot why not? 
 
      
