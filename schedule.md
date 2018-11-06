@@ -141,7 +141,7 @@ Read the paper you were assigned in class - read the abstracts of the other 3. F
 
 #### 25. November 13** Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
 * Reading: [Understanding global patterns of mammalian functional and phylogenetic diversity](https://doi.org/10.1098/rstb.2011.0024)
-* [Questions]
+* [Questions]({{ site.baseurl }}/questions/GlobalDiversity)
 
 #### 26. November 15** Global-Scale Temporal Biodiversity Dynamics
 * Reading:
