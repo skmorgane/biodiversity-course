@@ -131,7 +131,7 @@ Readings: [Biogeographic regions and events of isolation and diversification of 
 * Readings: [The Influence of Late Quaternary Climate-Change Velocity on Species Endemism](https://doi.org/10.1126/science.1210173)
 * [Questions]({{ site.baseurl }}/questions/Hotspots)
 
-#### 24. November 8**  Latitidinal Gradient: 
+#### 24. November 8 Latitidinal Gradient: 
 Read the paper you were assigned in class - read the abstracts of the other 3. For this assignment, be able to explain the processes generating the latudinal gradient of diversity that your assigned paper examined. You will break into small groups first to make sure everyone understands their mechanisms, and then each group will explain their mechanisms to the rest of the group.
 * Readings: [Faster Speciation and Reduced Extinction in the Tropics Contribute to the Mammalian Latitudinal Diversity Gradient](https://doi.org/10.1371/journal.pbio.1001775)
 * Readings: [Plant diversity increases with the strength of negative density dependence at the global scale](https://doi.org/10.1126/science.aam5678)
@@ -139,12 +139,13 @@ Read the paper you were assigned in class - read the abstracts of the other 3. F
 * Readings: [A latitudinal gradient in planktonic marine bacteria](https://doi.org/10.1073/pnas.0803070105)
 * Group Projects
 
-#### 25. November 13** Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
+#### 25. November 13 Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
 * Reading: [Understanding global patterns of mammalian functional and phylogenetic diversity](https://doi.org/10.1098/rstb.2011.0024)
 * [Questions]({{ site.baseurl }}/questions/GlobalDiversity)
 
-#### 26. November 15** Global-Scale Temporal Biodiversity Dynamics
-* Reading:
+#### 26. November 15 Extinctions
+* Reading: [Pleistocene megafaunal collapse, novel plant communities, and enhanced fire regimes in North America](http://science.sciencemag.org/content/326/5956/1100)
+* Reading--you only need to read the abstract! [Extinctions and the loss of ecological function in island bird communities](https://doi.org/10.1111/geb.12147)
 * [Questions]
 * Group Project time
 
