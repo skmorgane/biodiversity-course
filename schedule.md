@@ -134,7 +134,7 @@ Readings: [Biogeographic regions and events of isolation and diversification of 
 #### 24. November 8**  Latitidinal Gradient: 
 Read the paper you were assigned in class - read the abstracts of the other 3. For this assignment, be able to explain the processes generating the latudinal gradient of diversity that your assigned paper examined. You will break into small groups first to make sure everyone understands their mechanisms, and then each group will explain their mechanisms to the rest of the group.
 * Readings: [Faster Speciation and Reduced Extinction in the Tropics Contribute to the Mammalian Latitudinal Diversity Gradient](https://doi.org/10.1371/journal.pbio.1001775)
-* Readings: [Plant diversity increases with the strength of negative density dependence at the global scale](https://doi.org/0.1126/science.aam5678)
+* Readings: [Plant diversity increases with the strength of negative density dependence at the global scale](https://doi.org/10.1126/science.aam5678)
 * Readings: [Global Biodiversity, Biochemical Kinetics, and the Energetic Equivalence Rule](https://doi.org/10.1126/science.1072380) 
 * Readings: [A latitudinal gradient in planktonic marine bacteria](https://doi.org/10.1073/pnas.0803070105)
 * Group Projects
