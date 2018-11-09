@@ -146,7 +146,7 @@ Read the paper you were assigned in class - read the abstracts of the other 3. F
 #### 26. November 15 Extinctions
 * Reading: [Pleistocene megafaunal collapse, novel plant communities, and enhanced fire regimes in North America](http://science.sciencemag.org/content/326/5956/1100)
 * Reading--you only need to read the abstract! [Extinctions and the loss of ecological function in island bird communities](https://doi.org/10.1111/geb.12147)
-* [Questions]
+* [Questions]({{ site.baseurl }}/questions/extinctions)
 * Group Project time
 
 ### Weeks 14-15: Group Presentations and Wrap-Up
