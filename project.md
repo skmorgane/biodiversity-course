@@ -56,5 +56,6 @@ To work collaboratively on identifying a gap in our knowledge about biodiversity
 ## Grading
 
 Grade is in part based on your effort and engagement with the project (as judged through your meetings in class) and in part on your ability to communicate your idea and answer the questions above. 
-Your peers will provide feedback on your communication of your idea. Did they understand what you were trying to do? The gap in knowledge well articulated? Did your peers feel like your plan was clear and well explained? I will take their feedback into consideration in grading. Here's the form that everyone will be filling our for the talks: [evaluation forms]({{ site.baseurl }}/presentation_eval_form)
+Your peers will provide feedback on your communication of your idea. Did they understand what you were trying to do? The gap in knowledge well articulated? Did your peers feel like your plan was clear and well explained? I will take their feedback into consideration in grading. Here's the form that everyone will be filling our for the talks: 
+[evaluation forms]({{ site.baseurl }}/presentation_eval_form)
 
