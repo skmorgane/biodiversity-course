@@ -12,23 +12,24 @@ Scale 1-5.
 1 = I have no idea what is going on
 
 1)	Do you understand the topic the group is focusing on? (1-5):
-A)	What was the topic?
+
+   A)	What was the topic?
 
 
 2)	Do you understand why this topic is important to study?	 (1-5):
-A)	Why is it important?
+   A)	Why is it important?
 
 
 3)	Do you feel like you understand the gap in knowledge?	 (1-5):
-A)	What don’t we know yet?
+   A)	What don’t we know yet?
 
 
 4)	Did they clearly explain why this gap has not been filled yet?	 (1-5):
-A)	What is the cause of the gap?
+   A)	What is the cause of the gap?
 
 
 5)	Do you understand how they plan to solve this problem?	 (1-5):
-A)	What are they planning on doing?
+   A)	What are they planning on doing?
 
 Presentation: How the content was communicated
 Presentation Evaluation	Response
