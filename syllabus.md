@@ -9,18 +9,14 @@ title: Syllabus
   |**Office Location**    |Building 150   (Knock loudly on external door)  
   |**Phone**              |352-294-2082            
   |**Email (preferred)**  |<skmorgane@ufl.edu>  
-  
-  |**Co-Instructor**      |Ellen Bledsoe
-  |**Office Location**    |Building 150   (Knock loudly on external door)         
-  |**Email (preferred)**  |<ellen.bledsoe@weecology.org>     
                                                
 <br>
 												 
 #### **Times and Locations**
 
-Tuesday, Period 7 (1:55-2:45), MCCB 3124
+Tuesday, Period 7 (1:55-2:45), LIT 0233
 
-Thursday, Period 7-8 (1:55-3:50), MCCB 3124
+Thursday, Period 7-8 (1:55-3:50), MAT 0004
 
 #### **Course Objectives**
 
@@ -61,9 +57,6 @@ the activity and submitting the code/data for instructor evaluation. Missed
 discussions can be made up by providing a written summary of the readings 
 for the day(s) missed. Written summaries will involve written answers to the 
 questions posted for the readings that were missed.
-
-If a student anticpates missing more than 6 class days (i.e. 3 weeks of classes), you
-must talk to the instructors beforehand.
 
 #### **Course Materials**
 
@@ -143,7 +136,7 @@ to me and I will do our best to help.
 
 #### **Course Schedule**
 
-The details course schedule is available on the [course website](https://skmorgane.github.io/biodiversity-course).
+The detailed course schedule is available on the [course website](https://skmorgane.github.io/biodiversity-course).
 
 **Disclaimer:** This syllabus represents the current plans and
 objectives. As we go through the semester, those plans may need to
