@@ -12,6 +12,9 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 #### 1. August 20 Introductions. What does the word biodiversity mean to you?
 
 #### 2. August 22 Project Discussions, Getting to know each other, Making and Giving Elevator Pitches
+* Reading: [Beyond the Pubs](https://www.nrel.colostate.edu/beyond-the-pubs-sprucing-up-your-elevator-pitch/)
+* Reading: [Dynamic Ecology](https://dynamicecology.wordpress.com/2014/08/05/perfecting-the-elevator-pitch/)
+* Watch:[Example pitch](https://www.youtube.com/watch?v=KHlgjdVQJHQ)
 
 #### 3. **August 27 Taxonomic Alpha, Beta, Gamma Diversity - Concepts
 * Reading: [Disentangling the Drivers of Beta Diversity Along Latitudinal and Elevational Gradients](https://doi.org/10.1126/science.1208584)
