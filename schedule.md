@@ -17,7 +17,7 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 * Watch:[Example pitch](https://www.youtube.com/watch?v=KHlgjdVQJHQ)
 
 #### 3. **August 27 Taxonomic Alpha, Beta, Gamma Diversity - Concepts
-* Reading: [Alpha, Beta and Gamma Diversity Differ in Response to Precipitation in the Inner Mongolia Grassland]( https://doi.org/10.1371/journal.pone.0093518)
+* Reading: [Disentangling the drivers of beta diversity along latitudinal and elevational gradients](https://doi.org/10.1126/science.1208584 )
     * [Questions]
 
 #### 4. August 29 Taxonomic Alpha, Beta, Gamma Diversity - Practice
