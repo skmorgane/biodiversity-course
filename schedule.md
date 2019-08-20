@@ -16,7 +16,7 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 * Reading: [Dynamic Ecology](https://dynamicecology.wordpress.com/2014/08/05/perfecting-the-elevator-pitch/)
 * Watch:[Example pitch](https://www.youtube.com/watch?v=KHlgjdVQJHQ)
 
-#### 3. **August 27 Taxonomic Alpha, Beta, Gamma Diversity - Concepts
+#### 3. August 27 Taxonomic Alpha, Beta, Gamma Diversity - Concepts
 * Reading: [Disentangling the drivers of beta diversity along latitudinal and elevational gradients](https://doi.org/10.1126/science.1208584 )
     * [Questions]({{ site.baseurl }}/questions/AlphaBetaGamma.md)
 
