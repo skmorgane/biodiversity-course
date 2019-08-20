@@ -18,7 +18,7 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 
 #### 3. **August 27 Taxonomic Alpha, Beta, Gamma Diversity - Concepts
 * Reading: [Disentangling the drivers of beta diversity along latitudinal and elevational gradients](https://doi.org/10.1126/science.1208584 )
-    * [Questions]
+    * [Questions]({{ site.baseurl }}/questions/AlphaBetaGamma.md)
 
 #### 4. August 29 Taxonomic Alpha, Beta, Gamma Diversity - Practice
 * Class Activity: Exploring taxonomic diversity. Bring computers.
