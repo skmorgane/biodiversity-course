@@ -3,7 +3,7 @@ layout: nil
 title: AlphaBetaGamma
 ---
 
-#### Questions and Guidance for for Kraft et al. Disentangling the Drivers of 
+#### Questions and Guidance for Kraft et al. Disentangling the Drivers of 
 #### Beta Diversity Along Latitudinal and Elevational Gradients
 
 If the study of biodiversity patterns is new for you, this first paragraph may 
