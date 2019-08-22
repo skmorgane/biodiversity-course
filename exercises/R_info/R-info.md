@@ -5,11 +5,11 @@ title: R setup
   
 ### Download R
   
-  If you don't already have R on your computer, go [here](https://cran.r-project.org/) and select your operating system.
+  If you don't already have R on your computer, go [here](http://archive.linux.duke.edu/cran/) and select your operating system.
 
-What you click next differs depdning on the operating system you selected:
+What you click next differs depending on the operating system you selected:
 If windows, select base
-If Mac, select R-3.5.1.pkg
+If Mac, select R-3.6.1.pkg
 If Linux, I have no idea, hopefully that page makes sense to you.
 
 Follow any instructions during setup.
