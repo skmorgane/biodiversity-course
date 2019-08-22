@@ -29,8 +29,11 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 	    * [rodent_krats.csv]({{ site.baseurl }}/exercises/AlphaBetaGamma/rodent_krats.csv)
         * R Packages to install: vegan  
  
-#### 5. September 3 **Phylogenetic and functional diversity - Concepts
+#### 5. September 3 Phylogenetic and functional diversity - Concepts
+* Reading: [Comparing patterns of taxonomic, functional and phylogeneticdiversity in reef coral communities](https:// https://doi.org/10.1007/s00338-018-1698-6)
+    * Only read the introduction. You can ignore the final two paragraphs of the introduction as well (i.e. you can stop once you hit the paragraph starting "Despite the importance of coral reefs"). 
 * Reading: [Functional diversity (FD), species richness and community composition](https://doi.org/10.1046/j.1461-0248.2002.00339.x)
+    * Read the whole paper and make sure to try to walk through the questions associated with it and we'll go through this is detail in class.
 * [Questions]({{ site.baseurl }}/questions/PD_FD)
     
 #### 6. September 5 Phylogenetic and functional diversity - Practice
