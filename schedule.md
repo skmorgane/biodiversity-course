@@ -53,7 +53,9 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 #### 8. **September 12 Assembly Mechanisms - The role of Stochasticity and History
 * Reading: [Drought mediates the importance of stochastic community assembly](https://doi.org/10.1073/pnas.0704350104)
 * [Questions]({{ site.baseurl }}/questions/stochastic)
-* Class Activity: Sharing Interests for Group Projects
+* Class Activity: Exploring turnover metrics for taxonomic, functional, and beta diversity. BRING COMPUTERS.
+    * Files: all files from previous weeks
+    * R Packages: same as previous weeks
 
 #### 9. September 17 Patterns in Taxonomic, Phylogenetic, and Functional Diversity
 * Reading: [Phylogenetic Overdispersion in Floridian Oak Communities](https://www.cbs.umn.edu/sites/cbs.umn.edu/files/public/downloads/2004%20Cavender%20et%20al%20AmNat.pdf)
