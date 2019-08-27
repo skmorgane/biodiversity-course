@@ -50,7 +50,7 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 * Reading: [Rethinking Community Assembly through the Lens of Coexistence Theory](https://doi.org/10.1146/annurev-ecolsys-110411-160411)
 * [Questions]({{ site.baseurl }}/questions/coexistence) 
 
-#### 8. **September 12 Assembly Mechanisms - The role of Stochasticity and History
+#### 8. September 12 Assembly Mechanisms - The role of Stochasticity and History
 * Reading: [Species divergence and trait convergence in experimental plant community assembly]( https://doi.org/10.1111/j.1461-0248.2005.00829.x)
 * [Questions]
 * Class Activity: Exploring turnover metrics for taxonomic, functional, and beta diversity. BRING COMPUTERS.
