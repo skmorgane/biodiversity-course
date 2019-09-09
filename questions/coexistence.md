@@ -2,7 +2,7 @@
 layout: nil
 title: Coexistence Theory
 ---
-Instructions: The main parts of this paper that I want you to focus on are Section 1 (INTRODUCTION), Section 2 (CONTEMPORARY COEXISTENCE THEORY AND COMMUNITY ASSEMBLY), and the subsection of Section 3 titled "Trait-Phylogeny-Environment Relationships" (Sections 3.2, 3.2.1, 3.2.2, 3.2.3).
+Instructions: The main parts of this paper that I want you to focus on are Section 1 (INTRODUCTION), Section 2 (CONTEMPORARY COEXISTENCE THEORY AND COMMUNITY ASSEMBLY), and the subsection of Section 3 titled "Trait-Phylogeny-Environment Relationships" (Sections 3.2, 3.2.1, 3.2.2, 3.2.3, feel free to skip section 3.1).
 
 1. What is community assembly and what does it have to do with biodiversity?
 2. Let's spend a little time thinking about Figure 1. This is an important figure that explains a lot about how we currently think about communities. Think about the different arrows and labels on this figure. What do they mean and how are they determining what is in a local community?
