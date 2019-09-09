@@ -3,7 +3,7 @@ layout: nil
 title: Stochastic
 ---
 
-We're going to use this paper as a starting point for thinking about different types of processes from those we discussed on Tuesday. Niches and competition/predation/mutualism are processes that we talk a lot about in ecology. The processes today are only being seriously discussed in the ecology since 2000 (and rarely discussed at the undergraduate level). If you are unlcear on the terms or ideas, there is no shame in that - so are a lot of "card-carrying" ecologists. Ask questions!
+We're going to use this paper as a starting point for thinking about different types of processes from those we discussed on Tuesday. Niches and competition/predation/mutualism are processes that we talk a lot about in ecology. The processes today are only being broadly discussed in ecology since 2000 (and rarely discussed at the undergraduate level). If you are unclear on the terms or ideas, there is no shame in that - so are a lot of "card-carrying" ecologists. Ask questions!
 
 * What do we mean by the word 'deterministic'?
 
@@ -19,5 +19,5 @@ We're going to use this paper as a starting point for thinking about different t
 
 * What happened with the simulated drought?
 
-* Let's put last class's readings on environmental and biotic filters together with this week's readings. What is the paper by Chase saying to you about environmental and biotic filters?
+* Let's put last class's readings on environmental and biotic filters together with this week's readings. What is the paper by Chase saying to you about environmental and biotic filters and what can alter how they operate?
 
