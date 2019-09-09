@@ -57,7 +57,7 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 * [Questions]({{ site.baseurl }}/questions/coexistence) 
 
 #### 9. September 19 Assembly Mechanisms - The role of Stochasticity and History
-* Reading: [Species divergence and trait convergence in experimental plant community assembly]( https://doi.org/10.1111/j.1461-0248.2005.00829.x)
+* Reading: [Drought mediates the importance of stochastic community assembly](https://doi.org/10.1073/pnas.0704350104 )
 * [Questions]
 
 #### 10. September 24 Patterns in Taxonomic, Phylogenetic, and Functional Diversity
