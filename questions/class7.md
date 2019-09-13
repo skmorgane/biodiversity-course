@@ -5,10 +5,10 @@ title: Class 7 Questions
 
 #### Questions for Cavender-Bares et al
 * Last week we spent a lot of time talking about biotic and abiotic (or environmental) filters. Cavender-Bares et al make an argument that we should expect biodiversity patterns from these filters. 
-A) What patterns might an abiotic filter create in a community? Why?
-B) What patterns might a biotic filter create in a community? Why? (Link this with our discussions about coexistence theory).
-C) How does trait evolution impact the pattern of phylogenetic diversity you may see?
-* Focus on the first paragraph of the discussion and figure 6. What patterns of biodiversity are they finding in FLorida oaks? Why?
+    * What patterns might an abiotic filter create in a community? Why?
+    * What patterns might a biotic filter create in a community? Why? (Link this with our discussions about coexistence theory).
+    * How does trait evolution impact the pattern of phylogenetic diversity you may see?
+* Focus on the first paragraph of the discussion and figure 6. What patterns of biodiversity are they finding in Florida oaks? Why?
 * After reading the paper, what are your thoughts about abiotic and biotic filters in shaping local biodiversity?
 
 #### Questions for Devictor et al Spatial mismatch and congruence between taxonomic, phylogenetic and functional diversity
