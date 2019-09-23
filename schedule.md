@@ -84,7 +84,7 @@ Everyone needs to read: [Assemblage Time Series Reveal Biodiversity Change but N
 #### 12. October 3 Biodiversity Ecosystem Function 
 CHOOSE 1 PAPER TO READ FOR CLASS. 
 * Readings: [Energy Flux: The link between multitrophic biodiversity and ecosystem function](https://doi.org/10.1016/j.tree.2017.12.007)
-* Readings: (Plant spectral diversity integrates functional and phylogenetic components of biodiversity and predicts ecosystem function)[https://www.nature.com/articles/s41559-018-0551-1]
+* Readings: [Plant spectral diversity integrates functional and phylogenetic components of biodiversity and predicts ecosystem function](https://www.nature.com/articles/s41559-018-0551-1)
 * Readings: [Plant Species Richness and Ecosystem Multifunctionality in Global Drylands](https://doi.org/10.1126/science.1215442)
 * Reading: [Changes in temperature alter the relationship between biodiversity and ecosystem functioning](https://doi.org/10.1073/pnas.1805518115)
 * [Questions]({{ site.baseurl }}/questions/BEF) 
