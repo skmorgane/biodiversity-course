@@ -5,9 +5,11 @@ Let’s review some of the concepts we’ve been talking about so far this semes
 
 * How have we been thinking about the role of abundance in quantifying biodiversity?
 
-* In the Tokeshi chapter - what is the biodiversity pattern that he is discussing?
+* In the McGill et al paper - what is the biodiversity pattern that they are discussing?
 
 * What do abundance distributions reflect? (i.e. What do we think they tell us?)
+
+* What are the four general approaches to modeling the species abundance distribution that exist?
 
 There are two ways that abundance distributions are used in the literature. 1) to test specific theories of community assembly and 2) as a tool for gaining better understanding of ecosystems that are hard to study directly. the ter Stege et al. Paper is an example of the latter use of species abundance distributions.
 
