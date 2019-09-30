@@ -90,8 +90,9 @@ CHOOSE 1 PAPER TO READ FOR CLASS.
 * [Questions]({{ site.baseurl }}/questions/BEF) 
 * Group Project: Start talking with each other about big challenges or important unanswered question that you all are interested in.
 
-#### 15. **October 8 Patterns of Abundance
- * Readings: EXCERPTS from Niche Apportionment and Species Coexistence Chapter will be emailed to group.
+#### 15. October 8 Patterns of Abundance
+ * Readings: [Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework](https://doi.org/10.1111/j.1461-0248.2007.01094.x)
+ 	* Only the following sections are assigned: What is an SAD?, Why are SADs important?, Classical Theoretical Developments, Proliferation of models)
  * Readings: [Hyperdominance in the Amazonian Tree Flora](http://science.sciencemag.org/content/342/6156/1243092)
  * [Questions]({{ site.baseurl }}/questions/abundance) 
  
