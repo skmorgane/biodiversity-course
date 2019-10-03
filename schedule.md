@@ -108,8 +108,7 @@ CHOOSE 1 PAPER TO READ FOR CLASS.
 * [Questions]({{ site.baseurl }}/questions/heterogeneity) 
 
 #### 18. October 17 Habitat Fragmentation patterns
-* Reading: [How fragmentation and corridors affect wind dynamics and seed dispersal in open habitats](https://doi.org/10.1073/pnas.1308968111)
-* Reading: [Habitat fragmentation and genetic variability of tetrapod populations](https://doi.org/10.1111/acv.12165)
+* Reading: [Ongoing accumulation of plant diversity through habitat connectivity in a long-term experiment](https://doi.org/10.1126/science.aax8992)
 * [Questions]({{ site.baseurl }}/questions/Fragmentation)
 * Class Activity: Group Projects
 
