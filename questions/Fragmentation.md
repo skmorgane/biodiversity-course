@@ -3,22 +3,11 @@ layout: nil
 title: fragmentation
 ---
 
-Damschen et al. 2014
+Damschen et al. 2019
 
--    What are the different types of patches being used in this study? Specifically, what three qualities of the patches differ? (note: I’m not talking about the three types of wind dynamics being affected but the qualities of the patches themselves)
--    Think back to our discussions of space in metacommunities. Is this study spatially implicit or explicit?
--    Think about the ways in which we’ve talked and thought about abiotic features of the landscape and their effects on biodiversity. How does that differ from what the authors demonstrate in this paper?
--    Do the corridors they use match up with how we usually think about corridors and connectivity? 
+1) Why would change in connectivity impact biodiversity? (Link your answer with the metacommunity discussion from last week).
+2) How do connectivity and corridors apply to the metacommunity concept? Do they modify arrows, change patches, or are they something not easily explained via the simple metacommunity models?
+3) What are extinction debts and colonization credits? Why do they occur?
+4) What was in the impact of corridors in this system?
+5) At the end they talk vaguely about impacts of corridors on community assembly and biodiversity, though they don't really explore what those are. Given your knowledge about the processes structuring biodiversity, what are some of the differences you might expect between a set of fragments connected by corridors vs a set of identical isolated fragments? Think not only about taxonomic diversity, but also phylogenetic and functional diversity. 
 
-
-Rivera-Ortiz et al. 2014
-
--    This meta-analysis looks at measures of genetic diversity, one type of biodiversity we haven’t spent a lot of time talking about. Come armed with any vocab words you weren’t clear on.
--    What level of genetic diversity are we talking about in this paper? In what other ways can we think about genetic diversity in the context of biodiversity?
--    What 3 things do they state will impact the amount of genetic diversity loss in populations? How would changes in these initial states mediate or exacerbate genetic diversity loss?
--    What is the general response of genetic diversity to fragmentation?
--    How did fragmentation level and the various biological species traits affect genetic diversity in tetrapods? Did any of their findings surprise you?
-
-
-Take-away:
-These two papers are looking at similar over-all topics in very different ways. Which patterns and processes connect them? Which are opposing (or at least not neatly aligned)?
