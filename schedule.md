@@ -115,7 +115,6 @@ CHOOSE 1 PAPER TO READ FOR CLASS.
 #### 19. ** October 22 Local-Regional Diversity Relationships
 * Reading: [The Combined Influence of the Local Environment and Regional Enrichment on Bird Species Richness](https://doi.org/10.1086/649578).
 * Reading: [Opposing mechanisms drive richness patterns of core and transient bird species](https://www.jstor.org/stable/10.1086/669903)
-* [Questions]({{ site.baseurl }}/questions/core-transient)
 * [Questions]({{ site.baseurl }}/questions/localregional)
 
 #### 20. October 24 Group Project Day
