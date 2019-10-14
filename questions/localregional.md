@@ -2,7 +2,7 @@
 layout: nil
 title: Local-Regional Diversity
 ---
-Questions for Hulbert and White (feel free to skip "Spatial Scale, Autocorrelation, and Pseudoreplication" section in discussion)
+Questions for Hurlbert and White (feel free to skip "Spatial Scale, Autocorrelation, and Pseudoreplication" section in discussion)
 
 1) The paper focuses on the debate about whether local richness is better explained by local processes or regional processes. 
 a) What are the local processes that are hypothesized to limit local richness?
