@@ -36,12 +36,12 @@ To work collaboratively on identifying a gap in our knowledge about biodiversity
 ## Deadlines
 
 * 10/5 Finalize Groups
+* 10/21 Talk about technology in science in class
 * 11/2 Select topic: DEADLINE
     * Each group should email me to let me know what your topic is. Email should contain: 3-4 sentences that include a statement about the issue in biodiversity that you think needs to be studied, why you think its important to study, and the gap in knowledge that you think needs to be filled.
-* 11/2 Talk about technology in science in class
-* 11/2 Start thinking about how you will address your question.
-* 11/16 Do you have a plan of how you would fill the gap in knowledge? YAY! You're ready to put your talk together! No? You have another class period to work on this.
-* 11/29 Group Presentations Begin: DEADLINE
+* 11/2 Start thinking about how you will address your question (How will you fill the gap in knowledge you identified)
+* 11/8 Do you have a plan of how you would fill the gap in knowledge? YAY! You're ready to put your talk together! No? You have another class period to work on this.
+* 11/21 Group Presentations Begin: DEADLINE
     * Presentation Length: 15 minute presentation plus 5 minutes for questions
     * Can you give a short overview of your topic area - what is it and why is is important to study
       - E.g. If you're interested in trait clustering in communities, then you should be able to explain why the field has been interested in understanding patterns of trait clustering and what's our current understanding of trait clustering in communities (this last part should/will set you up for the next part).
