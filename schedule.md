@@ -123,15 +123,13 @@ CHOOSE 1 PAPER TO READ FOR CLASS.
 * Group Projects
 
 #### 21. October 29 Species-Area Relationships
-* Reading: species-area relationship frankenpaper (emailed to group)
-* Reading: [Analysis of an evolutionary species–area relationship](https://www.nature.com/articles/35048558)
+* Reading: [Species–area relationships are modulated by trophic rank, habitat affinity, and dispersal ability](https://doi.org/10.1890/14-0082.1)
 * [Questions]({{ site.baseurl }}/questions/SAR) 
-* Class Activity: Group Projects 
 
 ### Weeks 11-13 Global Biodiversity Patterns and Processes
 
 #### 22. October 31: Biogeographic Processes: Biogeographic Regions
-* * Readings: [An update on Wallace's zoogeographic regions of the World](https://doi.org/10.1126/science.1228282)
+* Readings: [An update on Wallace's zoogeographic regions of the World](https://doi.org/10.1126/science.1228282)
 * [Questions]({{ site.baseurl }}/questions/Wallace)
 
 #### 23. November 5: Biogeographic Processes: Evolution
@@ -144,7 +142,7 @@ Readings: [Biogeographic regions and events of isolation and diversification of 
 * Readings: [The Influence of Late Quaternary Climate-Change Velocity on Species Endemism](https://doi.org/10.1126/science.1210173)
 * [Questions]({{ site.baseurl }}/questions/Hotspots)
 
-#### 25. November 12 Latitidinal Gradient: 
+#### 25. * * November 12 Latitidinal Gradient: 
 Read the paper you were assigned in class - read the abstracts of the other 3. For this assignment, be able to explain the processes generating the latudinal gradient of diversity that your assigned paper examined. You will break into small groups first to make sure everyone understands their mechanisms, and then each group will explain their mechanisms to the rest of the group.
 * Readings: [Faster Speciation and Reduced Extinction in the Tropics Contribute to the Mammalian Latitudinal Diversity Gradient](https://doi.org/10.1371/journal.pbio.1001775)
 * Readings: [Plant diversity increases with the strength of negative density dependence at the global scale](https://doi.org/10.1126/science.aam5678)
@@ -161,10 +159,8 @@ Read the paper you were assigned in class - read the abstracts of the other 3. F
 
 #### 28. November 21 Group Presentations!
 
-#### 29. **November 26 Extinctions
-* Reading: [Pleistocene megafaunal collapse, novel plant communities, and enhanced fire regimes in North America](http://science.sciencemag.org/content/326/5956/1100)
-* Reading--you only need to read the abstract! [Extinctions and the loss of ecological function in island bird communities](https://doi.org/10.1111/geb.12147)
-* [Questions]({{ site.baseurl }}/questions/extinctions)
+#### 29. November 26 Global Patterns of Genetic Diversity
+* Reading: [An Anthropocene map of genetic diversity](https://doi.org/10.1126/science.aaf4381)
 
 ### Weeks 15: Wrap-Up
 
