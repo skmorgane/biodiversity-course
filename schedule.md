@@ -135,40 +135,35 @@ CHOOSE 1 PAPER TO READ FOR CLASS.
 #### 23. November 5: Biogeographic Processes: Evolution
 Readings: [Biogeographic regions and events of isolation and diversification of the endemic biota of the tropical Andes](https://doi.org/10.1073/pnas.1803908115)
 * [Questions]({{ site.baseurl }}/questions/evolution)
-* Group Project Day
       
-#### 24. November 7 Hotspots and Endemism
-* Readings: [Global hotspots of species richness are not congruent with endemism or threat](https://doi.org/10.1038/nature03850)
-* Readings: [The Influence of Late Quaternary Climate-Change Velocity on Species Endemism](https://doi.org/10.1126/science.1210173)
-* [Questions]({{ site.baseurl }}/questions/Hotspots)
+#### 26. November 7 Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
+* Reading: [Understanding global patterns of mammalian functional and phylogenetic diversity](https://doi.org/10.1098/rstb.2011.0024)
+* [Questions]({{ site.baseurl }}/questions/GlobalDiversity)
+* Group Project
 
 #### 25. * * November 12 Latitidinal Gradient: 
 Read the paper you were assigned in class - read the abstracts of the other 3. For this assignment, be able to explain the processes generating the latudinal gradient of diversity that your assigned paper examined. You will break into small groups first to make sure everyone understands their mechanisms, and then each group will explain their mechanisms to the rest of the group.
 * Readings: [Faster Speciation and Reduced Extinction in the Tropics Contribute to the Mammalian Latitudinal Diversity Gradient](https://doi.org/10.1371/journal.pbio.1001775)
 * Readings: [Plant diversity increases with the strength of negative density dependence at the global scale](https://doi.org/10.1126/science.aam5678)
-* Readings: [Global Biodiversity, Biochemical Kinetics, and the Energetic Equivalence Rule](https://doi.org/10.1126/science.1072380) 
-* Readings: [A latitudinal gradient in planktonic marine bacteria](https://doi.org/10.1073/pnas.0803070105)
-* Group Projects
 
-#### 26. November 14 Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
-* Reading: [Understanding global patterns of mammalian functional and phylogenetic diversity](https://doi.org/10.1098/rstb.2011.0024)
-* [Questions]({{ site.baseurl }}/questions/GlobalDiversity)
+
+#### 26. November 14 Global Patterns of Genetic Diversity
+* Reading: [An Anthropocene map of genetic diversity](https://doi.org/10.1126/science.aaf4381)
+* Group Projects
 
 #### 27. November 19
 * No readings: Group Projects
 
 #### 28. November 21 Group Presentations!
 
-#### 29. November 26 Global Patterns of Genetic Diversity
-* Reading: [An Anthropocene map of genetic diversity](https://doi.org/10.1126/science.aaf4381)
+#### 29. November 26 Conservation Priorities and Biodiversity
+* Reading: 
 
 ### Weeks 15: Wrap-Up
 
 #### 30. December 3: What have we learned? Wrapping up the Semester
 * Readings: Look over the questions and topics on the schedule and reflect on what we have covered over the past semester
-    * What themes or processes came up multiple times this semester?
-    * What role does spatial scale play in our understanding of biodiversity?
-    * When you entered the class, what dimension of biodiversity did you focus on? How did you assume it was related to other aspects of biodiversity? Did the class strengthen or change they way you think about that?
+* Revisit The HillRisLambers model for community assembly. We'll use it as our basis for creating our own model for biodiversity and revisiting our view of biodiversity.
 			
 
 
