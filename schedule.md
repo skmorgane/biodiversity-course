@@ -141,11 +141,11 @@ Readings: [Biogeographic regions and events of isolation and diversification of 
 * [Questions]({{ site.baseurl }}/questions/GlobalDiversity)
 * Group Project
 
-#### 25. * * November 12 Latitidinal Gradient: 
+#### 25. November 12 Latitidinal Gradient: 
 Read the paper you were assigned in class - read the abstracts of the other 3. For this assignment, be able to explain the processes generating the latudinal gradient of diversity that your assigned paper examined. You will break into small groups first to make sure everyone understands their mechanisms, and then each group will explain their mechanisms to the rest of the group.
 * Readings: [Faster Speciation and Reduced Extinction in the Tropics Contribute to the Mammalian Latitudinal Diversity Gradient](https://doi.org/10.1371/journal.pbio.1001775)
 * Readings: [Plant diversity increases with the strength of negative density dependence at the global scale](https://doi.org/10.1126/science.aam5678)
-
+* Reading: [Productivity and history as predictors of the latitudinal diversity gradient of terrestrial birds](https://doi.org/10.1890/0012-9658(2003)084[1608:PAHAPO]2.0.CO;2)
 
 #### 26. November 14 Global Patterns of Genetic Diversity
 * Reading: [An Anthropocene map of genetic diversity](https://doi.org/10.1126/science.aaf4381)
@@ -157,7 +157,7 @@ Read the paper you were assigned in class - read the abstracts of the other 3. F
 #### 28. November 21 Group Presentations!
 
 #### 29. November 26 Conservation Priorities and Biodiversity
-* Reading: 
+* Reading: REading
 
 ### Weeks 15: Wrap-Up
 
