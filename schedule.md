@@ -151,6 +151,7 @@ Read the paper you were assigned in class - read the abstracts of the other 3. F
 
 #### 26. November 14 Global Patterns of Genetic Diversity
 * Reading: [An Anthropocene map of genetic diversity](https://doi.org/10.1126/science.aaf4381)
+* [Questions]({{ site.baseurl }}/questions/geneticdiversity)
 * Group Projects
 
 #### 27. November 19
