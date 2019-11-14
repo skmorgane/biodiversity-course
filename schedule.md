@@ -159,10 +159,10 @@ Read the paper you were assigned in class - read the abstracts of the other 3. F
 
 #### 28. November 21 Group Presentations!
 
-#### 29. November 26 Conservation Priorities and Biodiversity
-* Reading: REading
+#### 29. Thanksgiving Week No class
+* Optional Reading: [Global priorities for conservation across multiple dimensions of mammalian diversity](https://doi.org/10.1073/pnas.1706461114) 
 
-### Weeks 15: Wrap-Up
+### Week 15: Wrap-Up
 
 #### 30. December 3: What have we learned? Wrapping up the Semester
 * Readings: Look over the questions and topics on the schedule and reflect on what we have covered over the past semester
