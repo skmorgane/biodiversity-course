@@ -161,6 +161,7 @@ Read the paper you were assigned in class - read the abstracts of the other 3. F
 
 #### 29. Thanksgiving Week No class
 * Optional Reading: [Global priorities for conservation across multiple dimensions of mammalian diversity](https://doi.org/10.1073/pnas.1706461114) 
+* Optional Reading: [Large conservation gains possible for global biodiversity facets](https://doi.org/10.1038/nature22368)
 
 ### Week 15: Wrap-Up
 
