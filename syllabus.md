@@ -34,8 +34,10 @@ of ecology. By the end of the semester, students will:
 
 #### **Course Grading**
 
-60% of grade will be based on a class project and presentation (330 points), 
-40% will be based on class participation in discussion* (220 points, 10 points/class day).
+50% of grade will be based on a class project and presentation
+30% will be based on on-line activities 
+20% will be based on class participation in discussion*
+
 
 *A written alternative to class participation can be made for those with anxiety about speaking in front of groups - just contact me to let me know you would prefer this option*
 
