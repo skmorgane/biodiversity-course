@@ -6,17 +6,17 @@ title: Syllabus
 ## WIS 4934/6934 Biodiversity: Ecological Patterns and Processes
 
   |**Instructor**         |Dr. Morgan Ernest
-  |**Office Location**    |Building 150   (Knock loudly on external door)  
-  |**Phone**              |352-294-2082            
+  |**Office Location**    |online for forseeable future 
+  |**Phone**              |            
   |**Email (preferred)**  |<skmorgane@ufl.edu>  
                                                
 <br>
 												 
 #### **Times and Locations**
 
-Tuesday, Period 7 (1:55-2:45), LIT 0233
+Tuesday, Period 7 (1:55-2:45), course zoom link available via Canvas
 
-Thursday, Period 7-8 (1:55-3:50), MAT 0004
+Thursday, Period 7-8 (1:55-3:50), course zoom link available via Canvas
 
 #### **Course Objectives**
 
@@ -39,20 +39,21 @@ of ecology. By the end of the semester, students will:
 20% will be based on class participation in discussion*
 
 
-*A written alternative to class participation can be made for those with anxiety about speaking in front of groups - just contact me to let me know you would prefer this option*
+*A written alternative to class participation is available for who have need of the flexibility or the different communication style to express themselves effectively - just contact me to let me know you would prefer this option*
 
 #### **Course Policies**
 
-Attendance Policy: Life is complicated and sometimes unpredictable. Grading (see below) is structured so that students may have up to 2 excused absences without impacts on grades. Excused absences must be consistent with university policies in the Graduate Catalog (http://gradcatalog.ufl.edu/content.php?catoid=10&navoid=2020#attendance) and require appropriate documentation.  Additional information can be found here: https://catalog.ufl.edu/ugrad/current/regulations/info/attendance.aspx . 
+Attendance Policy: Life is complicated and sometimes unpredictable. Especially in 2020. Grading (see below) is structured so that students may have up to 2 excused absences without impacts on grades. Excused absences must be consistent with university policies in the Graduate Catalog (http://gradcatalog.ufl.edu/content.php?catoid=10&navoid=2020#attendance) and require appropriate documentation.  Additional information can be found here: https://catalog.ufl.edu/ugrad/current/regulations/info/attendance.aspx . 
 Additional missed discussions can be made up by providing written answers to the questions assigned for the readings for the day(s) missed. 
 
 Class Conduct: Because this course is discussion-based, an effective learning environment is critically dependent on all students feeling safe and supported in the classroom so that everyone feels comfortable engaging in discussion. I will do my best to foster an open and positive environment for all students but to achieve this I need students to engage in discussions in a constructive and positive manner and listen to other points of view with an open-mind. It is okay to disagree with me or your classmates, and discussions on differing points of view are enthusiastically encouraged, but must be done with empathy for the other people in the classroom.  Sometimes we make mistakes during discussion because we did not think sufficiently about our word choice and that is okay. When this happens, students are expected to apologize sincerely to the affected person.
 
 #### **Text and Required Supplies**
 * There is not a required or recommended text book for this class
-* Readings for this class come from journal articles available electronically through UF journal subscriptions. Links to papers are made available through the course website (skmorgane.github.io/biodiversity-course).
+* Readings for this class come from journal articles available electronically through UF journal subscriptions. Links to papers are made available through the course website (skmorgane.github.io/biodiversity-course). 
+* University VPN: Because many of us are off campus, you will need the university VPN to access papers. [Instructions for how to download and install the VPN](https://it.ufl.edu/ict/documentation/network-infrastructure/vpn/anyconnect-installation--configuration-guide/)
 * Laptops: On specific days (noted on the course schedule) laptops or tablets will be required to participate in literature search and basic computational activities. If you do not have a laptop or tablet, please let the instructor know and access to one can be arranged.
-* Software: We will be using R (a freely available statistical programming environment) to learn about quantitative approaches to studying biodiversity patterns. R is required. It is also recommending that student load RStudio – a freely available integrated programming environment – which makes working with R more user friendly.
+* Software: We will be using R (a freely available statistical programming environment) to learn about quantitative approaches to studying biodiversity patterns. R is required. It is also recommending that students install RStudio – a freely available integrated programming environment – which makes working with R more user friendly. A good resource for walking you through how to download both of these can be found [here](http://datacarpentry.org/R-ecology-lesson/)
 
 ### **UF Policies**
 
