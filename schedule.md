@@ -15,7 +15,6 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 * Reading: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
     * [Questions]({{ site.baseurl }}/questions/Biodiversitydata)
 * Class Activity: Identifying Gaps in Knowledge
-    * [In progress]
 
 #### 3. September 8 Taxonomic Alpha, Beta, Gamma Diversity - Concepts
 * Reading: [Disentangling the drivers of beta diversity along latitudinal and elevational gradients](https://doi.org/10.1126/science.1208584 )
@@ -43,37 +42,29 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
     * [rodent_wgts.csv]({{ site.baseurl }}/exercises/PD_FD/rodent_wgts.csv)
     * R packages to install: picante, ape 
 
-#### 7. September 22 Taxonomic, Functional, and Phylogenetic Turnover - Turnover
-* Class Activity: Exploring turnover metrics for taxonomic, functional, and beta diversity. BRING COMPUTERS.
-    * Files: all files from previous weeks
-    * R Packages: same as previous weeks
+#### 7. September 22 Ask Me Anything. Free form Discussion to Answer Questions
     
+#### 8. September 24 Identifying Gaps in Knowledge 
+
 ### Weeks 4-7: Local-scale Biodiversity Patterns & Processes
-#### 8. September 24 Assembly Mechanisms - Niches and Biotic and Environmental Filters
+
+#### 8. September 29 Local Processes- Niches and Biotic and Environmental Filters
 * Reading: [Rethinking Community Assembly through the Lens of Coexistence Theory](https://doi.org/10.1146/annurev-ecolsys-110411-160411)
-* [Questions]({{ site.baseurl }}/questions/coexistence) 
+    * [Questions]({{ site.baseurl }}/questions/coexistence) 
 
-#### 9. September 29 Assembly Mechanisms - The role of Stochasticity and History
+#### 9. October 1 Local Processes - The role of Stochasticity and History
 * Reading: [Drought mediates the importance of stochastic community assembly](https://doi.org/10.1073/pnas.0704350104 )
-* [Questions]({{ site.baseurl }}/questions/stochastic) 
+    * [Questions]({{ site.baseurl }}/questions/stochastic) 
 
-#### 10. October 1 Patterns in Taxonomic, Phylogenetic, and Functional Diversity
+
+#### 10. October 6 Patterns in Taxonomic, Phylogenetic, and Functional Diversity
 * Reading: [Phylogenetic Overdispersion in Floridian Oak Communities](https://www.cbs.umn.edu/sites/cbs.umn.edu/files/public/downloads/2004%20Cavender%20et%20al%20AmNat.pdf)
 * Reading: [Spatial mismatch and congruence between taxonomic,phylogenetic and functional diversity](https://doi.org/10.1111/j.1461-0248.2010.01493.x)
 * [Questions]({{ site.baseurl }}/questions/class7) 
 
-#### 11. October 6 Species Networks
+#### 11. October 8 Species Networks
 * Readings: [Stability of Ecological Communities and the Architecture of Mutualistic and Trophic Networks](https://doi.org/10.1126/science.1188321)
 * [Questions]({{ site.baseurl }}/questions/networks) 
-
-#### 12. October 8 October 13 Biodiversity Ecosystem Function 
-CHOOSE 1 PAPER TO READ FOR CLASS. 
-* Readings: [Energy Flux: The link between multitrophic biodiversity and ecosystem function](https://doi.org/10.1016/j.tree.2017.12.007)
-* Readings: [Plant spectral diversity integrates functional and phylogenetic components of biodiversity and predicts ecosystem function](https://www.nature.com/articles/s41559-018-0551-1)
-* Readings: [Plant Species Richness and Ecosystem Multifunctionality in Global Drylands](https://doi.org/10.1126/science.1215442)
-* Reading: [Changes in temperature alter the relationship between biodiversity and ecosystem functioning](https://doi.org/10.1073/pnas.1805518115)
-* [Questions]({{ site.baseurl }}/questions/BEF) 
-* Group Project: Start talking with each other about big challenges or important unanswered question that you all are interested in.
 
 #### 14. October 13 Patterns of Abundance
  * Readings: [Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework](https://doi.org/10.1111/j.1461-0248.2007.01094.x)
