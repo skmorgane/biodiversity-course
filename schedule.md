@@ -2,8 +2,8 @@
 layout: page
 title: Schedule
 ---
-(Updates for Fall 2020 in Progress - as a result the site will be very dynamic for a few days)
-Thursdays are often a split between class activity and discussion, thus there are often two topics on those days. Tuesdays are always just discussion. 
+(Updates for Fall 2020 in Progress - as a result the site will be very dynamic for a while)
+Thursdays are often a split between class activity and discussion, thus there are often two topics on those days. Tuesdays are (nearly) always just discussion. 
 
 IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalized for that class period. If questions for readings are not yet posted, they will be at least 1 week before reading is discussed.
 
@@ -14,7 +14,7 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 #### 2. September 3 Biodiversity Change: Data, Definitions, and Gaps in Knowledge
 * Reading: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
     * [Questions]({{ site.baseurl }}/questions/Biodiversitydata)
-* Class Activity: Identifying Gaps in Knowledge
+* Class Activity: Group Project Discussion
 
 #### 3. September 8 Taxonomic Alpha, Beta, Gamma Diversity - Concepts
 * Reading: [Disentangling the drivers of beta diversity along latitudinal and elevational gradients](https://doi.org/10.1126/science.1208584 )
@@ -55,7 +55,7 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 #### 9. October 1 Local Processes - The role of Stochasticity and History
 * Reading: [Drought mediates the importance of stochastic community assembly](https://doi.org/10.1073/pnas.0704350104 )
     * [Questions]({{ site.baseurl }}/questions/stochastic) 
-
+* Class Activity: Group Project (Finalizing Groups, Starting Topic Identification)
 
 #### 10. October 6 Patterns in Taxonomic, Phylogenetic, and Functional Diversity
 * Reading: [Phylogenetic Overdispersion in Floridian Oak Communities](https://www.cbs.umn.edu/sites/cbs.umn.edu/files/public/downloads/2004%20Cavender%20et%20al%20AmNat.pdf)
@@ -64,7 +64,8 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 
 #### 11. October 8 Species Networks
 * Readings: [Stability of Ecological Communities and the Architecture of Mutualistic and Trophic Networks](https://doi.org/10.1126/science.1188321)
-* [Questions]({{ site.baseurl }}/questions/networks) 
+    * [Questions]({{ site.baseurl }}/questions/networks) 
+* Class Activity: Group Project Time
 
 #### 14. October 13 Patterns of Abundance
  * Readings: [Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework](https://doi.org/10.1111/j.1461-0248.2007.01094.x)
@@ -76,7 +77,7 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 
 #### 15. October 15 Regional Assembly - Dispersal
 * Reading: [The metacommunity concept: a framework for multi-scale community ecology](https://doi.org/10.1111/j.1461-0248.2004.00608.x)
-* [Questions]({{ site.baseurl }}/questions/metacommunity)   
+    * [Questions]({{ site.baseurl }}/questions/metacommunity)   
 * Class Activity: Group Projects
  
 #### 16. October 20 Regional Assembly - Environmental Heterogeneity
@@ -88,7 +89,7 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 * [Questions]({{ site.baseurl }}/questions/Fragmentation)
 * Class Activity: Group Projects
 
-#### 18. October 27 Local-Regional Diversity Relationships
+#### 18. October 27 Core-Transient Species
 * Reading: [The Combined Influence of the Local Environment and Regional Enrichment on Bird Species Richness](https://doi.org/10.1086/649578).
 * Reading: [Opposing mechanisms drive richness patterns of core and transient bird species](https://www.jstor.org/stable/10.1086/669903)
 * [Questions]({{ site.baseurl }}/questions/localregional)
@@ -96,11 +97,11 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 #### 19. October 29 Group Project Day
 * No readings
 * Class Activity: Technology in Science discussion
-* Group Projects
+* Group Projects Time
 
-#### 20. November 3 Species-Area Relationships
-* Reading: [Species–area relationships are modulated by trophic rank, habitat affinity, and dispersal ability](https://doi.org/10.1890/14-0082.1)
-* [Questions]({{ site.baseurl }}/questions/SAR) 
+#### 20. November 3 Biodiversity Turnover Across Scales
+* Reading: 
+* [Questions]
 
 ### Weeks 11-13 Global Biodiversity Patterns and Processes
 
