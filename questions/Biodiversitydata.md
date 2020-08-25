@@ -1,5 +1,5 @@
 
-### Questions for "Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss"
+Questions for "Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss"
 
 Biodiversity research requires biodiversity data. The goal of reading this paper is to 
 inspire you to think about how ecology has been collecting data, how it influences what questions we can ask, 
