@@ -37,9 +37,8 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
     * Read the whole paper and make sure to try to walk through the questions associated with it and we'll go through this is detail in class.
 * [Questions]({{ site.baseurl }}/questions/PD_FD)
     
-#### 6 September 17 Activity: Exploring phylogenetic and functional diversity. Bring computers.
-    * Files:
-        * Same rodent files as last week
+#### 6 September 17 Activity: Exploring phylogenetic and functional diversity. Bring computers
+   * Same rodent files as last week plus:
 	* [Mammal_supertree.tre]({{ site.baseurl }}/exercises/PD_FD/Mammal_supertree_2007.tre)
 	* [rodent_wgts.csv]({{ site.baseurl }}/exercises/PD_FD/rodent_wgts.csv)
 	* R packages to install: picante, ape 
