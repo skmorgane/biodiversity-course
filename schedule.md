@@ -13,7 +13,7 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 
 #### 2. September 3 Biodiversity Change: Data, Definitions, and Gaps in Knowledge
 * Reading: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
-    * Questions:
+    * [Questions]({{ site.baseurl }}/questions/Biodiversitydata)
 * Class Activity: Identifying Gaps in Knowledge
     * [In progress]
 
