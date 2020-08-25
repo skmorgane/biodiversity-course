@@ -38,10 +38,10 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 * [Questions]({{ site.baseurl }}/questions/PD_FD)
     
 #### 6 September 17 Activity: Exploring phylogenetic and functional diversity. Bring computers
-   * Same rodent files as last week plus:
-	* [Mammal_supertree.tre]({{ site.baseurl }}/exercises/PD_FD/Mammal_supertree_2007.tre)
-	* [rodent_wgts.csv]({{ site.baseurl }}/exercises/PD_FD/rodent_wgts.csv)
-	* R packages to install: picante, ape 
+* Same rodent files as last week plus:
+    * [Mammal_supertree.tre]({{ site.baseurl }}/exercises/PD_FD/Mammal_supertree_2007.tre)
+    * [rodent_wgts.csv]({{ site.baseurl }}/exercises/PD_FD/rodent_wgts.csv)
+    * R packages to install: picante, ape 
 
 #### 7. September 22 Taxonomic, Functional, and Phylogenetic Turnover - Turnover
 * Class Activity: Exploring turnover metrics for taxonomic, functional, and beta diversity. BRING COMPUTERS.
