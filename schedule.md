@@ -57,9 +57,8 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
     * [Questions]({{ site.baseurl }}/questions/stochastic) 
 * Class Activity: Group Project (Finalizing Groups, Starting Topic Identification)
 
-#### 10. October 6 Patterns in Taxonomic, Phylogenetic, and Functional Diversity
-* Reading: [Phylogenetic Overdispersion in Floridian Oak Communities](https://www.cbs.umn.edu/sites/cbs.umn.edu/files/public/downloads/2004%20Cavender%20et%20al%20AmNat.pdf)
-* Reading: [Spatial mismatch and congruence between taxonomic,phylogenetic and functional diversity](https://doi.org/10.1111/j.1461-0248.2010.01493.x)
+#### 10. October 6 Local Taxonomic, Phylogenetic, and Functional Diversity
+* Reading: [Asynchrony of taxonomic, functional, and phylogenetic diversity in birds](https://doi.org/10.1111/geb.12179)
 * [Questions]({{ site.baseurl }}/questions/class7) 
 
 #### 11. October 8 Species Networks
