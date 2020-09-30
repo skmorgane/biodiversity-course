@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 ---
-(Updates for Fall 2020 in Progress - as a result the site will be very dynamic for a while)
+Updated 9/30/2020
 Thursdays are often a split between class activity and discussion, thus there are often two topics on those days. Tuesdays are (nearly) always just discussion. 
 
 IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalized for that class period. If questions for readings are not yet posted, they will be at least 1 week before reading is discussed.
@@ -48,81 +48,75 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 
 ### Weeks 4-7: Local-scale Biodiversity Patterns & Processes
 
-#### 8. September 29 Local Processes- Niches and Biotic and Environmental Filters
+#### 9. & 10. September 29 and October 1 Local Processes- Niches and Biotic and Environmental Filters
 * Reading: [Rethinking Community Assembly through the Lens of Coexistence Theory](https://doi.org/10.1146/annurev-ecolsys-110411-160411)
     * [Questions]({{ site.baseurl }}/questions/coexistence) 
+    * Class Activity: (10/1) Group Project (Finalizing Groups, Starting Topic Identification)
 
-#### 9. October 1 Local Processes - The role of Stochasticity and History
+#### 11. October 6 Local Processes - The role of Stochasticity and History
 * Reading: [Drought mediates the importance of stochastic community assembly](https://doi.org/10.1073/pnas.0704350104 )
     * [Questions]({{ site.baseurl }}/questions/stochastic) 
-* Class Activity: Group Project (Finalizing Groups, Starting Topic Identification)
 
-#### 10. October 6 Local Taxonomic, Phylogenetic, and Functional Diversity
+#### 12. October 8 Local Taxonomic, Phylogenetic, and Functional Diversity
 * Reading: [Asynchrony of taxonomic, functional, and phylogenetic diversity in birds](https://doi.org/10.1111/geb.12179)
 * [Questions]({{ site.baseurl }}/questions/class7) 
-
-#### 11. October 8 Species Networks
-* Readings: [Stability of Ecological Communities and the Architecture of Mutualistic and Trophic Networks](https://doi.org/10.1126/science.1188321)
-    * [Questions]({{ site.baseurl }}/questions/networks) 
 * Class Activity: Group Project Time
 
-#### 14. October 13 Patterns of Abundance
+#### 13. October 13 Species Networks
+* Readings: [Stability of Ecological Communities and the Architecture of Mutualistic and Trophic Networks](https://doi.org/10.1126/science.1188321)
+    * [Questions]({{ site.baseurl }}/questions/networks) 
+
+#### 14. October 15 Patterns of Abundance
  * Readings: [Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework](https://doi.org/10.1111/j.1461-0248.2007.01094.x)
  	* Only the following sections are assigned: What is an SAD?, Why are SADs important?, Classical Theoretical Developments, Proliferation of models)
  * Readings: [Hyperdominance in the Amazonian Tree Flora](http://science.sciencemag.org/content/342/6156/1243092)
  * [Questions]({{ site.baseurl }}/questions/abundance) 
+ * Class Activity: Group Projects
  
 ### Weeks 7-10 Regional-Scale Diversity Patterns & Processes
 
-#### 15. October 15 Regional Assembly - Dispersal
+#### 15. October 20 Regional Assembly - Dispersal
 * Reading: [The metacommunity concept: a framework for multi-scale community ecology](https://doi.org/10.1111/j.1461-0248.2004.00608.x)
     * [Questions]({{ site.baseurl }}/questions/metacommunity)   
-* Class Activity: Group Projects
- 
-#### 16. October 20 Regional Assembly - Environmental Heterogeneity
+
+ #### 16. October 22 Regional Assembly - Environmental Heterogeneity
 * Reading: The "Frankenpaper" - emailed to the class listserv
 * [Questions]({{ site.baseurl }}/questions/heterogeneity) 
-
-#### 17. October 22 Habitat Fragmentation patterns
-* Reading: [Ongoing accumulation of plant diversity through habitat connectivity in a long-term experiment](https://doi.org/10.1126/science.aax8992)
-* [Questions]({{ site.baseurl }}/questions/Fragmentation)
 * Class Activity: Group Projects
 
-#### 18. October 27 Core-Transient Species
-* Reading: [The Combined Influence of the Local Environment and Regional Enrichment on Bird Species Richness](https://doi.org/10.1086/649578).
-* Reading: [Opposing mechanisms drive richness patterns of core and transient bird species](https://www.jstor.org/stable/10.1086/669903)
-* [Questions]({{ site.baseurl }}/questions/localregional)
+#### 17. October 27 Habitat Fragmentation patterns
+* Reading: [Ongoing accumulation of plant diversity through habitat connectivity in a long-term experiment](https://doi.org/10.1126/science.aax8992)
+* [Questions]({{ site.baseurl }}/questions/Fragmentation)
 
-#### 19. October 29 Group Project Day
+#### 18. October 29 Group Project Day
 * No readings
 * Class Activity: Technology in Science discussion
 * Group Projects Time
 
-#### 20. November 3 Biodiversity Turnover Across Scales
+#### 19. November 3 Core-Transient Species
+* Reading: [The Combined Influence of the Local Environment and Regional Enrichment on Bird Species Richness](https://doi.org/10.1086/649578).
+* Reading: [Opposing mechanisms drive richness patterns of core and transient bird species](https://www.jstor.org/stable/10.1086/669903)
+* [Questions]({{ site.baseurl }}/questions/localregional)
+
+#### 20. November 5 Biodiversity Turnover Across Scales
 * Reading: 
 * [Questions]
+* Group Projects Time
 
 ### Weeks 11-13 Global Biodiversity Patterns and Processes
 
-#### 21. November 5: Biogeographic Processes: Biogeographic Regions
+#### 21. November 10: Biogeographic Processes: Biogeographic Regions
 * Readings: [An update on Wallace's zoogeographic regions of the World](https://doi.org/10.1126/science.1228282)
 * [Questions]({{ site.baseurl }}/questions/Wallace)
 
-#### 22. November 10: Biogeographic Processes: Evolution
+#### 22. November 12: Biogeographic Processes: Evolution
 Readings: [Biogeographic regions and events of isolation and diversification of the endemic biota of the tropical Andes](https://doi.org/10.1073/pnas.1803908115)
 * [Questions]({{ site.baseurl }}/questions/evolution)
+* Group Project
 
-#### 23. November 12 Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
+#### 23. November 17 Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
 * Reading: [Understanding global patterns of mammalian functional and phylogenetic diversity](https://doi.org/10.1098/rstb.2011.0024)
 * [Questions]({{ site.baseurl }}/questions/GlobalDiversity)
-* Group Project
-      
-#### 26. November 17 Latitidinal Gradient: 
-Read the paper you were assigned in class - read the abstracts of the other 3. For this assignment, be able to explain the processes generating the latudinal gradient of diversity that your assigned paper examined. You will break into small groups first to make sure everyone understands their mechanisms, and then each group will explain their mechanisms to the rest of the group.
-* Readings: [Faster Speciation and Reduced Extinction in the Tropics Contribute to the Mammalian Latitudinal Diversity Gradient](https://doi.org/10.1371/journal.pbio.1001775)
-* Readings: [Plant diversity increases with the strength of negative density dependence at the global scale](https://doi.org/10.1126/science.aam5678)
-* Reading: [Productivity and history as predictors of the latitudinal diversity gradient of terrestrial birds](https://doi.org/10.1890/0012-9658(2003)084[1608:PAHAPO]2.0.CO;2)
-* Reading: [Common latitudinal gradients in functional richness and functional evenness across marine and terrestrial systems](http://dx.doi.org/10.1098/rspb.2019.0745)
 
 #### 25. November 19 Global Patterns of Genetic Diversity
 * Reading: [An Anthropocene map of genetic diversity](https://doi.org/10.1126/science.aaf4381)
