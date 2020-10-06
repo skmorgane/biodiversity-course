@@ -63,6 +63,7 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 * Class Activity: Group Project Time
 
 #### 13. October 13 Species Networks
+* Readings: [
 * Readings: [Interaction strength promotes robustness against cascading effects in mutualisitic](https://doi.org/10.1038/s41598-018-35803-8)
     * [Questions]({{ site.baseurl }}/questions/networks) 
 
