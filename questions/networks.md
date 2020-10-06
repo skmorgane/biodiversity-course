@@ -3,12 +3,14 @@ layout: nil
 title: Class 11 Questions
 ---
 
-#### Questions for Stability of Ecological Communities and the Architecture of Mutualistic and Trophic Networks
+Use both readings to help answer these questions:
 
 * What is an ecological network?
-* We use a variety of terms to describe network structure. What do: modularity, connectance, and nestedness mean? (The little diagrams associated with Figure 3b can help with the latter two terms).
-* Why have differences between mutualism and trophic networks been hard to understand?
-* Did the networks they designed retain their initial structure or did they change over the simulations? What happened and why?
-* How did modularity and nestedness impact the stability of the networks?
-* Let's revisit our previous discussion on biotic filters and coexistence theory. Does this paper expand or alter your thoughts about biotic filters and how they operate to determine local biodiversity?
+* Compare and constrast this way of studying communities with those we have talked about thus far. What is similar? What is different?
+* We use a variety of terms to describe network structure. These papers discuss mention three of them: modularity, connectance, and nestedness. What do each of those terms describe about network structure?
+* How might the structure of a foodweb influence how it responds to a perturbation?
+* What is interaction strength? How does it influence how perturbations spread through networks?
+* How does the structure of the network impact how quickly perturbations spread through it? 
+* Think about the types of data that would be required to study empirical networks. How would you collect it? Would it be easier for some taxa/ecosystems/interaction types than others? Why?
+
 
