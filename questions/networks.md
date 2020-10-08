@@ -11,6 +11,6 @@ Use both readings to help answer these questions:
 * How might the structure of a foodweb influence how it responds to a perturbation?
 * What is interaction strength? How does it influence how perturbations spread through networks?
 * Think about the types of data that would be required to study empirical networks. How would you collect it? Would it be easier for some taxa/ecosystems/interaction types than others? Why?
-* Ecological networks often on species. Do traits or phylogeny play a role in ecological networks? 
+* Ecological networks studies tend to focus on species. Is there a role for traits or phylogeny to play a role in ecological networks? 
 
 
