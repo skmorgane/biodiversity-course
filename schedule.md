@@ -91,18 +91,15 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 
 #### 18. October 29 Group Project Day
 * No readings
-* Class Activity: Technology in Science discussion
 * Group Projects Time
 
 #### 19. November 3 Core-Transient Species
-* Reading: [The Combined Influence of the Local Environment and Regional Enrichment on Bird Species Richness](https://doi.org/10.1086/649578).
 * Reading: [Opposing mechanisms drive richness patterns of core and transient bird species](https://www.jstor.org/stable/10.1086/669903)
 * [Questions]({{ site.baseurl }}/questions/localregional)
 
-#### 20. November 5 Biodiversity Turnover Across Scales
-* Reading: 
-* [Questions]
-* Group Projects Time
+#### 20. November 5 Group Project Day
+* Class Activity: Technology in Science discussion
+* Group Project Time
 
 ### Weeks 11-13 Global Biodiversity Patterns and Processes
 
