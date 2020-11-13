@@ -107,19 +107,16 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 * Readings: [An update on Wallace's zoogeographic regions of the World](https://doi.org/10.1126/science.1228282)
 * [Questions]({{ site.baseurl }}/questions/Wallace)
 
-#### 22. November 12: Biogeographic Processes: Evolution
+#### 22. November 12: UF CLOSED FOR TROPICAL STORM
+
+#### 23. November 17 Biogeographic Processes: Evolution
 Readings: [Biogeographic regions and events of isolation and diversification of the endemic biota of the tropical Andes](https://doi.org/10.1073/pnas.1803908115)
 * [Questions]({{ site.baseurl }}/questions/evolution)
 * Group Project
 
-#### 23. November 17 Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
+#### 25. November 19 Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
 * Reading: [Understanding global patterns of mammalian functional and phylogenetic diversity](https://doi.org/10.1098/rstb.2011.0024)
 * [Questions]({{ site.baseurl }}/questions/GlobalDiversity)
-
-#### 25. November 19 Global Patterns of Genetic Diversity
-* Reading: [An Anthropocene map of genetic diversity](https://doi.org/10.1126/science.aaf4381)
-* [Questions]({{ site.baseurl }}/questions/geneticdiversity)
-* Group Projects
 
 #### 26. November 24 Group Project Day
 
