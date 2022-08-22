@@ -9,18 +9,13 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 
 ### Weeks 1-3: Thinking about what biodiversity means/is
 
-#### 1. September 1 Introductions. What does the word biodiversity mean to you?
+#### 1. August 25th Introductions. What does the word biodiversity mean to you?
 
-#### 2. September 3 Biodiversity Change: Data, Definitions, and Gaps in Knowledge
-* Reading: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
-    * [Questions]({{ site.baseurl }}/questions/Biodiversitydata)
-* Class Activity: Group Project Discussion
-
-#### 3. September 8 Taxonomic Alpha, Beta, Gamma Diversity - Concepts
+#### 2. August 30th Taxonomic Alpha, Beta, Gamma Diversity - Concepts
 * Reading: [Disentangling the drivers of beta diversity along latitudinal and elevational gradients](https://doi.org/10.1126/science.1208584 )
     * [Questions]({{ site.baseurl }}/questions/AlphaBetaGamma)
-
-#### 4. September 10 Taxonomic Alpha, Beta, Gamma Diversity - Practice
+   
+#### 3. September 1st Taxonomic Alpha, Beta, Gamma Diversity - Practice
 * Class Activity: Exploring taxonomic diversity. Bring computers.
     * Before class install R (and RStudio is you want to use that) on your laptop.
         * [Instructions]({{ site.baseurl }}/exercises/R_info/R-info)
@@ -28,23 +23,29 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 	    * [rodent_controls.csv]({{ site.baseurl }}/exercises/AlphaBetaGamma/rodent_controls.csv)
 	    * [rodent_krats.csv]({{ site.baseurl }}/exercises/AlphaBetaGamma/rodent_krats.csv)
         * R Packages to install: vegan  
-	
-#### 5. September 15 Phylogenetic and functional diversity - Concepts
+
+#### 4. September 6th Phylogenetic and functional diversity - Concepts
 * Reading: [Comparing patterns of taxonomic, functional and phylogeneticdiversity in reef coral communities](https://doi.org/10.1007/s00338-018-1698-6)
     * Only read the introduction. You can ignore the final two paragraphs of the introduction as well (i.e. you can stop once you hit the paragraph starting "Despite the importance of coral reefs"). 
 * Reading: [Functional diversity (FD), species richness and community composition](https://doi.org/10.1046/j.1461-0248.2002.00339.x)
     * Only the introduction and the section on "Calculating FD" are required. The rest is optional.
 * [Questions]({{ site.baseurl }}/questions/PD_FD)
-    
-#### 6 September 17 Activity: Exploring phylogenetic and functional diversity. Bring computers
+
+#### 5. September 8th Activity: Exploring phylogenetic and functional diversity. Bring computers
 * Same rodent files as last week plus:
     * [Mammal_supertree.tre]({{ site.baseurl }}/exercises/PD_FD/Mammal_supertree_2007.tre)
     * [rodent_wgts.csv]({{ site.baseurl }}/exercises/PD_FD/rodent_wgts.csv)
     * R packages to install: picante, ape 
-
-#### 7. September 22 Ask Me Anything. Free form Discussion to Answer Questions
     
-#### 8. September 24 Identifying Gaps in Knowledge 
+#### 6 September 13th Biodiversity Change: Data, Definitions, and Gaps in Knowledge
+* Reading: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
+    * [Questions]({{ site.baseurl }}/questions/Biodiversitydata)
+* Class Activity: Group Project Discussion
+
+#### 7. September 22 Identifying Gaps in Knowledge 
+* Activity: Finding the Gaps
+    
+#### 8. September 24 
 
 ### Weeks 4-7: Local-scale Biodiversity Patterns & Processes
 
