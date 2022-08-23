@@ -2,10 +2,8 @@
 layout: page
 title: Schedule
 ---
-Updated 9/30/2020
+Updated 8/23/2022
 Thursdays are often a split between class activity and discussion, thus there are often two topics on those days. Tuesdays are (nearly) always just discussion. 
-
-IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalized for that class period. If questions for readings are not yet posted, they will be at least 1 week before reading is discussed.
 
 ### Weeks 1-3: Thinking about what biodiversity means/is
 
@@ -40,35 +38,40 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
 #### 6 September 13th Biodiversity Change: Data, Definitions, and Gaps in Knowledge
 * Reading: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
     * [Questions]({{ site.baseurl }}/questions/Biodiversitydata)
-* Class Activity: Group Project Discussion
 
-#### 7. September 22 Identifying Gaps in Knowledge 
+#### 7. September 15th Identifying Gaps in Knowledge 
 * Activity: Finding the Gaps
+    * On Canvas: pick one of the following papers to read for class:
+    * 	[Beta diversity patterns of bats in the Atlantic Forest: How does the scale of analysis affect the importance of spatial and environmental factors?]( https://doi.org/10.1111/jbi.13928)
+    * 	[Remote reefs and seamounts are the last refuges for marine predators across the Indo-Pacific](https://doi.org/10.1371/journal.pbio.3000366)
+    * 	[Network structure of vertebrate scavenger assemblages at the global scale: drivers and ecosystem functioning implications](https://doi.org/10.1111/ecog.05083)
+* Class Activity: Group Project Discussion, Topic-a-rama
+
+### Weeks 5-7: Local-scale Biodiversity Patterns & Processes
     
-#### 8. September 24 
-
-### Weeks 4-7: Local-scale Biodiversity Patterns & Processes
-
-#### 9. & 10. September 29 and October 1 Local Processes- Niches and Biotic and Environmental Filters
+#### 8. September 20th Local Processes- Niches and Biotic and Environmental Filters
 * Reading: [Rethinking Community Assembly through the Lens of Coexistence Theory](https://doi.org/10.1146/annurev-ecolsys-110411-160411)
+Read Section 1 (INTRODUCTION), Section 2 (CONTEMPORARY COEXISTENCE THEORY AND COMMUNITY ASSEMBLY), and the subsection of Section 3 titled “Trait-Phylogeny-Environment Relationships” (feel free to skip section 3.1, but read Sections 3.2, 3.2.1, 3.2.2, 3.2.3).
     * [Questions]({{ site.baseurl }}/questions/coexistence) 
-    * Class Activity: (10/1) Group Project (Finalizing Groups, Starting Topic Identification)
 
-#### 11. October 6 Local Processes - The role of Stochasticity and History
+#### 9. September 22nd Local Processes - The role of Stochasticity and History
 * Reading: [Drought mediates the importance of stochastic community assembly](https://doi.org/10.1073/pnas.0704350104 )
     * [Questions]({{ site.baseurl }}/questions/stochastic) 
+    * Class Activity: (10/1) Group Project (Working on topic development)
 
-#### 12. October 8 Local Taxonomic, Phylogenetic, and Functional Diversity
-* Reading: [Asynchrony of taxonomic, functional, and phylogenetic diversity in birds](https://doi.org/10.1111/geb.12179)
+#### 10. September 27th Local Taxonomic, Phylogenetic, and Functional Diversity
+* Reading: [Spatial mismatch and congruence between taxonomic, phylogenetic and functional diversity: the need for integrative conservation strategies in a changing world](https://doi.org/10.1111/j.1461-0248.2010.01493.x)
 * [Questions]({{ site.baseurl }}/questions/class7) 
-* Class Activity: Group Project Time
 
-#### 13. October 13 Species Networks
-* Readings: [
+#### 11. September 29th Group Project
+* Group Project Topic Development
+
+#### 12. October 4th Species Networks
+* Readings: [Two degrees of separation in complex food webs](https://doi.org/10.1073/pnas.192448799) - only the first three paragraphs of the introduction
 * Readings: [Interaction strength promotes robustness against cascading effects in mutualisitic](https://doi.org/10.1038/s41598-018-35803-8)
     * [Questions]({{ site.baseurl }}/questions/networks) 
 
-#### 14. October 15 Patterns of Abundance
+#### 13. October 6th Patterns of Abundance
  * Readings: [Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework](https://doi.org/10.1111/j.1461-0248.2007.01094.x)
  	* Only the following sections are assigned: What is an SAD?, Why are SADs important?, Classical Theoretical Developments, Proliferation of models)
  * Readings: [Hyperdominance in the Amazonian Tree Flora](http://science.sciencemag.org/content/342/6156/1243092)
@@ -77,7 +80,7 @@ IMPORTANT: if Date is followed by 2 asterisks then readings are not yet finalize
  
 ### Weeks 7-10 Regional-Scale Diversity Patterns & Processes
 
-#### 15. October 20 Regional Assembly - Dispersal
+#### 14. October 20 Regional Assembly - Dispersal
 * Reading: [The metacommunity concept: a framework for multi-scale community ecology](https://doi.org/10.1111/j.1461-0248.2004.00608.x)
     * [Questions]({{ site.baseurl }}/questions/metacommunity)   
 
