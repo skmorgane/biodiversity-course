@@ -49,16 +49,16 @@ To work collaboratively on identifying a gap in our knowledge about biodiversity
 11/10 Do you have a plan of how you would fill the gap in knowledge? YAY! You're ready to put your talk together! No? You have another class period to work on this.
 
 12/1 DEADLINE! Present your idea!
-    * Presentation Length: 15 minute presentation plus 5 minutes for questions
-    * Can you give a short overview of your topic area - what is it and why is is important to study
-      - E.g. If you're interested in trait clustering in communities, then you should be able to explain why the field has been interested in understanding patterns of trait clustering and what's our current understanding of trait clustering in communities (this last part should/will set you up for the next part).
-    * Can you explain clearly what we don't yet understand and why we really need to understand it
-      - E.g. what about patterns of trait clustering to we not understand? Why is this gap in our knowledge important? If we can solve this can it help us understand a theory of ecology, design better experiments or conservation policies, or something else?
-    * Can you explain why we don't understand this thing yet (what has prevented us from already solving the problem you've identified)
-      - E.g. Do we not have enough data? Have we not collected the right type of data to definitively resolve the question? Why do we not have enough data or the right type of data?
-    * Can you explain what your plan is for solving this issue and getting us closer to answering the question you've outlined?
-      - E.g. this is the part where you get to be creative. Be as practical or impractical as you want. If you think you have a real solution, go for it. If you can figure out how to do it assuming technology that doesn't yet exist or that you could pull off with unrealistic funding levels thats good too. 
-    * If you answer yes to all of those questions, then you are ready to go!
+   * Presentation Length: 15 minute presentation plus 5 minutes for questions
+   * Can you give a short overview of your topic area - what is it and why is is important to study
+     * E.g. If you're interested in trait clustering in communities, then you should be able to explain why the field has been interested in understanding patterns of trait clustering and what's our current understanding of trait clustering in communities (this last part should/will set you up for the next part).
+   * Can you explain clearly what we don't yet understand and why we really need to understand it
+     * E.g. what about patterns of trait clustering to we not understand? Why is this gap in our knowledge important? If we can solve this can it help us understand a theory of ecology, design better experiments or conservation policies, or something else?
+   * Can you explain why we don't understand this thing yet (what has prevented us from already solving the problem you've identified)
+     * E.g. Do we not have enough data? Have we not collected the right type of data to definitively resolve the question? Why do we not have enough data or the right type of data?
+   * Can you explain what your plan is for solving this issue and getting us closer to answering the question you've outlined?
+     * E.g. this is the part where you get to be creative. Be as practical or impractical as you want. If you think you have a real solution, go for it. If you can figure out how to do it assuming technology that doesn't yet exist or that you could pull off with unrealistic funding levels thats good too. 
+   * If you answer yes to all of those questions, then you are ready to go!
 
 ## Grading
 
