@@ -5,7 +5,7 @@ title: Schedule
 Updated 8/23/2022
 Thursdays are often a split between class activity and discussion, thus there are often two topics on those days. Tuesdays are (nearly) always just discussion. 
 
-### Weeks 1-3: Thinking about what biodiversity means/is
+### Classes 1-7: What is biodiversity? How do we quantify it?
 
 #### 1. August 25th Introductions. What does the word biodiversity mean to you?
 
@@ -47,7 +47,7 @@ Thursdays are often a split between class activity and discussion, thus there ar
     * 	[Network structure of vertebrate scavenger assemblages at the global scale: drivers and ecosystem functioning implications](https://doi.org/10.1111/ecog.05083)
 * Class Activity: Group Project Discussion, Topic-a-rama
 
-### Weeks 5-7: Local-scale Biodiversity Patterns & Processes
+### Weeks 8-13: Local-scale Biodiversity Patterns & Processes
     
 #### 8. September 20th Local Processes- Niches and Biotic and Environmental Filters
 * Reading: [Rethinking Community Assembly through the Lens of Coexistence Theory](https://doi.org/10.1146/annurev-ecolsys-110411-160411)
@@ -78,61 +78,68 @@ Read Section 1 (INTRODUCTION), Section 2 (CONTEMPORARY COEXISTENCE THEORY AND CO
  * [Questions]({{ site.baseurl }}/questions/abundance) 
  * Class Activity: Group Projects
  
-### Weeks 7-10 Regional-Scale Diversity Patterns & Processes
+### Classes 14-19 Regional-Scale Diversity Patterns & Processes
 
-#### 14. October 20 Regional Assembly - Dispersal
+#### 14. October 11th Regional Assembly - Dispersal
 * Reading: [The metacommunity concept: a framework for multi-scale community ecology](https://doi.org/10.1111/j.1461-0248.2004.00608.x)
     * [Questions]({{ site.baseurl }}/questions/metacommunity)   
 
- #### 16. October 22 Regional Assembly - Environmental Heterogeneity
+#### 15. October 13th Regional Assembly - Environmental Heterogeneity
 * Reading: The "Frankenpaper" - emailed to the class listserv
 * [Questions]({{ site.baseurl }}/questions/heterogeneity) 
 * Class Activity: Group Projects
 
-#### 17. October 27 Habitat Fragmentation patterns
+#### 16. October 18th Habitat Fragmentation patterns
 * Reading: [Ongoing accumulation of plant diversity through habitat connectivity in a long-term experiment](https://doi.org/10.1126/science.aax8992)
 * [Questions]({{ site.baseurl }}/questions/Fragmentation)
 
-#### 18. October 29 Group Project Day
+#### 17. October 20th Group Project Day
 * No readings
 * Group Projects Time
 
-#### 19. November 3 Core-Transient Species
+#### 18. October 25th Core-Transient Species
 * Reading: [Opposing mechanisms drive richness patterns of core and transient bird species](https://www.jstor.org/stable/10.1086/669903)
 * [Questions]({{ site.baseurl }}/questions/localregional)
 
-#### 20. November 5 Group Project Day
+#### 19. October 27th Group Project Day
 * Class Activity: Technology in Science discussion
 * Group Project Time
 
-### Weeks 11-13 Global Biodiversity Patterns and Processes
+### Classes 20-27 Global Biodiversity Patterns and Processes
 
-#### 21. November 10: Biogeographic Processes: Biogeographic Regions
+#### 20. November 1st: Biogeographic Processes: Biogeographic Regions
 * Readings: [An update on Wallace's zoogeographic regions of the World](https://doi.org/10.1126/science.1228282)
 * [Questions]({{ site.baseurl }}/questions/Wallace)
 
-#### 22. November 12: UF CLOSED FOR TROPICAL STORM
 
-#### 23. November 17 Biogeographic Processes: Evolution
+#### 21. November 3rd Biogeographic Processes: Evolution
 Readings: [Biogeographic regions and events of isolation and diversification of the endemic biota of the tropical Andes](https://doi.org/10.1073/pnas.1803908115)
 * [Questions]({{ site.baseurl }}/questions/evolution)
 * Group Project
 
-#### 25. November 19 Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
+#### 22. November 8th Large-scale Patterns of Phylogenetic, Functional, and Species Diversity 
 * Reading: [Understanding global patterns of mammalian functional and phylogenetic diversity](https://doi.org/10.1098/rstb.2011.0024)
 * [Questions]({{ site.baseurl }}/questions/GlobalDiversity)
 
-#### 26. November 24 Group Project Day
+#### 23. November 10th Group Project Day
 
-#### 26. December 1
-* No readings: Group Projects
+#### 24. November 15th Endemism
+* Reading: [The Influence of Late Quaternary Climate-Change Velocity on Species Endemism](https://www.science.org/doi/full/10.1126/science.1210173)
+* [Questions]({{ site.baseurl }}/questions/endemism)
 
-#### 27. December 3 Group Presentations!
+#### 25. November 22nd Group Project Day
+* No readings
 
-### Week 15: Wrap-Up
+#### 26. November 29th Peer Reviewing Discussion
+* Pick one of the readings from the list on the page Reviewing Resources on Canvas. Read before coming to class.
 
-#### 30. December 8: What have we learned? Wrapping up the Semester
+#### 27. December 1 Group Presentation Day!
+
+### Class 28: Wrap-Up
+
+#### 28. December 6th: What have we learned? Wrapping up the Semester
 * Readings: Look over the questions and topics on the schedule and reflect on what we have covered over the past semester
+* Reading: Read over items of confusion from the very first paper of the semester
 * Revisit The HillRisLambers model for community assembly. We'll use it as our basis for creating our own model for biodiversity and revisiting our view of biodiversity.
 			
 
