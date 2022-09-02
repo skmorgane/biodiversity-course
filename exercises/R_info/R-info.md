@@ -58,3 +58,8 @@ type: install.packages("name")
 
 There is at least one package we will be installing from a different source. Instructions will be given when we get to that!
 
+### For Mac Users: Command Line Tools or xcrun errors
+One of the packages we use require Apple products to have the Command Line Tools installed. If you see an error about Command Line Tools or xcrun, then follow these steps:
+* Install Xcode from the App Store on Mac
+* Once Xcode is installed, open a terminal window and type in: Xcode-select --install
+* This should install the command line developer tools that some of the R packages need to run.
