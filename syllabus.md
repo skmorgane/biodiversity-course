@@ -32,15 +32,15 @@ This course is designed to provide advanced training for graduate students in a 
 
 50% (100 points) will be based on a class project and presentation, broken down as follows (given as percentage of course grade, not project grade)
 
-    10% (20 pts): Participation on Canvas Research Interest Discussion
-    10% (20 pts): Group Topic Assignment
-    30% (60 pts) Group Paper
+* 10% (20 pts): Participation on Canvas Research Interest Discussion
+* 10% (20 pts): Group Topic Assignment
+* 30% (60 pts) Group Paper
 
- 50% will be based on class participation in discussion and class activities (100 pts)
+50% will be based on class participation in discussion and class activities (100 pts)
 
-    21% (3 pts/class, 14 classes) Participation in “Share the Confusion” Canvas Discussions
-    21% (3 pts/class, 14 classes) Participation in Group Discussions, either during synchronous discussions or through submitted written (or recorded) answers to discussion questions.
-    8% (4 pts/R activity, 2 activities) R coding activities
+* 21% (3 pts/class, 14 classes) Participation in “Share the Confusion” Canvas Discussions
+* 21% (3 pts/class, 14 classes) Participation in Group Discussions, either during synchronous discussions or through submitted written (or recorded) answers to discussion questions.
+* 8% (4 pts/R activity, 2 activities) R coding activities
 
 *A written alternative to class participation is available for who have need of the flexibility or the different communication style to express themselves effectively - just contact me to let me know you would prefer this option*
 
