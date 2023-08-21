@@ -2,12 +2,12 @@
 layout: page
 title: Schedule
 ---
-Updated 8/23/2022
-Thursdays are often a split between class activity and discussion, thus there are often two topics on those days. Tuesdays are (nearly) always just discussion. 
+Updated 8/21/2023
 
 ### Classes 1-7: What is biodiversity? How do we quantify it?
 
 #### 1. August 24th Introductions. What does the word biodiversity mean to you?
+* Reading: [Syllabus]({{ site.baseurl }}/syllabus)
 
 #### 2. August 29th Taxonomic Alpha, Beta, Gamma Diversity - Concepts
 * Reading: [Disentangling the drivers of beta diversity along latitudinal and elevational gradients](https://doi.org/10.1126/science.1208584 )
