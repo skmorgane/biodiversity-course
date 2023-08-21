@@ -3,41 +3,44 @@ layout: page
 title: Syllabus
 ---
 
-## WIS 4934/6934 Biodiversity: Ecological Patterns and Processes
+## WIS 6405 Biodiversity: Ecological Patterns and Processes
 
   |**Instructor**         |Dr. Morgan Ernest
-  |**Office Location**    |online for forseeable future 
-  |**Phone**              |            
+  |**Office Location**    |Building 150          
   |**Email (preferred)**  |<skmorgane@ufl.edu>  
                                                
 <br>
 												 
 #### **Times and Locations**
 
-Tuesday, Period 7 (1:55-2:45), course zoom link available via Canvas
+Tuesday, Period 7 (1:55-2:45), NPB 1200 (Physics Building)
 
-Thursday, Period 7-8 (1:55-3:50), course zoom link available via Canvas
+Thursday, Period 6-7 (12:50-2:45), NZH 219
 
 #### **Course Objectives**
 
-The goal of this class is to provide students a basic understanding of biodiversity patterns often studied in the field 
-of ecology. By the end of the semester, students will:
+Biodiversity emerges from a combination of ecological and evolutionary processes operating across many scales of space and time. This course examines the concept of biodiversity and the processes that generate important patterns of biodiversity in ecology.
 *	Define the dimensions of biodiversity through discussion and reading the primary literature
-*	Discuss patterns of biodiversity from the literature and how they relate to ecological processes
-*	Use current literature to assess current gaps in our scientific understanding of biodiversity
-*	Design research questions to gain experience with addressing and communicating gaps in scientific knowledge
-*	Design a presentation to communicate to an audience of broad backgrounds
+*	Use the literature to assess current gaps in our scientific understanding of biodiversity
+*	Design and write an introduction communicating a gap in knowledge in the field of biodiversity
 
 #### **General Course Structure and Expectations**
 
- This course is designed to provide advanced training for graduate students in a specialized area of ecology. This course is a mixture of lecture, class discussion of primary literature, hands-on experience through class activities, and a major project. While there is some lecturing, class participation, intellectual engagement with topics, and discussion participation are the main ways students will learn in this class. The first hour of Tuesdays and Thursdays are devoted to lecture and class discussions. You are expected to come prepared to discuss the assigned papers. The second hour on Thursdays are devoted to either class activities or working on group projects. 
+This course is designed to provide advanced training for graduate students in a specialized area of ecology. This course is a mixture of lecture, class discussion of primary literature, hands-on experience through class activities, and a major project. While there is some lecturing, class participation, intellectual engagement with topics, and discussion participation are the main ways students will learn in this class. Tuesdays and the first hour of Thursdays are devoted to lecture and class discussions. You are expected to come prepared to discuss the assigned papers. The second hour on Thursdays are devoted to either class activities or working on group projects. 
 
 #### **Course Grading**
 
-50% of grade will be based on a class project and presentation
-30% will be based on on-line activities 
-20% will be based on class participation in discussion*
+50% (100 points) will be based on a class project and presentation, broken down as follows (given as percentage of course grade, not project grade)
 
+    10% (20 pts): Participation on Canvas Research Interest Discussion
+    10% (20 pts): Group Topic Assignment
+    30% (60 pts) Group Paper
+
+ 50% will be based on class participation in discussion and class activities (100 pts)
+
+    21% (3 pts/class, 14 classes) Participation in “Share the Confusion” Canvas Discussions
+    21% (3 pts/class, 14 classes) Participation in Group Discussions, either during synchronous discussions or through submitted written (or recorded) answers to discussion questions.
+    8% (4 pts/R activity, 2 activities) R coding activities
 
 *A written alternative to class participation is available for who have need of the flexibility or the different communication style to express themselves effectively - just contact me to let me know you would prefer this option*
 
