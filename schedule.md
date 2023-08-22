@@ -18,9 +18,10 @@ Updated 8/21/2023
     * Before class install R (and RStudio is you want to use that) on your laptop.
         * [Instructions]({{ site.baseurl }}/exercises/R_info/R-info)
 	* Files:
+            * [R workbook]({{ site.baseurl }}/exercises/AlphaBetaGamma/alpha_beta_gamma_2023.Rmd)
 	    * [rodent_controls.csv]({{ site.baseurl }}/exercises/AlphaBetaGamma/rodent_controls.csv)
 	    * [rodent_krats.csv]({{ site.baseurl }}/exercises/AlphaBetaGamma/rodent_krats.csv)
-            * [R workbook]({{ site.baseurl }}/exercises/AlphaBetaGamma/alpha_beta_gamma_2023.Rmd)
+
         * R Packages to install: vegan  
 
 #### 4. September 5th Phylogenetic and functional diversity - Concepts
