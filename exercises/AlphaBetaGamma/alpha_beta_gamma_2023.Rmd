@@ -1,0 +1,529 @@
+---
+output: html_document
+---
+## HOW TO USE THIS WORKSHEET
+This is an R notebook, a handy format for integrating code, text, and code output (like graphs) into one document. R code is included in this document, which you can run. The block below ```{r} is a special area for running R code. I've typed in something simple. To execute it, click on the green, right-facing arrow at the top right of the box.
+```{r}
+2+2
+```
+The output from your code will display immediately below the code block. If you look down at your console, that code was automatically submitted to R when you pressed the green arrow and the output it generated was displayed in this file. 
+
+## THE EXERCISE
+
+### Ways to use the notebook
+The goal of this notebook is twofold: 1) Allow you to learn at your own pace and in your own way and 2) To provide you with a document you can refer back to. The top half of the file is a walk-through, using data, of how to calculate the basic diversity measures presented in Kraft et al. 
+
+As such, you can choose your own level of R adventure:
+1) Let the computer do all the heavy lifting: You can work through the R script tutorial (top half of the document) by just running the R blocks and only typing to answer questions. 
+2) Retype within the Notebook: If you like to retype code when you're learning how to use it, you can create an R block below each code chunk and retype the code. To insert an R block, under the tab with this file's name, there is a tool bar. Find a green icon with a C. Click it and select R. An empty R block should appear wherever your cursor is in the document.
+3) Retype code into a new file: Believe it or not this document is just plain text. You can open the R notebook in a text editor like Notepad (on Windows) or TextEdit (Mac) and read while typing code into a new .R file in Rstudio. Then you can run the code in Rstudio from your freshly typed file. In Notepad, you can make the text wrap so its easier to read. If there is any logic in the universe, TextEdit should do something similar. To create a new R script in Rstudio, go to File>New File > Rscript. Make sure to save it in the same location as the datafiles.
+
+Whatever choice you make, make sure to answer the questions along the way - they will help link what you're doing to what we learned on Tuesday. And, don't forget to do the "Your Turn" exercises at the end. They are designed to be a straightforward application of what we did together in the first half of the document, but what I intend to be straightforward and is actually straightforward sometimes diverge, so don't be shy to ask for help!
+
+### Exercises in the notebook
+
+## DATA OVERVIEW
+
+Today we're going to explore how we quantify local taxonomic diversity using data from my field site in Portal, Arizona.
+
+At my field site we have large experimental plots where we trap rodents. Some of the plots are control plots, where all rodents have free access to the plots. Some of the plots we remove kangaroo rats, which are a a very cute rodent that is a dominant competitor for seeds at my field site. All other rodent species can access the kangaroo rat removal plots. This allows us to study the impact of competition on the population dynamics of rodents in this desert ecosystem.
+
+The data I've provided is plot-level data (i.e. all the captures of rodents on each of the plots) from a single month, summarized by species (i.e. number of individuals per species per plot). One file, the one that I use in the example code for below, is the data from the control plots. The other file contains the data from the plots that exclude kangaroo rats and you will have the chance to apply what you've learned to that data at the end. 
+
+## 1) SETUP
+
+### Directories
+
+Reminder: Make sure this file is saved wherever you put the data files for today's class. Remember to set your working directory to this file's location by clicking on: Session > Set Working Directory > To Source File Location
+
+### Load Packages
+
+In this exercise, we will use a popular R package called `vegan`, which contains tools commonly used in ecological research, including analyses of $\alpha$-diversity. For those interested in learning more about that package, Jari Oksanen has created an excellent tutorial that provides an overview of the `vegan` package: https://www.mooreecology.com/uploads/2/4/2/1/24213970/vegantutor.pdf
+
+
+```{r, results = 'hide', warning=FALSE, message=FALSE}
+library("vegan")
+```
+
+## 2) LOADING DATA
+
+We're going to start by loading the data and looking at it. Make sure that the file name of the data matches what I typed below. If not, rename either the file or replace the filename in the box below. 
+
+[we've named our data 'data' but we could name it whatever we want. This is the name that R now knows the information contained in 'rodent_controls.csv'. head() is a handy function that gives you back the first few rows of your data. We could also see our data simply by typing 'data' or whatever we had named our data. Go ahead and try it in the console if you want. I use head() because if we have a lot of data we might not want to see all of it.]
+
+```{r}
+data = read.csv("rodent_controls.csv", row.names = "plot")
+head(data)
+```
+
+This data is coming from 10 control plots from a single month. Each plot at my site is identified by a unique number (1-24). Every row in the table above is a location (a plot in our case) and every column is a species (there are probably more columns than you can see, but there should be a little arrow that lets you scroll right to see the additional species). Within each cell is the total number of individuals of that species caught on that plot. Vegan requires this exact format. Every column must be a species. Every row a site or time. If you have a column that isn't species data, vegan will assume it is a species and analyze it. 
+
+It looks like there's a column to the far left with no column name. Look over in the top right quadrant of Rstudio and find your Environment tab. Under 'Data' find the dataframe we called 'data'. Click on that name. It will pop open a tab above here that contains the datafile for you to look at. You'll see that isn't a column, but numbers associated with each row. The row.names= "plot" argument takes the data in the 'plot' column and turns them into 'names' for each row. This is one way that you can keep your site info associated with your data even though vegan needs every column to be species data. If you didn't do this, but left 'plot' as a column in your dataframe, then vegan would assume that those were species abundances and use that info in our analyses. Which obviously would be terrible. :( 
+
+## 3) SPECIES RICHNESS
+
+### Alpha, Beta, Gamma
+In the Kraft et al. paper that we discussed on Tuesday, we were introduced to alpha, beta, and gamma diversity. Let's see how we can get R to calculate these values for us from our data.
+
+Let' start with alpha. How did they calculate alpha diversity in their paper?
+
+*ANSWER:* 
+
+So, to replicate what they did, what do we need to do for Portal?
+
+*ANSWER:*
+
+Let's do that. Vegan has a variety of functions for doing community ecology and biodiversity research. We'll use vegan's specnumber() function to count the number of species in each of our plots.
+
+```{r}
+alpha = vegan::specnumber(data)
+alpha
+```
+
+The top row is the row number, which for our data is the number that identifies each plot. The bottom row is the species richness. Calculating species richness for a sample is often straightforward: count the number of species present in a sample. 
+
+Let's think about each of these plots as a separate site. In the context of
+Kraft et al, what is specnumber() giving us? Alpha, Beta or Gamma?
+
+*ANSWER*
+
+Let's look at the data again and think about what we would need to get gamma
+
+
+
+```{r}
+head(data)
+```
+So, what is gamma?
+
+*ANSWER*
+
+There's a variety of ways we could extract that info. Because every column is a species, we could just count columns here, but this is where knowing your data can come in handy. Look at the data above and see if you see a problem.
+
+
+Let's start by determining how many species have non-zero abundances across all the plots in our data. We'll do this by summing the abundances in a column. Anything with a zero, isn't present on any plot. 
+
+```{r}
+spN_allplots = colSums(data)
+spN_allplots
+```
+
+Now we count the number of entries with non-zero abundances 
+
+[length(which(spN_allplots > 0)) is very ugly. But what it is doing is taking the information we generated above that is contained in spN_allplots and pulling out the records that are >0. That's the which(spN_all_plots > 0) part. Then it is counting the number of records that were >0. That's the length() part.]
+
+```{r}
+gamma = length(which(spN_allplots > 0))
+gamma
+```
+
+Now that we have gamma and alpha, we can tackle beta. Let's look at gamma and alpha first and just think about what those two pieces are telling us about these plots. 
+
+Our gamma is 13 species. Let's see what our mean alpha is:
+```{r}
+gamma 
+mean(alpha)
+```
+What does this difference between gamma and average alpha tell you about how similar these plots are? 
+
+*Answer*
+
+Kraft et al. presented three common alternatives for calculating beta diversity. Let's see what the three different beta diversity measures yield
+```{r}
+add_beta = gamma - mean(alpha)
+multi_beta = gamma/mean(alpha)
+beta_part = 1 - mean(alpha)/gamma
+add_beta
+multi_beta
+beta_part
+```
+
+Each of these metrics is telling us something similar, but also something slightly different. Additive beta says that the regional pool (all the species caught at the site in that month) contains ~8 more species than on the average plot.
+
+Multiplicative beta says that our Gamma is ~2.5 times larger than the average plot alpha richness
+
+Beta partitioning says that 58% of the regional richness is not contained in the average plot
+
+So, they all tell us that we have turnover among our plots and this turnover is potentially worth thinking more about.
+
+### Sampling Issues
+
+So, this is the number of species we observed. Look closely at the data again. Given the number of individuals we're counting on each of those plots, how confident are you in this being the actual number of species on these plots? Why?
+
+*Answer*
+
+What was one of the concerns expressed in Kraft et al about the size of their plots?
+
+*Answer*
+
+Why and when is sampling an issue?
+
+*Answer*
+
+### Rarefaction
+
+Sampling issues can potentially cause us problems when we want to compare the species richness between two sites, especially if they differ in their sampling effort. For example, what if you spent 5 hours listening to birds at your study site and I only spent 1 hour listening to birds at mine? Even if our sites have exactly the same species richness, you may have detected more species simply because you were out there longer and had the chance to sample (i.e. hear) more individuals. 
+
+One way we can correct for this difference in sampling effort is by seeing how species accumulate as the number of individuals we sample accumulates. This is called rarefaction.
+
+We can do a rarefaction curve for our site, though it takes a little....brain bending to do it. We're going to think about our sites as different collection events that sampled individuals. When we sample one of the plots, we collected data on X individuals (the number of individuals on that plot), if we pool that with data from two plots, that represents X+Y individuals, and so on. Let's see what happens when we apply the rarefaction() function to our data.
+
+[specaccum() is a function in vegan that can do a bunch of different things. method="rarefaction" tells it that we want it to do rarefaction calculations on our data. We are storing the output in something we've named 'rarefaction' and then telling R to plot that ifnormation contained in that object.]
+
+```{r}
+rarefaction = vegan::specaccum(data, method="rarefaction")
+plot(rarefaction)
+```
+What's happening here? The y-axis is the number of unique species (so as we add sites, the species number only goes up if the species wasn't recorded in one of the earlier sites. Despite the x-axis saying "Sites", the calculations are based on the numbers of individuals on a plot and how that number increases as we add sites. 
+
+We can see this abundance information if we look at what the function is generating under the hood:
+
+[typing 'rarefaction' tell R to display the output from vegan's calculations that we stored above]
+```{r}
+rarefaction
+
+```
+With each site added, the individuals sampled goes up until we reach the total number of rodents counted - 256. 
+
+So as we add sites, we are collecting more individuals and everytime we add individuals we are finding new species, but as the number of individuals gets higher and higher, the rate at which we are finding new species slows down - hence the plateauing curve above. 
+
+If you have a site where your sampling efforts have generated a plateau in your rarefaction curve and one where your data plot was a straight line, which site would you feel like you have sampled well? Why?
+
+*Answer*
+
+
+We can use rarefaction to make sites with different sampling intensities more comparable. A rarefaction curve is estimated for each site and each site is then adjusted down its rarefaction curve to a number of individuals shared by all of the sites. 
+
+To see how this work, let's now assume the plots are different locations or habitats, each with its own sampling intensity. We can use the function rarefy() to calculate the species richness one would expect to see at each site, given the same number of individuals sampled. It's important that you rarefy down to the abundance of the site with the smallest number of individuals. If you rarefy to a number of individuals that is higher than your lowest abundance site, then you will be extrapolating your data into unknown territory and increasing the error in your estimate.
+
+[min.N <- min(rowSums(data)) is summing the abundance for each row - remember each row in our data is a plot so we're calculating the number of individuals on each plot. min() is finding the row with the smallest abundance.
+
+rarefy(x = data, sample = min.N, se = TRUE) uses that minimum abundance and takes each plot and the species richness we would expect on that plot if we had sampled on min.N individuals.]
+]
+
+```{r}
+min.N <- min(rowSums(data))    
+rarefy(x = data, sample = 200, se = TRUE)   
+```
+Top row in our output is plot number. The row labeled 'S' is the number of species we could expect to see on that plot when we rarefy to the number of individuals seen on the least abundant plot. 'se' = our standard error around our estimate of S. Plot 22 has a se=0 because it's the plot we rarefied to (i.e. we don't need to estimate what its S is at this number of individuals because it already has that number of individuals!).
+
+### C. Issues rarefaction
+
+Rarefaction assumes you are sampling randomly selected individuals.
+How many of you have a random sampling design that collects one individual at a time?
+How do we collect data on individuals? (In groups: transects, plots, sweepnets.
+The way we collect individuals in groups can violate assumptions of randomness that can potentially bias our estimates. Site based species accumulation curves avoid this, but in we often don't have enough samples (i.e. sites) to get a good estimate of that curve.
+
+## 3) Estimating the true richness of a site
+
+Sometimes what we really want is not the number of species we expect to see if a given number of individuals are sampled, but what the "true" richness of a site is. Obviously, for rarefaction there is a point where adding individuals or sites will have little impact on your estimate of species richness (i.e. the asymptote of the curve). However, fitting a curve to those relationships and estimating the asymptote tend to perform badly - often because you are estimating well beyond the reach of your data and little sources of error have a chance to amplify. Instead, we have other methods for estimating the true richness.
+
+### C. Estimated Richness
+
+There are a number of richness estimators out there, but they generally all operate on a similar principle - can we use the pattern of rare or low abundance species in the observed data to estimate how many species we missed sampling? We can think of these estimators as ways to estimate richness based on information contained in our sample. Just like everything else in the world, anytime we're trying to estimate something, we are making assumptions about how the world works. There is an overwhelming array
+of richness estimators (and diversity indices) out there. None are perfect because all make assumptions about the world that may or may not be true for your sample. 
+
+To explore the wonderful world of richness estimating, we will focus on two commonly used richness estimators developed by Anne Chao. Both estimators fall into the category of being non-parametric, which means that they are not based on assumptions that the data (and/or the statistical error) come from a particular underlying distribution (e.g. Gaussian). But they do make assumptions about the information that a sample contains about the likelihood of missing species.
+
+We'll start with the case of trying to estimate the number of species in an individual plot.
+
+### Chao1
+
+**Chao1** is an ***abundance-based estimator*** and is useful for examining richness of a single site.
+
+If we are trying to estimate the number of species in a specific site,
+what does this correspond to in the Kraft paper, which scale of biodiversity?
+
+*Answer* 
+
+Here's the equation for Chao 1 (if I did this correctly, it should display in a more reader-friendly format in a box below it. It's been a bit finicky. Try clicking on the line with the equation)
+$$ S_{p} = S_{o} + \frac{[a1(a1 - 1)]}{[2*(a2 + 1)]}$$
+a1= the number of species represented by a single individual
+a2= the number of individuals represented by 2 individuals
+
+What the Chao1 estimator is assuming is that if we have a high number of singletons relative to doubletons (yes, that's a word :) ), then we have not sampled this site well and there are probably a lot of missing species.
+
+Because it requires singleton and doubleton data to calculate, Chao1 cannot be used on a site-by-species matrix where abundances have been relativized, i.e., where the abundance of each species is divided by the total number of individuals.
+
+Let's run Chao1 on our plot data and see how the Chao1 estimate of species richness compares to what we observed.
+
+```{r}
+Chao_alpha = estimateR(data)
+Chao_alpha
+```
+
+The toprow is the plot number. The row labeled 'S.obs' is the raw count of species observed on a plot. S.chao1 is the Chao1 estimate of species richness on each plot. se.chao1 is the standard error around that estimate. 
+
+The next two rows are the results from a different method called the Abundance-based Coverage Estimator (based on an approach developed by Alan Turing) which is making different assumptions about how to take the information we have about the number of common and rare species to estimate the number of species we're not seeing. It works best with large sample sizes, which we don't have here.
+
+### Chao2
+
+Chao1 uses the abundance information to estimate the real number of species in
+a sample. We can also estimate the richness for the entire collection of sites,
+often called the species pool. What scale does this reflect in the Kraft paper?
+
+*Answer* 
+
+Chao2 differs from Chao1 in that Chao2 is an incidence-based estimator, which means that it uses presence-absence data for examining richness across multiple sites. The idea is similar to what we saw with Chao1: observed richness (`S.obs`) is modified by a correction factor, which is an estimate of the number of additional species we didn't observe. However, in Chao2, **singletons** and **doubletons** refer to species observed once and twice, respectively, among sites or samples.
+
+S_p = S_o + S_unobs
+
+$$S_{unobs} = \frac{q_{1}^2}{(2*q_2)}*\frac{N-1}{N}$$ 
+N = number of sites
+q1 = number of species that appear at only 1 site
+q2 = number of species that appear at only 2 sites
+
+What happens if there are 0 species that appear at only two sites?
+*Answer*
+
+In that scenario, there is a different equation you use to calculate S_unobs:
+$$S_{unobs} = \frac{q_{1}*(q_{1}-1)}{2} * \frac{N-1}{N}$$
+The function in vegan automatically shifts to this version, so you don't need to worry about it, but I wanted to let you know this could happen if you were calculating things yourself.
+
+Let's apply chao2 to our data and see what it thinks our actual site-level richness is:
+
+```{r}
+Chao_gamma = specpool(data)
+Chao_gamma
+```
+We observed 13 species. Chao2 estimates 14.8 species, though with the error, our observed and estimated richness are pretty close.
+
+This similarity between the richness estimators and our observed values is something I would expect for my site because we sample our plots fairly exhaustively. This means that even though we don't have high numbers of individuals, we're pretty much catching everything on the plot, so we're closer to a 'full census' than a sample. However, this is not always the case and you can start to see big differences between observed and estimated richness when sampling intensity is low.
+
+So let's finish our alpha, beta, gamma tour by using our estimated alpha and gamma richnesses to calculate the three beta diversity metrics used in Kraft et al.
+```{r}
+est_meanalpha = mean(Chao_alpha[2])
+est_add_beta = Chao_gamma[,2]-est_meanalpha
+est_multi_beta = Chao_gamma[,2]/est_meanalpha
+
+est_meanalpha
+est_add_beta
+est_multi_beta
+```
+
+Just for fun, let's just compare beta diversity estimates based on the raw data vs. that generated from the estimated data.
+
+```{r}
+multi_beta
+est_multi_beta
+```
+Not much different, but you can imagine how in a different sampling design, that these estimates could give you very different outputs. 
+
+### 4) Diversity Indices
+
+We've been focusing on species richness, but let's think about how we think 
+about the word diversity. Species richness is just a specific viewpoint on the
+contribution of each species to the diversity of a site. 
+
+Imagine two communities. 
+Community 1: 
+Species A 100 individuals
+Species B 5 individuals
+Species C 1 individual
+Species D 1 individual
+Species E 1 individual
+
+Community 2:
+Species A 50 individuals
+Species B 25 individuals
+Species C 10 individuals
+Species D 10 individuals
+Species E 5 individuals
+
+Each has the same total number of individuals and number of species.
+
+Which community do you think is more diverse?
+*Answer*
+
+No matter how you answered that question, your answer is probably not wrong:)
+
+Depending on our philosophy and our scientific question, how abundance is distributed across species may be an important part of our question. Do we have a community that is effectively 1 species, with some rare species along for the ride? Or do we have a community of multiple species with larger populations?
+
+This is where diversity indices come in - indices designed to provide a metric for comparing different communities and assessing what their effective richness is relative to each other. 
+
+There is a universe of diversity indices. Each with its own assumptions, strengths
+and weaknesses. Most of the difference among them is in how they emphasize rare vs common species. I'm going to teach you about one specific diversity index - Hill's Numbers - that illustrates how your view of 'diversity' shifts depending on whether you are focused on rare species or common.
+
+Hill's Numbers actually comprise a family of diversity indices that emerge from a single, modifiable equation. The component we can modify allows us to change the emphasis on how important the commonness or rarity of a species contributes to your estimate of diversity. 
+
+$$ ^{q}D = (\sum_{i=1}^{S}p_i^q)^\frac{1}{1-q}$$
+This looks complicated, but let's work through its pieces.
+S= # species
+p_i = the proportion of individuals in the community that belong to species i (i.e. its relative abundance)
+q= the value that determines how we're weighting the abundance of species
+
+So basically, this equation takes each species relative abundance, weights it depending on whether we're saying dominant species or rare species are more important, and then sums those weights together.
+
+Let's think about the simplest case, q=0. Any number raised to the 0 power is 1.
+Thus, no matter how abundant a species is, it counts as 1. This means that presence of every species is weighted equally, regardless of its abundance. When we sum all these 1s, we just get species richness.
+
+As we change q from 0, those relative abundances will start to get altered by q, which will then impact how much rare species contribute to the final diversity value.
+
+If q = 0, species richness
+If we think the abundance of a species should influence our view of 
+the diversity at a site, we can then penalize rare species more and more. 
+If q < 1, we value rare species and penalize them only a little
+If q > 1 penalizes rare species a lot and emphasizes the abundant species
+
+Species cases of q that you may have heard of before:
+If q =1, well, this can't be calculated directly because you get an undefined quantity, but there is an estimate of q=1 that can be calculated and it is effectively Shannon's Diversity Index.
+
+q=2 Simpson's diversity index.
+
+Vegan has a function that allows you to run multiple qs for the Hill's number
+
+```{r}
+hill_num = renyi(data, hill= TRUE)
+hill_num
+```
+The far left is the plot number. Across the top are the q values used, ranging from 0 to infinity (don't ask, I have no idea how they calculated a q=infinity. I assume it has something to do with limits, and that's as much as I remember about that part of calculus class). 
+
+As you trace across a row for a plot, the value goes down. This is because the 'tax' on rare species goes up. q=0 values rare species equally with common ones. As q goes up, rare species contribute less and less.  
+
+[ Side note: The value produced by the Hill's number represents an "effective richness". It is a weighted number of species. Not all diversity indices have this same interpretation. Some are probabilities - like Simpson's Index which represents the probability of pulling two individuals and having them be the same species.]
+
+Let's visualize how the hill number declines as q increases:
+```{r}
+plot(hill_num)
+```
+Each graph is a specific plot at the site. Y-axis is the Hill Number, x axis represented the different q values explored in the analysis. The pink dashed line on each graph are showing us the average hill number across all of our plots. The green dashed lines are the min and max values. These lines are just references that allow us to see how a specific site compares to all the other sites 
+
+When you see a steep drop off with increasing q, you know that most species are rare, with only a very small number of abundant species. A flatter response to increasing q is telling you that your site has a more even distribution of species. 
+
+Personally, I like Hill Numbers because I understand what they're generating and why. Regardless of the diversity index you use, you want to think about how its weighting those rare species and whether or not that is consistent with the question you are actually trying to ask!
+
+
+## Your Turn
+Through the tutorial above, I walked you through both how to do these analyses in R and how to think about your results. For class today, I also gave you data for the kangaroo rat exclosure plots. For the rest of class, I want you to replicate what we did above and compare the results from the kangaroo rat exclosures with the control plots, so you can tell me how removing a dominant competitor impacts the taxonomic diversity at my site. When you sit down to address each question, you may see more than one way to tackle the question. Pick the one that seems reasonable to you given the question being asked - that's what we all have to do in ecology because there is rarely only one clearly correct way to approach a question!! 
+
+### Turnover: Similarity/Dissimilarity approaches
+
+Beta diversity is one way to assess turnover among communities. It generally works best when multiple sites are being considered and when you are assessing the turnover in an aggregate way (i.e. the sites in this region show a lot of turnover relative to the sites inthis other region). Sometimes we want to know how different various various of sites are (is site A more simlar to site B or site C?). Turnover measures all involve calculating either distances or similarity metrics between pairs of communities. 
+
+Two common approaches:
+
+Binary: only presence/absence info
+Quantitative: uses amount info (number, biomass, cover, productivity.) Anything that quantifies the relative amount of each species. 
+
+#### Binary Measures
+Jaccard Index: 
+$$ Jaccard = \frac{a}{a+b+c}$$
+Sorenson Coefficient:
+$$ Sorenson= \frac{2a}{2a + b + c} $$
+In both cases a = number of species shared by both sites, b=number of species unique to site 1, c= number of species unique to site 2. Both give similarity, where 0 = dissimilar and 1 = completely the same. Sorenson and Jaccard are similar, but Sorenson puts more weight on the species shared than on the unique species.
+
+Let's look at these using vegan, starting with Jaccard. Vegan computes Jaccard as a dissimilarity (i.e. 1-Jaccard)
+```{r}
+library(vegan)
+jaccard = vegan::vegdist(data, method = "jaccard", binary=TRUE)
+jaccard
+```
+
+We can see that some of our plots have high dissimilarity (like plots 11 and 1) and some have much lower dissimilarity in their species lists (like 4 and 8). This is consistent with what we found with the classic beta diversity approach which told us that we have a fair amount of turnover across our plots but allows us to look at the differences between particular plots.
+
+```{r}
+mean(jaccard)
+```
+
+Let's compare with Sorenson's, which is also calculated as a dissimilarity:
+
+```{r}
+taxa_sorenson = vegan::vegdist(data, method = "bray", binary = TRUE)
+taxa_sorenson
+
+```
+
+```{r}
+mean(taxa_sorenson)
+```
+Mean dissimilarity is lower because of the higher weighting on shared species and most plots share a common suite of species.
+
+#### Quantitative Measures
+Quantitative measures take similarities in abundances into account as well as similarities in species lists.
+
+If we want to take similarity in abundance into account as well, we can use the abundance-weighted version of Sorenson, called Bray-Curtis. Like Jaccard and Sorenson, Bray-Curtis gives a value between 0 and 1, with 0 being low dissimilarity and 1 being complete dissimilarity.
+
+$$ BC = \frac{\sum_{i=1}^{S}\left|{n_{ij} - n_{ik}}\right|}{N_{j} + N_{k}}$$
+In this equation, n_ij = abundance of species i at at site J. n_ik = abundance of species i at site k. N_j and N_k are the total abundance of individuals at each site.
+S= number of unique species across both sites
+What the numerator is doing is calculating the differences in abundance across all the species (shared or not shared) and then summing them. If two sites are identical in their species list AND abundances, then the numerator is 0, which means BC=0 and the sites are identical (i.e. not dissimilar). Differences in species list or in the abundance of shared species will accumulate in the numerator.
+
+In extreme cases, taking abundances into account can modify your interpretations to some degree. Imagine 2 communities, and I'll order the species from most to least abundant
+Community One: Species A,B,C,D
+Community Two: Species D,C,B,A
+
+What would a binary index give you?
+*Answer*
+
+Is that what a quantitative measure would give you?
+*Answer*
+
+Let's apply this to our data
+
+```{r}
+taxa_bray = vegan::vegdist(data, method = "bray", binary = FALSE)
+taxa_bray
+```
+This is our matrix of site by site dissimilarity values. Let's compare this to what we got using the binary index Sorenson
+
+```{r}
+plot(taxa_bray, taxa_sorenson)
+```
+If the two metrics gave pretty much identical views on differences btween plots then as the bray-curtis became more dissimilar we would expect sorenson to also increase.They are clearly correlated, but with a lot of scatter. And that scatter is the influence of the abundance differences.
+
+## Your Turn
+Through the tutorial above, I walked you through both how to do these analyses in R and how to think about your results. For class today, I also gave you data for the kangaroo rat exclosure plots. For the rest of class, I want you to replicate what we did above and compare the results from the kangaroo rat exclosures with the control plots, so you can tell me how removing a dominant competitor impacts the taxonomic diversity at my site. When you sit down to address each question, you may see more than one way to tackle the question. Pick the one that seems reasonable to you given the question being asked - that's what we all have to do in ecology because there is rarely only one clearly correct way to approach a question!! 
+#### Read in the data
+```{r}
+
+```
+
+#### 1) Do you see any issues with the data from the kangaroo rat exclosures that suggest those plots are not good samples of the site richness? 
+
+```{r}
+
+```
+
+*Answer*
+
+2) Do plots without kangaroo rats have a higher alpha, beta, or gamma diversity than control plots?
+
+Alpha
+```{r}
+
+```
+*Answer*
+
+Gamma
+```{r}
+
+```
+*Answer*
+
+Beta
+```{r}
+
+```
+*Answer*
+
+3) What about Hill's diversity? Are kangaroo rat plots on average more diverse than control plots?
+```{r}
+
+
+```
+*Answer (include what q(s) you used and why you chose them)*
+
+4) Using Bray-Curtis, answer the question: Are control plots more similar/dissimilar to each other than the kangaroo rat exclosures are to each other? Do you get a difference answer using Jaccard?
+
+```{r}
+
+
+```
+*Answer (include what q(s) you used and why you chose them)*
+
+
+
+
+
+4) Summarize your results for me. What is the impact of removing a dominant competitor on the rodent diversity at my site?
+
