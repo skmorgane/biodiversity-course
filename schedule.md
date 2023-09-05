@@ -2,18 +2,25 @@
 layout: page
 title: Schedule
 ---
-Updated 8/21/2023
+Updated 9/5/2023
 
 ### Classes 1-7: What is biodiversity? How do we quantify it?
 
 #### 1. August 24th Introductions. What does the word biodiversity mean to you?
 * Reading: [Syllabus]({{ site.baseurl }}/syllabus)
 
-#### 2. August 29th Taxonomic Alpha, Beta, Gamma Diversity - Concepts
+#### 2. August 29th Class Cancelled Due to Hurricane Idalia. Rescheduled for August 31st Taxonomic Alpha, Beta, Gamma Diversity - Concepts
 * Reading: [Disentangling the drivers of beta diversity along latitudinal and elevational gradients](https://doi.org/10.1126/science.1208584 )
     * [Questions]({{ site.baseurl }}/questions/AlphaBetaGamma)
    
-#### 3. August 31st Taxonomic Alpha, Beta, Gamma Diversity - Practice
+#### 3. September 5th Phylogenetic and functional diversity - Concepts
+* Reading: [Comparing patterns of taxonomic, functional and phylogeneticdiversity in reef coral communities](https://doi.org/10.1007/s00338-018-1698-6)
+    * Only read the introduction. You can ignore the final two paragraphs of the introduction as well (i.e. you can stop once you hit the paragraph starting "Despite the importance of coral reefs"). 
+* Reading: [Functional diversity (FD), species richness and community composition](https://doi.org/10.1046/j.1461-0248.2002.00339.x)
+    * Only the introduction and the section on "Calculating FD" are required. The rest is optional.
+* [Questions]({{ site.baseurl }}/questions/PD_FD)
+
+#### 4. September 7th Taxonomic Alpha, Beta, Gamma Diversity - Practice
 * Class Activity: Exploring taxonomic diversity. Bring computers.
     * Before class install R (and RStudio is you want to use that) on your laptop.
         * [Instructions]({{ site.baseurl }}/exercises/R_info/R-info)
@@ -21,41 +28,29 @@ Updated 8/21/2023
             * [R workbook]({{ site.baseurl }}/exercises/AlphaBetaGamma/alpha_beta_gamma_2023.Rmd)
 	    * [rodent_controls.csv]({{ site.baseurl }}/exercises/AlphaBetaGamma/rodent_controls.csv)
 	    * [rodent_krats.csv]({{ site.baseurl }}/exercises/AlphaBetaGamma/rodent_krats.csv)
-
         * R Packages to install: vegan  
-
-#### 4. September 5th Phylogenetic and functional diversity - Concepts
-* Reading: [Comparing patterns of taxonomic, functional and phylogeneticdiversity in reef coral communities](https://doi.org/10.1007/s00338-018-1698-6)
-    * Only read the introduction. You can ignore the final two paragraphs of the introduction as well (i.e. you can stop once you hit the paragraph starting "Despite the importance of coral reefs"). 
-* Reading: [Functional diversity (FD), species richness and community composition](https://doi.org/10.1046/j.1461-0248.2002.00339.x)
-    * Only the introduction and the section on "Calculating FD" are required. The rest is optional.
-* [Questions]({{ site.baseurl }}/questions/PD_FD)
-
-#### 5. September 7th Activity: Exploring phylogenetic and functional diversity. Bring computers
-* Same rodent files as last week plus:
-    * [Mammal_supertree.tre]({{ site.baseurl }}/exercises/PD_FD/Mammal_supertree_2007.tre)
-    * [rodent_wgts.csv]({{ site.baseurl }}/exercises/PD_FD/rodent_wgts.csv)
-    * R packages to install: picante, ape 
     
-#### 6 September 12th Biodiversity Change: Data, Definitions, and Gaps in Knowledge
-* Reading: [Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss](https://doi.org/10.1126/science.1248484)
-    * [Questions]({{ site.baseurl }}/questions/Biodiversitydata)
-
-#### 7. September 14th Identifying Gaps in Knowledge 
-* Group Project Topic Development
-    * Topic-a-rama
-
 ### Weeks 8-13: Local-scale Biodiversity Patterns & Processes
     
-#### 8. September 19th Local Processes- Niches and Biotic and Environmental Filters
+#### 7 September 12th Local Processes- Niches and Biotic and Environmental Filters
 * Reading: [Rethinking Community Assembly through the Lens of Coexistence Theory](https://doi.org/10.1146/annurev-ecolsys-110411-160411)
 Read Section 1 (INTRODUCTION), Section 2 (CONTEMPORARY COEXISTENCE THEORY AND COMMUNITY ASSEMBLY), and the subsection of Section 3 titled “Trait-Phylogeny-Environment Relationships” (feel free to skip section 3.1, but read Sections 3.2, 3.2.1, 3.2.2, 3.2.3).
     * [Questions]({{ site.baseurl }}/questions/coexistence) 
 
-#### 9. September 21st Local Processes - The role of Stochasticity and History
+#### 5 September 14th Activity: Exploring phylogenetic and functional diversity. Bring computers
+* Same rodent files as last week plus:
+    * [Mammal_supertree.tre]({{ site.baseurl }}/exercises/PD_FD/Mammal_supertree_2007.tre)
+    * [rodent_wgts.csv]({{ site.baseurl }}/exercises/PD_FD/rodent_wgts.csv)
+    * R packages to install: picante, ape
+
+#### 9. September 19th Local Processes - The role of Stochasticity and History
 * Reading: [Drought mediates the importance of stochastic community assembly](https://doi.org/10.1073/pnas.0704350104 )
     * [Questions]({{ site.baseurl }}/questions/stochastic) 
     * Class Activity: (10/1) Group Project (Working on topic development)
+    * 
+#### 8. September 21th Identifying Gaps in Knowledge 
+* Group Project Topic Development
+    * Topic-a-rama
 
 #### 10. September 26th Local Taxonomic, Phylogenetic, and Functional Diversity
 * Reading: [Spatial mismatch and congruence between taxonomic, phylogenetic and functional diversity: the need for integrative conservation strategies in a changing world](https://doi.org/10.1111/j.1461-0248.2010.01493.x)
