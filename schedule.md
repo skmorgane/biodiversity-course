@@ -46,12 +46,11 @@ Read Section 1 (INTRODUCTION), Section 2 (CONTEMPORARY COEXISTENCE THEORY AND CO
 #### 9. September 19th Local Processes - The role of Stochasticity and History
 * Reading: [Drought mediates the importance of stochastic community assembly](https://doi.org/10.1073/pnas.0704350104 )
     * [Questions]({{ site.baseurl }}/questions/stochastic) 
-    * Class Activity: (10/1) Group Project (Working on topic development)
-    * 
+
 #### 8. September 21th Identifying Gaps in Knowledge 
 * Group Project Topic Development
-    * Topic-a-rama
-
+    * Topic-a-rama: Class Activity: (10/1) Group Project (Forming groups)
+      
 #### 10. September 26th Local Taxonomic, Phylogenetic, and Functional Diversity
 * Reading: [Spatial mismatch and congruence between taxonomic, phylogenetic and functional diversity: the need for integrative conservation strategies in a changing world](https://doi.org/10.1111/j.1461-0248.2010.01493.x)
 * [Questions]({{ site.baseurl }}/questions/class7) 
