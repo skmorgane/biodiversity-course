@@ -35,19 +35,19 @@ To work collaboratively on understanding an area of biodiversity knowledge and i
 ## Deadlines
 We will be working all semester on the group projects. This work is broken into 4 stages to help students make gradual progress on the project over the course of the semester.These four stages are: 1) Group Formation, 2) Identifying the challenge your group is tackling, 3) Researching the topic, 4) Writing the Introduction. Deadlines and some milestones are designed to help you make sure you're on track with your group project. For more information on what you need to do, click on the associated link for each item. More detailed information for each milestone/deadline can be found on the course Canvas page
 
-*9/13*: Post on Discussion Board a general topic you are interested in. 
+*9/24*: Post on Discussion Board a general topic you are interested in. 
 
-*9/14*: Before class, read the research ideas on the project discussion board.
+*9/26*: Before class, read the research ideas on the project discussion board and comment on at least two.
 
-*9/21* Finalize Groups: send group member names and topic area keywords to Morgan
+*10/1* Finalize Groups: send group member names and topic area keywords to Morgan
 
-9/21-10/19 Work on understanding your topic area and interests - what about your keywords are you interested in better understanding? Why do you think better understanding it is important?
+9/26-10/18 Work on understanding your topic area and interests - what about your keywords are you interested in better understanding? Why do you think better understanding it is important?
 
-*10/19* Submit a rough draft of your 1st paragraph the 1st paragraph to Morgan. This isn't your final version and it will only be graded as done/not done. The goal is to make sure you and your group have a cohesive idea of your topic and to give Morgan a chance to discuss any concerns with topic choice.
+*10/18* Submit an outline of your introduction through Canvas. It's okay if the structure ends up shifting once your role up your sleeves, but if you put thought into the outline it will generally hold up and serve as a useful counterbalance to "blank page syndrome". In addition to aiding you in your writing process, it will help Morgan assess if you have a cohesive idea of your topic and a chance to discuss any concerns with topic choice.
 
-10/19-11/9 Work on understanding the gap in knowledge related to you topic. As you read the literature think about what is known and what is not known. Work on your 2nd and 3rd paragraphs - What is known about your topic? and What don't we know and why might it be important? Remember, this shouldn't be an exhaustive book report on the topic. Pick the things that help the reader understand how the field has been thinking about the topic and set the reader up to understand why not knowing the thing you've identified might be important.
+10/19-11/5 Work on understanding the gap in knowledge related to you topic. As you read the literature think about what is known and what is not known. Work on your 2nd and 3rd paragraphs - What is known about your topic? and What don't we know and why might it be important? Remember, this shouldn't be an exhaustive book report on the topic. Pick the things that help the reader understand how the field has been thinking about the topic and set the reader up to understand why not knowing the thing you've identified might be important.
 
-11/9-11/30 Why does the gap in knowledge exist? Your group should be trying to understand why this unsolved question/issue exists today. Is there some limitation (data regulations, societal constraints, technology) that has prevented it from being addressed?
+11/5-11/30 Why does the gap in knowledge exist? What would a research paper need to do/have to fill that gap in knowledge? Your group should be trying to understand why this unsolved question/issue exists today. Is there some limitation (data regulations, societal constraints, technology) that has prevented it from being addressed? Answering these questions will lead you to writing your fourth and fifth paragraphs. 
 
 11/30-12/11 Finish writing the introduction. By this point you should have all the pieces (and perhaps some bullet points or drafts).
 
@@ -55,10 +55,11 @@ We will be working all semester on the group projects. This work is broken into 
     What do we know about the topic area? What things influence it or explain it?
     What don't know we know  and why might it be important to know it?
     Why don't we know it already?
+    Here we... do what to advance our knowledge?
   
 *12/11* Submit your introduction!
 
 ## Grading
 
-Your grade is based on communicating the information that makes an introduvtion effective. Have you communicated what the topic area is and why its important? Can the reader understand the current state of understanding on the topic? Is a gap in knowledge well articulated? Has the reason for the gap been explained?
+Your grade is based on communicating the information that makes an introduction effective. Have you communicated what the topic area is and why its important? Can the reader understand the current state of understanding on the topic? Is a gap in knowledge well articulated? Has the reason for the gap been explained? 
 
