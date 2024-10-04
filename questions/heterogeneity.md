@@ -2,12 +2,13 @@
 layout: nil
 title: Heterogeneity Questions
 ---
-* What are the different scales of environmental heterogeneity discussed in Frankenpaper?
-    * How have we been thinking about environmental heterogeneity in this class before today?
-* How do we think environmental heterogeneity at these different scales influences biodiversity?
-* How does ecology actually quantify environmental heterogeneity? Do you think we're doing it in ways that reflect how we think about it conceptually?
-* Does the meta-analysis support the idea in our field about the relationship between environmental heterogeneity and biodiversity?
-* One of the things landscape ecology studies is role of the configuration of the landscape. What is in the perspective of the landscape that is missing from the ways environmental heterogeneity is being quantified in the studies Stein et al compiled?
-* Why might this aspect of environmental heterogeneity be important?
-* How are area and heterogeneity related?
-* Why is the niche width of a species important for understanding how biodiversity responds to increasingly complex environments?
+
+Read: Introduction, New Perspectives on the Heterogeneity-diveristy relationship, A conceptual framework for heterogeneity-diversity relationships
+
+1. From a niche perspective, why is environmental heterogeneity thought to be positively related to biodiversity?
+2. Why is habitat fragmentation thought to be negatively correlated with biodiversity?
+3. Jargon check: what is compositional and configurational heterogeneity?
+4. How are environmental heterogeneity and habitat fragmentation related to each other?
+5. What is niche width and how does it impact how a species might respond to increased envirinmental heterogeneity?
+6. What is dispersal range and how does it impact how a species might respond to increased environmental heterogeneity?
+
